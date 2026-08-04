@@ -1,0 +1,6 @@
+﻿file_path,file_name,status,file_type,parse_method,chunk_count,avg_token_per_chunk,school_detected,year_detected,doc_type,has_ocr,char_count_raw,char_count_clean,needs_review,error_msg,processed_at
+11 GPA/11.1 AP/广东_HFI/HFI Student Handbook 2021-22 v1.1.doc,HFI Student Handbook 2021-22 v1.1.doc,success,.doc,mammoth,28,823,广东_HFI,2021,课程介绍,False,128656,120005,False,,2026-06-04
+12 标化考试/机构推荐.xlsx,机构推荐.xlsx,success,.xlsx,openpyxl-row2text,6,166,通用,unknown,课程介绍,False,0,1008,False,,2026-06-04
+11 GPA/11.1 AP/广东_碧桂园/碧桂园竞赛&学院活动规划.xlsx,碧桂园竞赛&学院活动规划.xlsx,success,.xlsx,openpyxl-row2text,58,557,广东_碧桂园,unknown,课程介绍,False,0,33246,False,,2026-06-04
+11 GPA/11.1 AP/上海_星河湾/2022学年 新高二 数学 AP 限定选修 选修课程 选课单.xlsx,2022学年 新高二 数学 AP 限定选修 选修课程 选课单.xlsx,success,.xlsx,openpyxl-row2text,2,130,上海_星河湾,2022,课程介绍,False,0,275,False,,2026-06-04
+11 GPA/11.1 AP/广东_贝赛斯国际学校/BASIS 长期科研项目/附件1：2022-2023BIBS·C国际竞赛训练营各校区开设列表.xlsx,附件1：2022-2023BIBS·C国际竞赛训练营各校区开设列表.xlsx,success,.xlsx,openpyxl-row2text,11,846,广东_贝赛斯国际学校,2022,课程介绍,False,0,19625,False,,2026-06-04

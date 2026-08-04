@@ -1,0 +1,34 @@
+﻿file_path,file_name,status,file_type,parse_method,chunk_count,avg_token_per_chunk,school_detected,year_detected,doc_type,has_ocr,char_count_raw,char_count_clean,needs_review,error_msg,processed_at
+11 GPA/[School Name] Notes - 2022 update.docx,[School Name] Notes - 2022 update.docx,success,.docx,python-docx,4,41,通用,2022,顾问笔记,False,191,191,False,,2026-06-04
+11 GPA/11.3 IB/All about IB.docx,All about IB.docx,success,.docx,python-docx,22,353,通用,unknown,课程介绍,False,7331,7498,False,,2026-06-04
+11 GPA/11.1 AP/All About AP.docx,All About AP.docx,success,.docx,python-docx,17,504,通用,unknown,课程介绍,False,8265,8920,False,,2026-06-04
+11 GPA/11.2 A-Level/All about A-Level.docx,All about A-Level.docx,success,.docx,python-docx,12,489,通用,unknown,课程介绍,False,6075,6436,False,,2026-06-04
+11 GPA/11.2 A-Level/深圳_深国交/深国交 Notes - 2022 Update.docx,深国交 Notes - 2022 Update.docx,success,.docx,python-docx,5,178,深圳_深国交,2022,顾问笔记,False,1195,1195,False,,2026-06-04
+11 GPA/11.2 A-Level/南外中英班/南京外国语中英班notes.docx,南京外国语中英班notes.docx,success,.docx,python-docx,2,651,南外中英班,unknown,顾问笔记,False,1198,1290,False,,2026-06-04
+11 GPA/11.1 AP/广东_碧桂园/碧桂园AP Notes - 2022 update.docx,碧桂园AP Notes - 2022 update.docx,success,.docx,python-docx,5,368,广东_碧桂园,2022,顾问笔记,False,2010,2010,False,,2026-06-04
+11 GPA/11.1 AP/山东_省实验国际部/山东省实验国际部notes -2022 Updates.docx,山东省实验国际部notes -2022 Updates.docx,success,.docx,python-docx,4,172,山东_省实验国际部,2022,顾问笔记,False,762,762,False,,2026-06-04
+11 GPA/11.1 AP/上海_星河湾/星河湾 notes.docx,星河湾 notes.docx,success,.docx,python-docx,2,664,上海_星河湾,unknown,顾问笔记,False,1393,1479,False,,2026-06-04
+11 GPA/11.1 AP/上海_星河湾/上海星河湾 Notes - 2022 update.docx,上海星河湾 Notes - 2022 update.docx,success,.docx,python-docx,7,251,上海_星河湾,2022,顾问笔记,False,1917,1917,False,,2026-06-04
+11 GPA/11.1 AP/广东_深圳中学/深圳中学Notes - 2022 update.docx,深圳中学Notes - 2022 update.docx,success,.docx,python-docx,4,274,广东_深圳中学,2022,顾问笔记,False,1551,1551,False,,2026-06-04
+11 GPA/11.1 AP/上海_平和 IEP/上海平和 IEP 班 Notes.docx,上海平和 IEP 班 Notes.docx,success,.docx,python-docx,1,255,上海_平和 IEP,unknown,顾问笔记,False,325,325,False,,2026-06-04
+11 GPA/11.1 AP/上海_华二国际部/华二APnotes -  2022 Updates.docx,华二APnotes -  2022 Updates.docx,success,.docx,python-docx,1,756,上海_华二国际部,2022,顾问笔记,False,1065,1065,False,,2026-06-04
+11 GPA/11.1 AP/广东_HFI/HFI Notes.docx,HFI Notes.docx,success,.docx,python-docx,2,626,广东_HFI,unknown,顾问笔记,False,1239,1367,False,,2026-06-04
+11 GPA/11.1 AP/广东_HFI/HFI Notes - 2022 update.docx,HFI Notes - 2022 update.docx,success,.docx,python-docx,8,722,广东_HFI,2022,顾问笔记,False,5566,6301,False,,2026-06-04
+11 GPA/11.1 AP/青岛_博格斯/【Notes】青岛博格斯 .docx,【Notes】青岛博格斯 .docx,success,.docx,python-docx,3,643,青岛_博格斯,unknown,顾问笔记,False,1862,2059,False,,2026-06-04
+11 GPA/11.1 AP/广东_实验中学国际部/广东省实验AP Notes - 2022 update 1.docx,广东省实验AP Notes - 2022 update 1.docx,success,.docx,python-docx,4,272,广东_实验中学国际部,2022,顾问笔记,False,1085,1085,False,,2026-06-04
+11 GPA/11.1 AP/合肥一中美高部/合肥一中国际部Notes - 2022 Updates.docx,合肥一中国际部Notes - 2022 Updates.docx,success,.docx,python-docx,4,214,合肥一中美高部,2022,顾问笔记,False,926,926,False,,2026-06-04
+11 GPA/11.1 AP/广东_贝赛斯国际学校/广州贝赛斯 Notes - 2022 Updates.docx,广州贝赛斯 Notes - 2022 Updates.docx,success,.docx,python-docx,6,357,广东_贝赛斯国际学校,2022,顾问笔记,False,2785,2927,False,,2026-06-04
+11 GPA/11.3 IB/广东_碧桂园/碧桂园IB Notes - 2022 update.docx,碧桂园IB Notes - 2022 update.docx,success,.docx,python-docx,4,360,广东_碧桂园,2022,顾问笔记,False,1717,1717,False,,2026-06-04
+11 GPA/11.3 IB/UWC 常熟/UWC Notes.docx,UWC Notes.docx,success,.docx,python-docx,1,535,UWC 常熟,unknown,顾问笔记,False,582,582,False,,2026-06-04
+11 GPA/11.3 IB/UWC 常熟/UWC Changshu Notes - 2022 update.docx,UWC Changshu Notes - 2022 update.docx,success,.docx,python-docx,5,372,UWC 常熟,2022,顾问笔记,False,2829,2829,False,,2026-06-04
+11 GPA/11.3 IB/上海_包玉刚实验学校/包玉刚 Notes - 2022 update.docx,包玉刚 Notes - 2022 update.docx,success,.docx,python-docx,7,239,上海_包玉刚实验学校,2022,顾问笔记,False,1807,1807,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/平和IB Notes - 2022 update.docx,平和IB Notes - 2022 update.docx,success,.docx,python-docx,9,168,上海_平和 IB,2022,顾问笔记,False,1971,1971,False,,2026-06-04
+11 GPA/11.3 IB/上海_上中国际/上中（IB）- Notes 2022.docx,上中（IB）- Notes 2022.docx,success,.docx,python-docx,4,336,上海_上中国际,2022,顾问笔记,False,1475,1475,False,,2026-06-04
+11 GPA/11.3 IB/上海_世外/世外Notes - 2022 Updates.docx,世外Notes - 2022 Updates.docx,success,.docx,python-docx,7,254,上海_世外,2022,顾问笔记,False,2017,2139,False,,2026-06-04
+12 标化考试/12.2 SAT&ACT/标化考试Standardized Test.docx,标化考试Standardized Test.docx,success,.docx,python-docx,4,207,通用,unknown,标化资料,False,1013,1013,False,,2026-06-04
+12 标化考试/12.1 TOEFL&IELTS/TOEFL 写作/写作八大话题语料积累.docx,写作八大话题语料积累.docx,success,.docx,python-docx,35,760,通用,unknown,标化资料,False,44626,49969,False,,2026-06-04
+12 标化考试/12.1 TOEFL&IELTS/托福真题/20161203/120316 (R).docx,120316 (R).docx,success,.docx,python-docx,12,524,通用,2031,标化资料,False,28212,31250,False,,2026-06-04
+12 标化考试/12.1 TOEFL&IELTS/托福真题/20161203/12月16年.docx,12月16年.docx,success,.docx,python-docx,2,68,通用,unknown,标化资料,False,370,190,False,,2026-06-04
+12 标化考试/12.1 TOEFL&IELTS/托福真题/20161203/120316 (S).docx,120316 (S).docx,success,.docx,python-docx,6,69,通用,2031,标化资料,False,2109,2109,False,,2026-06-04
+12 标化考试/12.1 TOEFL&IELTS/托福真题/20161203/120316 (W).docx,120316 (W).docx,success,.docx,python-docx,6,137,通用,2031,标化资料,False,4006,4006,False,,2026-06-04
+12 标化考试/12.1 TOEFL&IELTS/托福真题/20161203/120316 (L).docx,120316 (L).docx,success,.docx,python-docx,5,482,通用,2031,标化资料,False,11357,11357,False,,2026-06-04

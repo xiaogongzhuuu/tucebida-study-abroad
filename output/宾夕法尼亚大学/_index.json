@@ -1,0 +1,45 @@
+{
+  "school": "宾夕法尼亚大学",
+  "curriculum": "通用",
+  "folder_path": "03-院校库/美国-常青藤",
+  "processed_files": [
+    {
+      "file": "宾夕法尼亚大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_宾夕法尼亚大学_0007",
+        "wiki_宾夕法尼亚大学_0008",
+        "wiki_宾夕法尼亚大学_0009",
+        "wiki_宾夕法尼亚大学_0010",
+        "wiki_宾夕法尼亚大学_0011",
+        "wiki_宾夕法尼亚大学_0012"
+      ]
+    },
+    {
+      "file": "宾夕法尼亚大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_宾夕法尼亚大学_0007",
+        "wiki_宾夕法尼亚大学_0008",
+        "wiki_宾夕法尼亚大学_0009",
+        "wiki_宾夕法尼亚大学_0010",
+        "wiki_宾夕法尼亚大学_0011",
+        "wiki_宾夕法尼亚大学_0012"
+      ]
+    },
+    {
+      "file": "宾夕法尼亚大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_宾夕法尼亚大学_0006",
+        "wiki_宾夕法尼亚大学_0007",
+        "wiki_宾夕法尼亚大学_0008",
+        "wiki_宾夕法尼亚大学_0009",
+        "wiki_宾夕法尼亚大学_0010"
+      ]
+    }
+  ],
+  "reference_links": [],
+  "skipped_files": [],
+  "last_updated": "2026-06-08"
+}

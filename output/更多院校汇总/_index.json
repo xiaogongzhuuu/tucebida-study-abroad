@@ -1,0 +1,45 @@
+{
+  "school": "更多院校汇总",
+  "curriculum": "通用",
+  "folder_path": "03-院校库/美国-顶尖大学",
+  "processed_files": [
+    {
+      "file": "更多院校汇总.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_更多院校汇总_0042",
+        "wiki_更多院校汇总_0043",
+        "wiki_更多院校汇总_0044",
+        "wiki_更多院校汇总_0045",
+        "wiki_更多院校汇总_0046",
+        "wiki_更多院校汇总_0047"
+      ]
+    },
+    {
+      "file": "更多院校汇总.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_更多院校汇总_0042",
+        "wiki_更多院校汇总_0043",
+        "wiki_更多院校汇总_0044",
+        "wiki_更多院校汇总_0045",
+        "wiki_更多院校汇总_0046",
+        "wiki_更多院校汇总_0047"
+      ]
+    },
+    {
+      "file": "更多院校汇总.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_更多院校汇总_0034",
+        "wiki_更多院校汇总_0035",
+        "wiki_更多院校汇总_0036",
+        "wiki_更多院校汇总_0037",
+        "wiki_更多院校汇总_0038"
+      ]
+    }
+  ],
+  "reference_links": [],
+  "skipped_files": [],
+  "last_updated": "2026-06-08"
+}

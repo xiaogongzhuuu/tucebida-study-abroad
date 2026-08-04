@@ -1,0 +1,45 @@
+{
+  "school": "布朗大学",
+  "curriculum": "通用",
+  "folder_path": "03-院校库/美国-常青藤",
+  "processed_files": [
+    {
+      "file": "布朗大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_布朗大学_0013",
+        "wiki_布朗大学_0014",
+        "wiki_布朗大学_0015",
+        "wiki_布朗大学_0016",
+        "wiki_布朗大学_0017",
+        "wiki_布朗大学_0018"
+      ]
+    },
+    {
+      "file": "布朗大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_布朗大学_0013",
+        "wiki_布朗大学_0014",
+        "wiki_布朗大学_0015",
+        "wiki_布朗大学_0016",
+        "wiki_布朗大学_0017",
+        "wiki_布朗大学_0018"
+      ]
+    },
+    {
+      "file": "布朗大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_布朗大学_0011",
+        "wiki_布朗大学_0012",
+        "wiki_布朗大学_0013",
+        "wiki_布朗大学_0014",
+        "wiki_布朗大学_0015"
+      ]
+    }
+  ],
+  "reference_links": [],
+  "skipped_files": [],
+  "last_updated": "2026-06-08"
+}

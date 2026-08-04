@@ -1,0 +1,41 @@
+{
+  "school": "达特茅斯学院",
+  "curriculum": "通用",
+  "folder_path": "03-院校库/美国-常青藤",
+  "processed_files": [
+    {
+      "file": "达特茅斯学院.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_达特茅斯学院_0031",
+        "wiki_达特茅斯学院_0032",
+        "wiki_达特茅斯学院_0033",
+        "wiki_达特茅斯学院_0034",
+        "wiki_达特茅斯学院_0035"
+      ]
+    },
+    {
+      "file": "达特茅斯学院.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_达特茅斯学院_0031",
+        "wiki_达特茅斯学院_0032",
+        "wiki_达特茅斯学院_0033",
+        "wiki_达特茅斯学院_0034",
+        "wiki_达特茅斯学院_0035"
+      ]
+    },
+    {
+      "file": "达特茅斯学院.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_达特茅斯学院_0026",
+        "wiki_达特茅斯学院_0027",
+        "wiki_达特茅斯学院_0028"
+      ]
+    }
+  ],
+  "reference_links": [],
+  "skipped_files": [],
+  "last_updated": "2026-06-08"
+}

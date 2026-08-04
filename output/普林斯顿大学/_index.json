@@ -1,0 +1,45 @@
+{
+  "school": "普林斯顿大学",
+  "curriculum": "通用",
+  "folder_path": "03-院校库/美国-常青藤",
+  "processed_files": [
+    {
+      "file": "普林斯顿大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_普林斯顿大学_0019",
+        "wiki_普林斯顿大学_0020",
+        "wiki_普林斯顿大学_0021",
+        "wiki_普林斯顿大学_0022",
+        "wiki_普林斯顿大学_0023",
+        "wiki_普林斯顿大学_0024"
+      ]
+    },
+    {
+      "file": "普林斯顿大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_普林斯顿大学_0019",
+        "wiki_普林斯顿大学_0020",
+        "wiki_普林斯顿大学_0021",
+        "wiki_普林斯顿大学_0022",
+        "wiki_普林斯顿大学_0023",
+        "wiki_普林斯顿大学_0024"
+      ]
+    },
+    {
+      "file": "普林斯顿大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_普林斯顿大学_0016",
+        "wiki_普林斯顿大学_0017",
+        "wiki_普林斯顿大学_0018",
+        "wiki_普林斯顿大学_0019",
+        "wiki_普林斯顿大学_0020"
+      ]
+    }
+  ],
+  "reference_links": [],
+  "skipped_files": [],
+  "last_updated": "2026-06-08"
+}

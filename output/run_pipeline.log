@@ -1,0 +1,2019 @@
+[18:44:32] === run_pipeline.py 开始 2026-06-09 18:44:32 ===
+[18:44:32] skip_list: 147 个，已处理记录: 0 个
+[18:44:32] 扫描目录（OCR PDF 检测中，< 1s/PDF）…
+[18:44:32] [警告] 目录不存在: /path/to/8gb/docs
+[18:44:32] 扫描完成：0 普通文件，0 OCR PDF，跳过 0 个
+[18:44:32] dry-run 完成，未处理任何文件。
+[18:46:12] === run_pipeline.py 开始 2026-06-09 18:46:12 ===
+[18:46:12] skip_list: 147 个，已处理记录: 0 个
+[18:46:12] 扫描目录（OCR PDF 检测中，< 1s/PDF）…
+[18:46:14] 扫描 ../途策 知识库（3362 个路径，1291 个 PDF 需 OCR 检测）
+[18:46:15] 扫描完成：2540 普通文件，0 OCR PDF，跳过 144 个
+[18:46:15] dry-run 完成，未处理任何文件。
+[19:02:54] === run_pipeline.py 开始 2026-06-09 19:02:54 ===
+[19:02:54] skip_list: 147 个，已处理记录: 0 个
+[19:02:54] 扫描目录（OCR PDF 检测中，< 1s/PDF）…
+[19:02:54] 扫描 ../途策 知识库（3368 个路径，1291 个 PDF 需 OCR 检测）
+[19:02:54] [跳过重复] AP 2021 Exam Dates - AP Central _ College Board(1).pdf
+[19:02:54] [跳过重复] AP Student-Score-Distributions-2020(1).pdf
+[19:02:54] [跳过重复] All About AP(1).docx
+[19:02:54] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[19:02:54] [跳过重复] 【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？(1).pdf
+[19:02:54] [跳过重复] 公办AP的佼佼者——华二国课班(1).pdf
+[19:02:54] [跳过重复] 华东师大二附中2021届毕业生海外名校申请结果出炉！(1).pdf
+[19:02:54] [跳过重复] 华二APnotes -  2022 Updates(1).docx
+[19:02:54] [跳过重复] 成绩单样式(1).pdf
+[19:02:54] [跳过重复] 2022IEP升学信息(1).pdf
+[19:02:54] [跳过重复] Trancript Sample(1).pdf
+[19:02:54] [跳过重复] 上海平和 IEP 班 Notes(1).docx
+[19:02:54] [跳过重复] 2017年 星河湾 申请录取结果(1).pdf
+[19:02:54] [跳过重复] 2018年 星河湾 申请录取结果(1).pdf
+[19:02:54] [跳过重复] 2019年 星河湾 申请录取结果(1).pdf
+[19:02:54] [跳过重复] 2020年 星河湾 申请录取结果(1).pdf
+[19:02:54] [跳过重复] 2022学年 新高二 数学 AP 限定选修 选修课程 选课单(1).xlsx
+[19:02:54] [跳过重复] School Transcript(1).pdf
+[19:02:54] [跳过重复] 上海星河湾 AP school profile(1).pdf
+[19:02:54] [跳过重复] 上海星河湾 Notes - 2022 update(1).docx
+[19:02:54] [跳过重复] 星河湾 2017 - 2020 申请结果 文章链接(1).txt
+[19:02:54] [跳过重复] 星河湾 notes(1).docx
+[19:02:54] [跳过重复] HSPDCourseCatalog2223Feb16(1).pdf
+[19:02:54] [跳过重复] UpdatedPXCatalog(1).pdf
+[19:02:54] [跳过重复] school profile-Class 2022(1).pdf
+[19:02:54] [跳过重复] 合肥一中国际部Notes - 2022 Updates(1).docx
+[19:02:54] [跳过重复] 成绩单示例(1).pdf
+[19:02:54] [跳过重复] 山东省实验国际部notes -2022 Updates(1).docx
+[19:02:54] [跳过重复] 成绩单样式(1).pdf
+[19:02:54] [跳过重复] 2021 St induction (AP11 & AP12)(1).pdf
+[19:02:54] [跳过重复] 2023 PeerBuddy Course Registration Guide 选课指南(1).pdf
+[19:02:54] [跳过重复] HFI - 学生手册选课必看部分(1).pdf
+[19:02:54] [跳过重复] HFI - 学生手册选课必看部分_批注(1).pdf
+[19:02:54] [跳过重复] HFI AP Course Choices(1).pdf
+[19:02:54] [跳过重复] HFI Notes - 2022 update(1).docx
+[19:02:54] [跳过重复] HFI Notes(1).docx
+[19:02:54] [跳过重复] HFI School Profile 2021-202109(1).pdf
+[19:02:54] [跳过重复] HFI Student Handbook 2020-21 v1.3-Section-4(1).pdf
+[19:02:54] [跳过重复] HFI Student Handbook 2021-22 v1.1(1).doc
+[19:02:54] [跳过重复] AP USH+Assessment+Summary-+Reilly(1).docx
+[19:02:54] [跳过重复] G11_AP Calculus BC Syllabus 2021-2022(1).pdf
+[19:02:54] [跳过重复] G11_AP ES_Assessment(1).pdf
+[19:02:54] [跳过重复] G11_AP HG_Assessment(1).pdf
+[19:02:54] [跳过重复] G11_World History Assessment Summary 2021-22(1).docx
+[19:02:54] [跳过重复] HFI G11 A.P.+Euro History(1).docx
+[19:02:54] [跳过重复] 22.06.01 线上分享会(对外)(1).pdf
+[19:02:54] [跳过重复] 2021 高一选课说明_Final_6.18(1).pdf
+[19:02:54] [跳过重复] [1] 20220430 高二动员大会重要事项(1)(1).pdf
+[19:02:54] [跳过重复] [2] 2022本科申请材料清单-SSAP(1)(1)(1).xlsx
+[19:02:54] [跳过重复] [3] 2022本科申请材料清单-SSAP-详细说明(1)(1)(1).docx
+[19:02:54] [跳过重复] 广东省实验AP Notes - 2022 update 1(1).docx
+[19:02:54] [跳过重复] 20220505家长会分享版（含2022录取结果）(1).pdf
+[19:02:54] [跳过重复] 深圳中学2013~2019录取数据(1).docx
+[19:02:54] [跳过重复] 深圳中学Notes - 2022 update(1).docx
+[19:02:54] [跳过重复] 碧桂园 AP G1-G3选课说明(1).pdf
+[19:02:54] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[19:02:54] [跳过重复] 碧桂园AP Notes - 2022 update(1).docx
+[19:02:54] [跳过重复] 碧桂园竞赛&学院活动规划(1).xlsx
+[19:02:54] [跳过重复] 附件1：2022-2023BIBS·C国际竞赛训练营各校区开设列表(1).xlsx
+[19:02:54] [跳过重复] 附件1：Projects Introduction of Long-term Research Program(1).pdf
+[19:02:54] [跳过重复] 附件2：Instructor Introduction of Long-term Research Program(1).pdf
+[19:02:54] [跳过重复] 附件2：商赛、经济、综合类师资介绍Teachers for Business Economics Competition(1).pdf
+[19:02:54] [跳过重复] 附件3：Introduction of 2023 BIBS · C Team Recruitment of iGEM(1).pdf
+[19:02:54] [跳过重复] 附件3：数、理、生竞赛师资介绍Teachers for MATH PHISICS&BIO(1).pdf
+[19:02:54] [跳过重复] 附件4：Introduction of 2022 Southern BIBS·C Schools Team Recruitment of HiMCM(1).pdf
+[19:02:54] [跳过重复] 附件4：计算机类竞赛师资介绍Teachers For Computer Science(1).pdf
+[19:02:54] [跳过重复] 附件5：Study Arrangement of Each Project(1).pdf
+[19:02:54] [跳过重复] BIGZ Senior Project 2022-23(1).pdf
+[19:02:54] [跳过重复] G10_Elective Catalog_2022-23(1).pdf
+[19:02:54] [跳过重复] Grade 10 Course Selection 2022-2023(1).pdf
+[19:02:54] [跳过重复] 广州贝赛斯 Notes - 2022 Updates(1).docx
+[19:02:54] [跳过重复] 2021-2022 Student Handbook(1).pdf
+[19:02:54] [跳过重复] AP Micro 2016(1).pdf
+[19:02:54] [跳过重复] AP Micro 2017(1).pdf
+[19:02:54] [跳过重复] AP Micro 2018(1).pdf
+[19:02:54] [跳过重复] AP Micro 2019(1).pdf
+[19:02:54] [跳过重复] CCOSchoolProfile(1).pdf
+[19:02:54] [跳过重复] JHU录取(1).pdf
+[19:02:54] [跳过重复] 南开国际课程中心毕业生就读学校统计（2010-2019）(1).pdf
+[19:02:54] [跳过重复] 对话南开学子蔡向濛丨走进美国斯坦福大学的法宝：良师、良友、良机(1).pdf
+[19:02:54] [跳过重复] 斯坦福牛津Case(1).pdf
+[19:02:54] [跳过重复] 重庆南开中学国际课程中心2020届录取汇总(1).pdf
+[19:02:54] [跳过重复] 2019_范德堡大学ED教育学_Jerry(1).pdf
+[19:02:54] [跳过重复] 2019年录取结果(1).pdf
+[19:02:54] [跳过重复] 2020_UWM & 伦斯特理工(1).pdf
+[19:02:54] [跳过重复] 2020_南加大和佐治亚理工_Alice(1).pdf
+[19:02:54] [跳过重复] 21.03.06线上家长会--crystal(1).pdf
+[19:02:54] [跳过重复] Bojing Yu - CA - OSU(1).pdf
+[19:02:54] [跳过重复] Haotong Wang - CA - UW-M(1).pdf
+[19:02:54] [跳过重复] Haowen Jiang - CA - NYU(1).pdf
+[19:02:54] [跳过重复] Songyu Han - CA - CMU(1).pdf
+[19:02:54] [跳过重复] Xiaoyu Qiu - CA - USC(1).pdf
+[19:02:54] [跳过重复] 成绩单 Semester(1).pdf
+[19:02:54] [跳过重复] 青岛博格思加州学校国际高中班招生简章(1).pdf
+[19:02:54] [跳过重复] All about A-Level(1).docx
+[19:02:54] [跳过重复] CIE-2021-timetable-zone-5(1).pdf
+[19:02:54] [跳过重复] 南京外国语中英班notes(1).docx
+[19:02:54] [跳过重复] 2018录取结果(1).pdf
+[19:02:54] [跳过重复] 2019录取结果(1).pdf
+[19:02:54] [跳过重复] 2020录取结果(1).pdf
+[19:02:54] [跳过重复] 2021录取结果(1).pdf
+[19:02:54] [跳过重复] 2022-2023 A1_Options_book(1).pdf
+[19:02:54] [跳过重复] The school profile – Shenzhen College of International Education(1).pdf
+[19:02:54] [跳过重复] 家长版-深国交4年案例(1).pdf
+[19:02:54] [跳过重复] 成绩单(1).pdf
+[19:02:54] [跳过重复] 深国交 Notes - 2022 Update(1).docx
+[19:02:54] [跳过重复] 深国交2023美本录取发布(1).pdf
+[19:02:54] [跳过重复] 深国交社团表(1).xlsx
+[19:02:54] [跳过重复] 220404 浑朴毕业生学术分享会 IB TOK(1).pdf
+[19:02:54] [跳过重复] All about IB(1).docx
+[19:02:54] [跳过重复] Math IA step 1(1).pdf
+[19:02:54] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[19:02:54] [跳过重复] Semester_One_Reports_2020-2021(1).pdf
+[19:02:54] [跳过重复] Semester_Two_Reports_2020-2021(1).pdf
+[19:02:54] [跳过重复] Service Stream Zhi Xing Activity 2021-2022_Intro(1).docx
+[19:02:54] [跳过重复] Teresa Chen DP1 Transcript_2020-2021-1(1).pdf
+[19:02:54] [跳过重复] UWC Changshu Notes - 2022 update(1).docx
+[19:02:54] [跳过重复] UWC Notes(1).docx
+[19:02:54] [跳过重复] UWC 常熟学校册子(1).pdf
+[19:02:54] [跳过重复] may-2021-exam-schedule-english-revised-v2(1).pdf
+[19:02:54] [跳过重复] 2017年 七宝德怀特 申请录取情况(1).pdf
+[19:02:54] [跳过重复] 2018年 七宝德怀特 申请录取结果(1).pdf
+[19:02:54] [跳过重复] 2019年 七宝德怀特 申请录取结果(1).pdf
+[19:02:54] [跳过重复] 2020年 七宝德怀特 申请录取结果(1).pdf
+[19:02:54] [跳过重复] IBDP subject briefs_class 2024_CHN(1).pdf
+[19:02:54] [跳过重复] IB_DP_Course_Prerequisites_Class_2021(1).pdf
+[19:02:54] [跳过重复] QDHS Course Selection Guide 选课指南 202111(1).pdf
+[19:02:54] [跳过重复] QDHS Course Selection Guide(1).pdf
+[19:02:54] [跳过重复] 七宝德怀特 Note - 2022update(1).docx
+[19:02:54] [跳过重复] 七宝德怀特 学校社团 2022(1).pdf
+[19:02:54] [跳过重复] 上海七德 2017 - 2022 录取结果 文章链接(1).txt
+[19:02:54] [跳过重复] School Profile(1).pdf
+[19:02:54] [跳过重复] 上中（IB）- Notes 2022(1).docx
+[19:02:54] [跳过重复] 上海_上中国际 IB Program Selective Survey(1).pdf
+[19:02:54] [跳过重复] 2022世外中学升学分享会+艺体+传媒+设计(1).docx
+[19:02:54] [跳过重复] 2022世外中学升学分享会+（社会学+人文+文化）(1).docx
+[19:02:54] [跳过重复] 上海世界外国语中学2020录取榜单(1).docx
+[19:02:54] [跳过重复] 世外 2021_推荐暑校(1).pdf
+[19:02:54] [跳过重复] 世外2020录取结果(1).pdf
+[19:02:54] [跳过重复] 世外Notes - 2022 Updates(1).docx
+[19:02:54] [跳过重复] YKPao School Profile(1).pdf
+[19:02:54] [跳过重复] 包校成绩单（半学期）(1).pdf
+[19:02:54] [跳过重复] 包校成绩单（学期）(1).pdf
+[19:02:54] [跳过重复] 包玉刚 Notes - 2022 update(1).docx
+[19:02:54] [跳过重复] 包玉刚-高中课程手册2019-2021(1).pdf
+[19:02:54] [跳过重复] IB Options booklet (Feb 2023)(1).pdf
+[19:02:54] [跳过重复] 2019-2020_1st_Semester_Report_2019203(1).pdf
+[19:02:54] [跳过重复] 2019-2020_2nd_Semester_Report_2019203(1).pdf
+[19:02:54] [跳过重复] 2021-2022 1st semester club fair 社团列表(1).pdf
+[19:02:54] [跳过重复] IEP社团活动场地与老师安排202009(1).xlsx
+[19:02:54] [跳过重复] 学期中成绩单范例(1).pdf
+[19:02:54] [跳过重复] 平和IB Notes - 2022 update(1).docx
+[19:02:54] [跳过重复] 平和IBDP2020届录取结果(1).pdf
+[19:02:54] [跳过重复] 平和IBDP2021届毕业生录取结果汇总(1).pdf
+[19:02:54] [跳过重复] CAS(1).pdf
+[19:02:54] [跳过重复] EE&TOK(1).pdf
+[19:02:54] [跳过重复] G1 中文A(1).pdf
+[19:02:54] [跳过重复] G1 英文A 文学(1).pdf
+[19:02:54] [跳过重复] G1 英文A 语言与文学(1).pdf
+[19:02:54] [跳过重复] G2 英文B(1).pdf
+[19:02:54] [跳过重复] G3 商务 地理 哲学 历史 心理(1).pdf
+[19:02:54] [跳过重复] G3 经济(1).pdf
+[19:02:54] [跳过重复] G4 化学 生物 环境(1).pdf
+[19:02:54] [跳过重复] G4 物理(1).pdf
+[19:02:54] [跳过重复] G5 数学(1).pdf
+[19:02:54] [跳过重复] G6 视觉艺术 音乐(1).pdf
+[19:02:54] [跳过重复] CommonApp账号与Cialfo的关联(1).pdf
+[19:02:54] [跳过重复] DP G4-3班选校单(1)(1)(1).docx
+[19:02:54] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[19:02:54] [跳过重复] 碧桂园IB Notes - 2022 update(1).docx
+[19:02:54] [跳过重复] AP IB Alevel三大课程对比(1).pdf
+[19:02:54] [跳过重复] AP IB Alevel三大课程对比2(1).pdf
+[19:02:54] [跳过重复] AP IB Alevel三大课程对比3(1).pdf
+[19:02:54] [跳过重复] [School Name] Notes - 2022 update(1).docx
+[19:02:54] [跳过重复] 国际课程体系AP IB Alevel(1).docx
+[19:02:54] [跳过重复] 国际课程线上学习资源(1).docx
+[19:02:54] [跳过重复] IELTS 高分写作模板(1).pdf
+[19:02:54] [跳过重复] Simon考官9分大作文范文合集(1).pdf
+[19:02:54] [跳过重复] TOEFL_16篇独立范文-词组学习(1).pdf
+[19:02:54] [跳过重复] 写作八大话题语料积累(1).docx
+[19:02:54] [跳过重复] TPO听力按学科分类词汇(1).pdf
+[19:02:54] [跳过重复] 假如美国人也背TOEFL词汇(1).pdf
+[19:02:54] [跳过重复] 托福口语看这本就够了_张涵(1).pdf
+[19:02:54] [跳过重复] 120316 (L)(1).docx
+[19:02:54] [跳过重复] 120316 (R)(1).docx
+[19:02:54] [跳过重复] 120316 (S)(1).docx
+[19:02:54] [跳过重复] 120316 (W)(1).docx
+[19:02:54] [跳过重复] 12月16年(1).docx
+[19:02:54] [跳过重复] ACT VS SAT 异同分析(1).pdf
+[19:02:54] [跳过重复] ACT下载链接(1).txt
+[19:02:54] [跳过重复] Colleges That Superscore ACT_(1).pdf
+[19:02:54] [跳过重复] How Do You Calculate SAT Score_ Raw and Scaled(1).pdf
+[19:02:54] [跳过重复] SAT-ACT 小说文学素养强化教程FV1.1(1).pdf
+[19:02:54] [跳过重复] 极简英语思维(1).pdf
+[19:02:54] [跳过重复] Emily Dickinson - The Complete Poems of Emily Dickinson (1960)(1).pdf
+[19:02:54] [跳过重复] [Arden Shakespeare_ Third Series] William Shakespeare, Katherine Duncan-Jones (editor) - Shakespeare's Sonnets (1997, Bloomsbury Arden Shakespeare) - libgen.li(1).pdf
+[19:02:54] [跳过重复] SAT ACT分数转换(1).pdf
+[19:02:54] [跳过重复] 2016-2021.12SAT真题网盘链接(1).txt
+[19:02:54] [跳过重复] 2020亚太真题SAT(1).pdf
+[19:02:54] [跳过重复] 2021 North America 数学2. pdf(1).pdf
+[19:02:54] [跳过重复] 2021 North America 数学1(1).pdf
+[19:02:54] [跳过重复] 2021 North america 阅读(1).pdf
+[19:02:54] [跳过重复] 答案(1).pdf
+[19:02:54] [跳过重复] 2021 3月亚太真题‚(1).pdf
+[19:02:54] [跳过重复] 2021 3月亚太答案 pdf(1).pdf
+[19:02:54] [跳过重复] 21年5月北美 SAT 真题(1).pdf
+[19:02:54] [跳过重复] 21年5月北美 SAT 答案(1).pdf
+[19:02:54] [跳过重复] SAT语法知识点(1).pdf
+[19:02:54] [跳过重复] 可汗阅读(1).pdf
+[19:02:54] [跳过重复] 标化考试Standardized Test(1).docx
+[19:02:54] [跳过重复] 美国高考3000词电子版(1).pdf
+[19:02:54] [跳过重复] 机考SAT- 介绍(1).pdf
+[19:02:54] [跳过重复] 教师资源介绍及报价(1)(1).xlsx
+[19:02:54] [跳过重复] 机构推荐(1).xlsx
+[19:02:54] [跳过重复] Massanari2015_-_--_Gamergate_and_The_Fappening-_How_Reddit-s_algorithm_governance_and_cult (1).pdf
+[19:02:54] [跳过重复] Hodkinson_2002 (1).pdf
+[19:02:54] [跳过重复] writing workshop in Wuhan(1).docx
+[19:02:54] [跳过重复] Massanari2015_-_--_Gamergate_and_The_Fappening-_How_Reddit-s_algorithm_governance_and_cult (1).pdf
+[19:02:54] [跳过重复] John Locke v3-Finalized (1).docx
+[19:02:54] [跳过重复] Question 2(ver.4) - Final (1).docx
+[19:02:54] [跳过重复] Yuri 2nd Draft(1).docx
+[19:02:54] [跳过重复] Yuri - Draft 2 - Finalized (1).doc
+[19:02:54] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[19:02:54] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[19:02:54] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[19:02:54] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[19:02:54] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[19:02:54] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[19:02:54] 扫描完成：1912 普通文件，0 OCR PDF，跳过规则 85 个，重复副本 228 个，图片 459 张
+[19:02:54] dry-run 完成，未处理任何文件。
+[19:09:05] === run_pipeline.py 开始 2026-06-09 19:09:05 ===
+[19:09:05] skip_list: 147 个，已处理记录: 0 个
+[19:09:05] 扫描目录（OCR PDF 检测中，< 1s/PDF）…
+[19:09:06] 扫描 ../途策 知识库（3368 个路径，1291 个 PDF 需 OCR 检测）
+[19:09:06] [跳过重复] AP 2021 Exam Dates - AP Central _ College Board(1).pdf
+[19:09:07] [跳过重复] AP Student-Score-Distributions-2020(1).pdf
+[19:09:08] [跳过重复] All About AP(1).docx
+[19:09:08] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[19:09:08] [跳过重复] 【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？(1).pdf
+[19:09:08] [跳过重复] 公办AP的佼佼者——华二国课班(1).pdf
+[19:09:08] [跳过重复] 华东师大二附中2021届毕业生海外名校申请结果出炉！(1).pdf
+[19:09:08] [跳过重复] 华二APnotes -  2022 Updates(1).docx
+[19:09:08] [跳过重复] 成绩单样式(1).pdf
+[19:09:08] [跳过重复] 2022IEP升学信息(1).pdf
+[19:09:08] [跳过重复] Trancript Sample(1).pdf
+[19:09:09] [跳过重复] 上海平和 IEP 班 Notes(1).docx
+[19:09:09] [跳过重复] 2017年 星河湾 申请录取结果(1).pdf
+[19:09:09] [跳过重复] 2018年 星河湾 申请录取结果(1).pdf
+[19:09:09] [跳过重复] 2019年 星河湾 申请录取结果(1).pdf
+[19:09:09] [跳过重复] 2020年 星河湾 申请录取结果(1).pdf
+[19:09:09] [跳过重复] 2022学年 新高二 数学 AP 限定选修 选修课程 选课单(1).xlsx
+[19:09:09] [跳过重复] School Transcript(1).pdf
+[19:09:09] [跳过重复] 上海星河湾 AP school profile(1).pdf
+[19:09:10] [跳过重复] 上海星河湾 Notes - 2022 update(1).docx
+[19:09:10] [跳过重复] 星河湾 2017 - 2020 申请结果 文章链接(1).txt
+[19:09:10] [跳过重复] 星河湾 notes(1).docx
+[19:09:10] [跳过重复] HSPDCourseCatalog2223Feb16(1).pdf
+[19:09:10] [跳过重复] UpdatedPXCatalog(1).pdf
+[19:09:11] [跳过重复] school profile-Class 2022(1).pdf
+[19:09:11] [跳过重复] 合肥一中国际部Notes - 2022 Updates(1).docx
+[19:09:11] [跳过重复] 成绩单示例(1).pdf
+[19:09:11] [跳过重复] 山东省实验国际部notes -2022 Updates(1).docx
+[19:09:11] [跳过重复] 成绩单样式(1).pdf
+[19:09:11] [跳过重复] 2021 St induction (AP11 & AP12)(1).pdf
+[19:09:11] [跳过重复] 2023 PeerBuddy Course Registration Guide 选课指南(1).pdf
+[19:09:12] [跳过重复] HFI - 学生手册选课必看部分(1).pdf
+[19:09:12] [跳过重复] HFI - 学生手册选课必看部分_批注(1).pdf
+[19:09:12] [跳过重复] HFI AP Course Choices(1).pdf
+[19:09:12] [跳过重复] HFI Notes - 2022 update(1).docx
+[19:09:12] [跳过重复] HFI Notes(1).docx
+[19:09:12] [跳过重复] HFI School Profile 2021-202109(1).pdf
+[19:09:13] [跳过重复] HFI Student Handbook 2020-21 v1.3-Section-4(1).pdf
+[19:09:13] [跳过重复] HFI Student Handbook 2021-22 v1.1(1).doc
+[19:09:13] [跳过重复] AP USH+Assessment+Summary-+Reilly(1).docx
+[19:09:13] [跳过重复] G11_AP Calculus BC Syllabus 2021-2022(1).pdf
+[19:09:13] [跳过重复] G11_AP ES_Assessment(1).pdf
+[19:09:14] [跳过重复] G11_AP HG_Assessment(1).pdf
+[19:09:14] [跳过重复] G11_World History Assessment Summary 2021-22(1).docx
+[19:09:14] [跳过重复] HFI G11 A.P.+Euro History(1).docx
+[19:09:14] [跳过重复] HFI-G11-GE PPT(1).pptx
+[19:09:14] [跳过重复] 22.06.01 线上分享会(对外)(1).pdf
+[19:09:15] [跳过重复] 2021 高一选课说明_Final_6.18(1).pdf
+[19:09:15] [跳过重复] [1] 20220430 高二动员大会重要事项(1)(1).pdf
+[19:09:15] [跳过重复] [2] 2022本科申请材料清单-SSAP(1)(1)(1).xlsx
+[19:09:15] [跳过重复] [3] 2022本科申请材料清单-SSAP-详细说明(1)(1)(1).docx
+[19:09:15] [跳过重复] 广东省实验AP Notes - 2022 update 1(1).docx
+[19:09:15] [跳过重复] 20220505家长会分享版（含2022录取结果）(1).pdf
+[19:09:15] [跳过重复] 深圳中学2013~2019录取数据(1).docx
+[19:09:15] [跳过重复] 深圳中学Notes - 2022 update(1).docx
+[19:09:15] [跳过重复] 碧桂园 AP G1-G3选课说明(1).pdf
+[19:09:16] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[19:09:17] [跳过重复] 碧桂园AP Notes - 2022 update(1).docx
+[19:09:17] [跳过重复] 碧桂园竞赛&学院活动规划(1).xlsx
+[19:09:17] [跳过重复] 附件1：2022-2023BIBS·C国际竞赛训练营各校区开设列表(1).xlsx
+[19:09:17] [跳过重复] 附件1：Projects Introduction of Long-term Research Program(1).pdf
+[19:09:17] [跳过重复] 附件2：Instructor Introduction of Long-term Research Program(1).pdf
+[19:09:18] [跳过重复] 附件2：商赛、经济、综合类师资介绍Teachers for Business Economics Competition(1).pdf
+[19:09:19] [跳过重复] 附件3：Introduction of 2023 BIBS · C Team Recruitment of iGEM(1).pdf
+[19:09:19] [跳过重复] 附件3：数、理、生竞赛师资介绍Teachers for MATH PHISICS&BIO(1).pdf
+[19:09:20] [跳过重复] 附件4：Introduction of 2022 Southern BIBS·C Schools Team Recruitment of HiMCM(1).pdf
+[19:09:20] [跳过重复] 附件4：计算机类竞赛师资介绍Teachers For Computer Science(1).pdf
+[19:09:21] [跳过重复] 附件5：Study Arrangement of Each Project(1).pdf
+[19:09:21] [跳过重复] BIGZ Senior Project 2022-23(1).pdf
+[19:09:21] [跳过重复] G10_Elective Catalog_2022-23(1).pdf
+[19:09:21] [跳过重复] Grade 10 Course Selection 2022-2023(1).pdf
+[19:09:21] [跳过重复] 广州贝赛斯 Notes - 2022 Updates(1).docx
+[19:09:21] [跳过重复] 2021-2022 Student Handbook(1).pdf
+[19:09:22] [跳过重复] AP Micro 2016(1).pdf
+[19:09:22] [跳过重复] AP Micro 2017(1).pdf
+[19:09:22] [跳过重复] AP Micro 2018(1).pdf
+[19:09:22] [跳过重复] AP Micro 2019(1).pdf
+[19:09:22] [跳过重复] CCOSchoolProfile(1).pdf
+[19:09:23] [跳过重复] JHU录取(1).pdf
+[19:09:25] [跳过重复] 南开国际课程中心毕业生就读学校统计（2010-2019）(1).pdf
+[19:09:25] [跳过重复] 对话南开学子蔡向濛丨走进美国斯坦福大学的法宝：良师、良友、良机(1).pdf
+[19:09:25] [跳过重复] 斯坦福牛津Case(1).pdf
+[19:09:27] [跳过重复] 重庆南开中学国际课程中心2020届录取汇总(1).pdf
+[19:09:27] [跳过重复] 2019_范德堡大学ED教育学_Jerry(1).pdf
+[19:09:28] [跳过重复] 2019年录取结果(1).pdf
+[19:09:33] [跳过重复] 2020_UWM & 伦斯特理工(1).pdf
+[19:09:34] [跳过重复] 2020_南加大和佐治亚理工_Alice(1).pdf
+[19:09:35] [跳过重复] 21.03.06线上家长会--crystal(1).pdf
+[19:09:35] [跳过重复] Bojing Yu - CA - OSU(1).pdf
+[19:09:35] [跳过重复] Haotong Wang - CA - UW-M(1).pdf
+[19:09:35] [跳过重复] Haowen Jiang - CA - NYU(1).pdf
+[19:09:35] [跳过重复] Songyu Han - CA - CMU(1).pdf
+[19:09:35] [跳过重复] Xiaoyu Qiu - CA - USC(1).pdf
+[19:09:35] [跳过重复] 成绩单 Semester(1).pdf
+[19:09:35] [跳过重复] 活动规划之升级打怪20210306--YI(1).pptx
+[19:09:35] [跳过重复] 青岛博格思加州学校国际高中班招生简章(1).pdf
+[19:09:36] [跳过重复] All about A-Level(1).docx
+[19:09:36] [跳过重复] CIE-2021-timetable-zone-5(1).pdf
+[19:09:37] [跳过重复] 南京外国语中英班notes(1).docx
+[19:09:37] [跳过重复] 2018录取结果(1).pdf
+[19:09:37] [跳过重复] 2019录取结果(1).pdf
+[19:09:38] [跳过重复] 2020录取结果(1).pdf
+[19:09:38] [跳过重复] 2021录取结果(1).pdf
+[19:09:45] [跳过重复] 2022-2023 A1_Options_book(1).pdf
+[19:09:45] [跳过重复] The school profile – Shenzhen College of International Education(1).pdf
+[19:09:45] [跳过重复] 家长版-深国交4年案例(1).pdf
+[19:09:46] [跳过重复] 成绩单(1).pdf
+[19:09:46] [跳过重复] 深国交 Notes - 2022 Update(1).docx
+[19:09:46] [跳过重复] 深国交2023美本录取发布(1).pdf
+[19:09:46] [跳过重复] 深国交社团表(1).xlsx
+[19:09:46] [跳过重复] 220404 浑朴毕业生学术分享会 IB TOK(1).pdf
+[19:09:46] [跳过重复] All about IB(1).docx
+[19:09:47] [跳过重复] Math IA step 1(1).pdf
+[19:09:47] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[19:09:47] [跳过重复] Semester_One_Reports_2020-2021(1).pdf
+[19:09:47] [跳过重复] Semester_Two_Reports_2020-2021(1).pdf
+[19:09:47] [跳过重复] Service Stream Zhi Xing Activity 2021-2022_Intro(1).docx
+[19:09:47] [跳过重复] Teresa Chen DP1 Transcript_2020-2021-1(1).pdf
+[19:09:47] [跳过重复] UWC Changshu Notes - 2022 update(1).docx
+[19:09:47] [跳过重复] UWC Notes(1).docx
+[19:09:47] [跳过重复] UWC 常熟学校册子(1).pdf
+[19:09:47] [跳过重复] may-2021-exam-schedule-english-revised-v2(1).pdf
+[19:09:48] [跳过重复] 2017年 七宝德怀特 申请录取情况(1).pdf
+[19:09:48] [跳过重复] 2018年 七宝德怀特 申请录取结果(1).pdf
+[19:09:48] [跳过重复] 2019年 七宝德怀特 申请录取结果(1).pdf
+[19:09:48] [跳过重复] 2020年 七宝德怀特 申请录取结果(1).pdf
+[19:09:49] [跳过重复] IBDP subject briefs_class 2024_CHN(1).pdf
+[19:09:49] [跳过重复] IB_DP_Course_Prerequisites_Class_2021(1).pdf
+[19:09:49] [跳过重复] QDHS Course Selection Guide 选课指南 202111(1).pdf
+[19:09:50] [跳过重复] QDHS Course Selection Guide(1).pdf
+[19:09:50] [跳过重复] 七宝德怀特 Note - 2022update(1).docx
+[19:09:50] [跳过重复] 七宝德怀特 学校社团 2022(1).pdf
+[19:09:50] [跳过重复] 上海七德 2017 - 2022 录取结果 文章链接(1).txt
+[19:09:50] [跳过重复] School Profile(1).pdf
+[19:09:50] [跳过重复] 上中（IB）- Notes 2022(1).docx
+[19:09:50] [跳过重复] 上海_上中国际 IB Program Selective Survey(1).pdf
+[19:09:50] [跳过重复] 2022世外中学升学分享会+艺体+传媒+设计(1).docx
+[19:09:50] [跳过重复] 2022世外中学升学分享会+（社会学+人文+文化）(1).docx
+[19:09:50] [跳过重复] 上海世界外国语中学2020录取榜单(1).docx
+[19:09:50] [跳过重复] 世外 2021_推荐暑校(1).pdf
+[19:09:50] [跳过重复] 世外2020录取结果(1).pdf
+[19:09:53] [跳过重复] 世外Notes - 2022 Updates(1).docx
+[19:09:53] [跳过重复] YKPao School Profile(1).pdf
+[19:09:54] [跳过重复] 包校成绩单（半学期）(1).pdf
+[19:09:54] [跳过重复] 包校成绩单（学期）(1).pdf
+[19:09:54] [跳过重复] 包玉刚 Notes - 2022 update(1).docx
+[19:09:54] [跳过重复] 包玉刚-高中课程手册2019-2021(1).pdf
+[19:09:54] [跳过重复] IB Options booklet (Feb 2023)(1).pdf
+[19:09:54] [跳过重复] 2019-2020_1st_Semester_Report_2019203(1).pdf
+[19:09:54] [跳过重复] 2019-2020_2nd_Semester_Report_2019203(1).pdf
+[19:09:54] [跳过重复] 2021-2022 1st semester club fair 社团列表(1).pdf
+[19:09:54] [跳过重复] IEP社团活动场地与老师安排202009(1).xlsx
+[19:09:54] [跳过重复] 学期中成绩单范例(1).pdf
+[19:09:54] [跳过重复] 平和IB Notes - 2022 update(1).docx
+[19:09:54] [跳过重复] 平和IBDP2020届录取结果(1).pdf
+[19:09:55] [跳过重复] 平和IBDP2021届毕业生录取结果汇总(1).pdf
+[19:09:55] [跳过重复] CAS(1).pdf
+[19:09:55] [跳过重复] EE&TOK(1).pdf
+[19:09:55] [跳过重复] G1 中文A(1).pdf
+[19:09:56] [跳过重复] G1 英文A 文学(1).pdf
+[19:09:56] [跳过重复] G1 英文A 语言与文学(1).pdf
+[19:09:56] [跳过重复] G2 英文B(1).pdf
+[19:09:57] [跳过重复] G3 商务 地理 哲学 历史 心理(1).pdf
+[19:09:57] [跳过重复] G3 经济(1).pdf
+[19:09:57] [跳过重复] G4 化学 生物 环境(1).pdf
+[19:09:58] [跳过重复] G4 物理(1).pdf
+[19:09:58] [跳过重复] G5 数学(1).pdf
+[19:09:59] [跳过重复] G6 视觉艺术 音乐(1).pdf
+[19:10:03] [跳过重复] CommonApp账号与Cialfo的关联(1).pdf
+[19:10:03] [跳过重复] DP G4-3班选校单(1)(1)(1).docx
+[19:10:03] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[19:10:04] [跳过重复] 碧桂园IB Notes - 2022 update(1).docx
+[19:10:04] [跳过重复] AP IB Alevel三大课程对比(1).pdf
+[19:10:06] [跳过重复] AP IB Alevel三大课程对比2(1).pdf
+[19:10:08] [跳过重复] AP IB Alevel三大课程对比3(1).pdf
+[19:10:10] [跳过重复] [School Name] Notes - 2022 update(1).docx
+[19:10:10] [跳过重复] 国际课程体系AP IB Alevel(1).docx
+[19:10:10] [跳过重复] 国际课程线上学习资源(1).docx
+[19:10:10] [跳过重复] IELTS 高分写作模板(1).pdf
+[19:10:11] [跳过重复] Simon考官9分大作文范文合集(1).pdf
+[19:10:11] [跳过重复] TOEFL_16篇独立范文-词组学习(1).pdf
+[19:10:11] [跳过重复] 写作八大话题语料积累(1).docx
+[19:10:11] [跳过重复] TPO听力按学科分类词汇(1).pdf
+[19:10:12] [跳过重复] 假如美国人也背TOEFL词汇(1).pdf
+[19:10:12] [跳过重复] 托福口语看这本就够了_张涵(1).pdf
+[19:10:12] [跳过重复] 120316 (L)(1).docx
+[19:10:12] [跳过重复] 120316 (R)(1).docx
+[19:10:12] [跳过重复] 120316 (S)(1).docx
+[19:10:12] [跳过重复] 120316 (W)(1).docx
+[19:10:12] [跳过重复] 12月16年(1).docx
+[19:10:12] [跳过重复] ACT VS SAT 异同分析(1).pdf
+[19:10:13] [跳过重复] ACT下载链接(1).txt
+[19:10:13] [跳过重复] Colleges That Superscore ACT_(1).pdf
+[19:10:13] [跳过重复] How Do You Calculate SAT Score_ Raw and Scaled(1).pdf
+[19:10:14] [跳过重复] SAT-ACT 小说文学素养强化教程FV1.1(1).pdf
+[19:10:15] [跳过重复] 极简英语思维(1).pdf
+[19:10:15] [跳过重复] Emily Dickinson - The Complete Poems of Emily Dickinson (1960)(1).pdf
+[19:10:15] [跳过重复] [Arden Shakespeare_ Third Series] William Shakespeare, Katherine Duncan-Jones (editor) - Shakespeare's Sonnets (1997, Bloomsbury Arden Shakespeare) - libgen.li(1).pdf
+[19:10:16] [跳过重复] SAT ACT分数转换(1).pdf
+[19:10:18] [跳过重复] 2016-2021.12SAT真题网盘链接(1).txt
+[19:10:18] [跳过重复] 2020亚太真题SAT(1).pdf
+[19:10:19] [跳过重复] 2021 North America 数学2. pdf(1).pdf
+[19:10:19] [跳过重复] 2021 North America 数学1(1).pdf
+[19:10:19] [跳过重复] 2021 North america 阅读(1).pdf
+[19:10:19] [跳过重复] 答案(1).pdf
+[19:10:19] [跳过重复] 2021 3月亚太真题‚(1).pdf
+[19:10:19] [跳过重复] 2021 3月亚太答案 pdf(1).pdf
+[19:10:19] [跳过重复] 21年5月北美 SAT 真题(1).pdf
+[19:10:19] [跳过重复] 21年5月北美 SAT 答案(1).pdf
+[19:10:19] [跳过重复] SAT语法知识点(1).pdf
+[19:10:19] [跳过重复] 可汗阅读(1).pdf
+[19:10:19] [跳过重复] 标化考试Standardized Test(1).docx
+[19:10:19] [跳过重复] 美国高考3000词电子版(1).pdf
+[19:10:19] [跳过重复] ACT备考策略简介BN20210416(1).pptx
+[19:10:19] [跳过重复] 机考SAT- 介绍(1).pdf
+[19:10:19] [跳过重复] 教师资源介绍及报价(1)(1).xlsx
+[19:10:19] [跳过重复] 机构推荐(1).xlsx
+[19:10:47] [跳过重复] Massanari2015_-_--_Gamergate_and_The_Fappening-_How_Reddit-s_algorithm_governance_and_cult (1).pdf
+[19:11:03] [跳过重复] Hodkinson_2002 (1).pdf
+[19:11:33] === run_pipeline.py 开始 2026-06-09 19:11:33 ===
+[19:11:33] skip_list: 147 个，已处理记录: 0 个
+[19:11:33] 扫描目录（OCR PDF 检测中，< 1s/PDF）…
+[19:11:33] 扫描 ../途策 知识库（3368 个路径，1291 个 PDF 需 OCR 检测）
+[19:11:33] [跳过重复] AP 2021 Exam Dates - AP Central _ College Board(1).pdf
+[19:11:34] [跳过重复] AP Student-Score-Distributions-2020(1).pdf
+[19:11:35] [跳过重复] All About AP(1).docx
+[19:11:35] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[19:11:35] [跳过重复] 【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？(1).pdf
+[19:11:35] [跳过重复] 公办AP的佼佼者——华二国课班(1).pdf
+[19:11:35] [跳过重复] 华东师大二附中2021届毕业生海外名校申请结果出炉！(1).pdf
+[19:11:35] [跳过重复] 华二APnotes -  2022 Updates(1).docx
+[19:11:35] [跳过重复] 成绩单样式(1).pdf
+[19:11:35] [跳过重复] 2022IEP升学信息(1).pdf
+[19:11:35] [跳过重复] Trancript Sample(1).pdf
+[19:11:36] [跳过重复] 上海平和 IEP 班 Notes(1).docx
+[19:11:36] [跳过重复] 2017年 星河湾 申请录取结果(1).pdf
+[19:11:36] [跳过重复] 2018年 星河湾 申请录取结果(1).pdf
+[19:11:36] [跳过重复] 2019年 星河湾 申请录取结果(1).pdf
+[19:11:36] [跳过重复] 2020年 星河湾 申请录取结果(1).pdf
+[19:11:36] [跳过重复] 2022学年 新高二 数学 AP 限定选修 选修课程 选课单(1).xlsx
+[19:11:36] [跳过重复] School Transcript(1).pdf
+[19:11:36] [跳过重复] 上海星河湾 AP school profile(1).pdf
+[19:11:37] [跳过重复] 上海星河湾 Notes - 2022 update(1).docx
+[19:11:37] [跳过重复] 星河湾 2017 - 2020 申请结果 文章链接(1).txt
+[19:11:37] [跳过重复] 星河湾 notes(1).docx
+[19:11:37] [跳过重复] HSPDCourseCatalog2223Feb16(1).pdf
+[19:11:37] [跳过重复] UpdatedPXCatalog(1).pdf
+[19:11:38] [跳过重复] school profile-Class 2022(1).pdf
+[19:11:38] [跳过重复] 合肥一中国际部Notes - 2022 Updates(1).docx
+[19:11:38] [跳过重复] 成绩单示例(1).pdf
+[19:11:38] [跳过重复] 山东省实验国际部notes -2022 Updates(1).docx
+[19:11:38] [跳过重复] 成绩单样式(1).pdf
+[19:11:38] [跳过重复] 2021 St induction (AP11 & AP12)(1).pdf
+[19:11:38] [跳过重复] 2023 PeerBuddy Course Registration Guide 选课指南(1).pdf
+[19:11:38] [跳过重复] HFI - 学生手册选课必看部分(1).pdf
+[19:11:39] [跳过重复] HFI - 学生手册选课必看部分_批注(1).pdf
+[19:11:39] [跳过重复] HFI AP Course Choices(1).pdf
+[19:11:39] [跳过重复] HFI Notes - 2022 update(1).docx
+[19:11:39] [跳过重复] HFI Notes(1).docx
+[19:11:39] [跳过重复] HFI School Profile 2021-202109(1).pdf
+[19:11:39] [跳过重复] HFI Student Handbook 2020-21 v1.3-Section-4(1).pdf
+[19:11:40] [跳过重复] HFI Student Handbook 2021-22 v1.1(1).doc
+[19:11:40] [跳过重复] AP USH+Assessment+Summary-+Reilly(1).docx
+[19:11:40] [跳过重复] G11_AP Calculus BC Syllabus 2021-2022(1).pdf
+[19:11:40] [跳过重复] G11_AP ES_Assessment(1).pdf
+[19:11:41] [跳过重复] G11_AP HG_Assessment(1).pdf
+[19:11:41] [跳过重复] G11_World History Assessment Summary 2021-22(1).docx
+[19:11:41] [跳过重复] HFI G11 A.P.+Euro History(1).docx
+[19:11:41] [跳过重复] HFI-G11-GE PPT(1).pptx
+[19:11:41] [跳过重复] 22.06.01 线上分享会(对外)(1).pdf
+[19:11:41] [跳过重复] 2021 高一选课说明_Final_6.18(1).pdf
+[19:11:41] [跳过重复] [1] 20220430 高二动员大会重要事项(1)(1).pdf
+[19:11:42] [跳过重复] [2] 2022本科申请材料清单-SSAP(1)(1)(1).xlsx
+[19:11:42] [跳过重复] [3] 2022本科申请材料清单-SSAP-详细说明(1)(1)(1).docx
+[19:11:42] [跳过重复] 广东省实验AP Notes - 2022 update 1(1).docx
+[19:11:42] [跳过重复] 20220505家长会分享版（含2022录取结果）(1).pdf
+[19:11:42] [跳过重复] 深圳中学2013~2019录取数据(1).docx
+[19:11:42] [跳过重复] 深圳中学Notes - 2022 update(1).docx
+[19:11:42] [跳过重复] 碧桂园 AP G1-G3选课说明(1).pdf
+[19:11:42] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[19:11:44] [跳过重复] 碧桂园AP Notes - 2022 update(1).docx
+[19:11:44] [跳过重复] 碧桂园竞赛&学院活动规划(1).xlsx
+[19:11:44] [跳过重复] 附件1：2022-2023BIBS·C国际竞赛训练营各校区开设列表(1).xlsx
+[19:11:44] [跳过重复] 附件1：Projects Introduction of Long-term Research Program(1).pdf
+[19:11:44] [跳过重复] 附件2：Instructor Introduction of Long-term Research Program(1).pdf
+[19:11:44] [跳过重复] 附件2：商赛、经济、综合类师资介绍Teachers for Business Economics Competition(1).pdf
+[19:11:45] [跳过重复] 附件3：Introduction of 2023 BIBS · C Team Recruitment of iGEM(1).pdf
+[19:11:45] [跳过重复] 附件3：数、理、生竞赛师资介绍Teachers for MATH PHISICS&BIO(1).pdf
+[19:11:46] [跳过重复] 附件4：Introduction of 2022 Southern BIBS·C Schools Team Recruitment of HiMCM(1).pdf
+[19:11:46] [跳过重复] 附件4：计算机类竞赛师资介绍Teachers For Computer Science(1).pdf
+[19:11:47] [跳过重复] 附件5：Study Arrangement of Each Project(1).pdf
+[19:11:47] [跳过重复] BIGZ Senior Project 2022-23(1).pdf
+[19:11:48] [跳过重复] G10_Elective Catalog_2022-23(1).pdf
+[19:11:48] [跳过重复] Grade 10 Course Selection 2022-2023(1).pdf
+[19:11:48] [跳过重复] 广州贝赛斯 Notes - 2022 Updates(1).docx
+[19:11:48] [跳过重复] 2021-2022 Student Handbook(1).pdf
+[19:11:48] [跳过重复] AP Micro 2016(1).pdf
+[19:11:48] [跳过重复] AP Micro 2017(1).pdf
+[19:11:48] [跳过重复] AP Micro 2018(1).pdf
+[19:11:48] [跳过重复] AP Micro 2019(1).pdf
+[19:11:48] [跳过重复] CCOSchoolProfile(1).pdf
+[19:11:49] [跳过重复] JHU录取(1).pdf
+[19:11:51] [跳过重复] 南开国际课程中心毕业生就读学校统计（2010-2019）(1).pdf
+[19:11:51] [跳过重复] 对话南开学子蔡向濛丨走进美国斯坦福大学的法宝：良师、良友、良机(1).pdf
+[19:11:52] [跳过重复] 斯坦福牛津Case(1).pdf
+[19:11:54] [跳过重复] 重庆南开中学国际课程中心2020届录取汇总(1).pdf
+[19:11:54] [跳过重复] 2019_范德堡大学ED教育学_Jerry(1).pdf
+[19:11:55] [跳过重复] 2019年录取结果(1).pdf
+[19:12:00] [跳过重复] 2020_UWM & 伦斯特理工(1).pdf
+[19:12:00] [跳过重复] 2020_南加大和佐治亚理工_Alice(1).pdf
+[19:12:01] [跳过重复] 21.03.06线上家长会--crystal(1).pdf
+[19:12:01] [跳过重复] Bojing Yu - CA - OSU(1).pdf
+[19:12:01] [跳过重复] Haotong Wang - CA - UW-M(1).pdf
+[19:12:01] [跳过重复] Haowen Jiang - CA - NYU(1).pdf
+[19:12:01] [跳过重复] Songyu Han - CA - CMU(1).pdf
+[19:12:01] [跳过重复] Xiaoyu Qiu - CA - USC(1).pdf
+[19:12:01] [跳过重复] 成绩单 Semester(1).pdf
+[19:12:01] [跳过重复] 活动规划之升级打怪20210306--YI(1).pptx
+[19:12:01] [跳过重复] 青岛博格思加州学校国际高中班招生简章(1).pdf
+[19:12:02] [跳过重复] All about A-Level(1).docx
+[19:12:02] [跳过重复] CIE-2021-timetable-zone-5(1).pdf
+[19:12:03] [跳过重复] 南京外国语中英班notes(1).docx
+[19:12:03] [跳过重复] 2018录取结果(1).pdf
+[19:12:04] [跳过重复] 2019录取结果(1).pdf
+[19:12:04] [跳过重复] 2020录取结果(1).pdf
+[19:12:04] [跳过重复] writing workshop in Wuhan(1).docx
+[19:12:05] [跳过重复] 2021录取结果(1).pdf
+[19:12:12] [跳过重复] 2022-2023 A1_Options_book(1).pdf
+[19:12:12] [跳过重复] The school profile – Shenzhen College of International Education(1).pdf
+[19:12:12] [跳过重复] 家长版-深国交4年案例(1).pdf
+[19:12:12] [跳过重复] 成绩单(1).pdf
+[19:12:12] [跳过重复] 深国交 Notes - 2022 Update(1).docx
+[19:12:12] [跳过重复] 深国交2023美本录取发布(1).pdf
+[19:12:12] [跳过重复] 深国交社团表(1).xlsx
+[19:12:12] [跳过重复] 220404 浑朴毕业生学术分享会 IB TOK(1).pdf
+[19:12:12] [跳过重复] All about IB(1).docx
+[19:12:13] [跳过重复] Math IA step 1(1).pdf
+[19:12:14] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[19:12:14] [跳过重复] Semester_One_Reports_2020-2021(1).pdf
+[19:12:14] [跳过重复] Semester_Two_Reports_2020-2021(1).pdf
+[19:12:14] [跳过重复] Service Stream Zhi Xing Activity 2021-2022_Intro(1).docx
+[19:12:14] [跳过重复] Teresa Chen DP1 Transcript_2020-2021-1(1).pdf
+[19:12:14] [跳过重复] UWC Changshu Notes - 2022 update(1).docx
+[19:12:14] [跳过重复] UWC Notes(1).docx
+[19:12:14] [跳过重复] UWC 常熟学校册子(1).pdf
+[19:12:14] [跳过重复] may-2021-exam-schedule-english-revised-v2(1).pdf
+[19:12:14] [跳过重复] 2017年 七宝德怀特 申请录取情况(1).pdf
+[19:12:15] [跳过重复] 2018年 七宝德怀特 申请录取结果(1).pdf
+[19:12:15] [跳过重复] 2019年 七宝德怀特 申请录取结果(1).pdf
+[19:12:15] [跳过重复] 2020年 七宝德怀特 申请录取结果(1).pdf
+[19:12:15] [跳过重复] IBDP subject briefs_class 2024_CHN(1).pdf
+[19:12:15] [跳过重复] IB_DP_Course_Prerequisites_Class_2021(1).pdf
+[19:12:16] [跳过重复] QDHS Course Selection Guide 选课指南 202111(1).pdf
+[19:12:16] [跳过重复] QDHS Course Selection Guide(1).pdf
+[19:12:17] [跳过重复] 七宝德怀特 Note - 2022update(1).docx
+[19:12:17] [跳过重复] 七宝德怀特 学校社团 2022(1).pdf
+[19:12:17] [跳过重复] 上海七德 2017 - 2022 录取结果 文章链接(1).txt
+[19:12:17] [跳过重复] School Profile(1).pdf
+[19:12:17] [跳过重复] 上中（IB）- Notes 2022(1).docx
+[19:12:17] [跳过重复] 上海_上中国际 IB Program Selective Survey(1).pdf
+[19:12:17] [跳过重复] 2022世外中学升学分享会+艺体+传媒+设计(1).docx
+[19:12:17] [跳过重复] 2022世外中学升学分享会+（社会学+人文+文化）(1).docx
+[19:12:17] [跳过重复] 上海世界外国语中学2020录取榜单(1).docx
+[19:12:17] [跳过重复] 世外 2021_推荐暑校(1).pdf
+[19:12:17] [跳过重复] 世外2020录取结果(1).pdf
+[19:12:20] [跳过重复] 世外Notes - 2022 Updates(1).docx
+[19:12:20] [跳过重复] YKPao School Profile(1).pdf
+[19:12:21] [跳过重复] 包校成绩单（半学期）(1).pdf
+[19:12:21] [跳过重复] 包校成绩单（学期）(1).pdf
+[19:12:21] [跳过重复] 包玉刚 Notes - 2022 update(1).docx
+[19:12:21] [跳过重复] 包玉刚-高中课程手册2019-2021(1).pdf
+[19:12:21] [跳过重复] IB Options booklet (Feb 2023)(1).pdf
+[19:12:21] [跳过重复] 2019-2020_1st_Semester_Report_2019203(1).pdf
+[19:12:21] [跳过重复] 2019-2020_2nd_Semester_Report_2019203(1).pdf
+[19:12:21] [跳过重复] 2021-2022 1st semester club fair 社团列表(1).pdf
+[19:12:21] [跳过重复] IEP社团活动场地与老师安排202009(1).xlsx
+[19:12:21] [跳过重复] 学期中成绩单范例(1).pdf
+[19:12:21] [跳过重复] 平和IB Notes - 2022 update(1).docx
+[19:12:21] [跳过重复] 平和IBDP2020届录取结果(1).pdf
+[19:12:22] [跳过重复] 平和IBDP2021届毕业生录取结果汇总(1).pdf
+[19:12:23] [跳过重复] CAS(1).pdf
+[19:12:23] [跳过重复] EE&TOK(1).pdf
+[19:12:23] [跳过重复] G1 中文A(1).pdf
+[19:12:23] [跳过重复] G1 英文A 文学(1).pdf
+[19:12:24] [跳过重复] G1 英文A 语言与文学(1).pdf
+[19:12:24] [跳过重复] G2 英文B(1).pdf
+[19:12:24] [跳过重复] G3 商务 地理 哲学 历史 心理(1).pdf
+[19:12:25] [跳过重复] G3 经济(1).pdf
+[19:12:25] [跳过重复] G4 化学 生物 环境(1).pdf
+[19:12:26] [跳过重复] G4 物理(1).pdf
+[19:12:26] [跳过重复] G5 数学(1).pdf
+[19:12:26] [跳过重复] G6 视觉艺术 音乐(1).pdf
+[19:12:31] [跳过重复] CommonApp账号与Cialfo的关联(1).pdf
+[19:12:31] [跳过重复] DP G4-3班选校单(1)(1)(1).docx
+[19:12:31] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[19:12:33] [跳过重复] 碧桂园IB Notes - 2022 update(1).docx
+[19:12:33] [跳过重复] AP IB Alevel三大课程对比(1).pdf
+[19:12:35] [跳过重复] Massanari2015_-_--_Gamergate_and_The_Fappening-_How_Reddit-s_algorithm_governance_and_cult (1).pdf
+[19:12:35] [跳过重复] AP IB Alevel三大课程对比2(1).pdf
+[19:12:37] [跳过重复] AP IB Alevel三大课程对比3(1).pdf
+[19:12:39] [跳过重复] [School Name] Notes - 2022 update(1).docx
+[19:12:39] [跳过重复] 国际课程体系AP IB Alevel(1).docx
+[19:12:39] [跳过重复] 国际课程线上学习资源(1).docx
+[19:12:39] [跳过重复] IELTS 高分写作模板(1).pdf
+[19:12:40] [跳过重复] Simon考官9分大作文范文合集(1).pdf
+[19:12:40] [跳过重复] TOEFL_16篇独立范文-词组学习(1).pdf
+[19:12:40] [跳过重复] 写作八大话题语料积累(1).docx
+[19:12:40] [跳过重复] TPO听力按学科分类词汇(1).pdf
+[19:12:41] [跳过重复] 假如美国人也背TOEFL词汇(1).pdf
+[19:12:41] [跳过重复] 托福口语看这本就够了_张涵(1).pdf
+[19:12:41] [跳过重复] 120316 (L)(1).docx
+[19:12:41] [跳过重复] 120316 (R)(1).docx
+[19:12:41] [跳过重复] 120316 (S)(1).docx
+[19:12:41] [跳过重复] 120316 (W)(1).docx
+[19:12:41] [跳过重复] 12月16年(1).docx
+[19:12:41] [跳过重复] ACT VS SAT 异同分析(1).pdf
+[19:12:42] [跳过重复] ACT下载链接(1).txt
+[19:12:42] [跳过重复] Colleges That Superscore ACT_(1).pdf
+[19:12:42] [跳过重复] How Do You Calculate SAT Score_ Raw and Scaled(1).pdf
+[19:12:43] [跳过重复] SAT-ACT 小说文学素养强化教程FV1.1(1).pdf
+[19:12:44] [跳过重复] 极简英语思维(1).pdf
+[19:12:44] [跳过重复] Emily Dickinson - The Complete Poems of Emily Dickinson (1960)(1).pdf
+[19:12:44] [跳过重复] [Arden Shakespeare_ Third Series] William Shakespeare, Katherine Duncan-Jones (editor) - Shakespeare's Sonnets (1997, Bloomsbury Arden Shakespeare) - libgen.li(1).pdf
+[19:12:45] [跳过重复] SAT ACT分数转换(1).pdf
+[19:12:47] [跳过重复] 2016-2021.12SAT真题网盘链接(1).txt
+[19:12:47] [跳过重复] 2020亚太真题SAT(1).pdf
+[19:12:48] [跳过重复] 2021 North America 数学2. pdf(1).pdf
+[19:12:48] [跳过重复] 2021 North America 数学1(1).pdf
+[19:12:48] [跳过重复] 2021 North america 阅读(1).pdf
+[19:12:48] [跳过重复] 答案(1).pdf
+[19:12:48] [跳过重复] 2021 3月亚太真题‚(1).pdf
+[19:12:48] [跳过重复] 2021 3月亚太答案 pdf(1).pdf
+[19:12:48] [跳过重复] 21年5月北美 SAT 真题(1).pdf
+[19:12:48] [跳过重复] 21年5月北美 SAT 答案(1).pdf
+[19:12:48] [跳过重复] SAT语法知识点(1).pdf
+[19:12:48] [跳过重复] 可汗阅读(1).pdf
+[19:12:48] [跳过重复] 标化考试Standardized Test(1).docx
+[19:12:48] [跳过重复] 美国高考3000词电子版(1).pdf
+[19:12:48] [跳过重复] ACT备考策略简介BN20210416(1).pptx
+[19:12:48] [跳过重复] 机考SAT- 介绍(1).pdf
+[19:12:48] [跳过重复] 教师资源介绍及报价(1)(1).xlsx
+[19:12:48] [跳过重复] 机构推荐(1).xlsx
+[19:13:18] [跳过重复] Massanari2015_-_--_Gamergate_and_The_Fappening-_How_Reddit-s_algorithm_governance_and_cult (1).pdf
+[19:13:22] [跳过重复] John Locke v3-Finalized (1).docx
+[19:13:22] [跳过重复] Question 2(ver.4) - Final (1).docx
+[19:13:22] [跳过重复] Yuri 2nd Draft(1).docx
+[19:13:22] [跳过重复] Yuri - Draft 2 - Finalized (1).doc
+[19:13:34] [跳过重复] Hodkinson_2002 (1).pdf
+[19:14:39] [跳过重复] writing workshop in Wuhan(1).docx
+[19:14:57] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[19:14:57] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[19:14:57] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[19:15:05] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[19:15:05] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[19:15:05] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[19:15:06] [跳过重复] Massanari2015_-_--_Gamergate_and_The_Fappening-_How_Reddit-s_algorithm_governance_and_cult (1).pdf
+[19:15:21] === run_pipeline.py 开始 2026-06-09 19:15:21 ===
+[19:15:21] skip_list: 147 个，已处理记录: 0 个
+[19:15:21] 扫描目录（OCR PDF 检测中，< 1s/PDF）…
+[19:15:22] 扫描 ../途策 知识库（3368 个路径，1291 个 PDF 需 OCR 检测）
+[19:15:22] [跳过重复] AP 2021 Exam Dates - AP Central _ College Board(1).pdf
+[19:15:23] [跳过重复] AP Student-Score-Distributions-2020(1).pdf
+[19:15:24] [跳过重复] All About AP(1).docx
+[19:15:24] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[19:15:24] [跳过重复] 【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？(1).pdf
+[19:15:24] [跳过重复] 公办AP的佼佼者——华二国课班(1).pdf
+[19:15:24] [跳过重复] 华东师大二附中2021届毕业生海外名校申请结果出炉！(1).pdf
+[19:15:24] [跳过重复] 华二APnotes -  2022 Updates(1).docx
+[19:15:24] [跳过重复] 成绩单样式(1).pdf
+[19:15:24] [跳过重复] 2022IEP升学信息(1).pdf
+[19:15:25] [跳过重复] Trancript Sample(1).pdf
+[19:15:25] [跳过重复] 上海平和 IEP 班 Notes(1).docx
+[19:15:25] [跳过重复] 2017年 星河湾 申请录取结果(1).pdf
+[19:15:25] [跳过重复] 2018年 星河湾 申请录取结果(1).pdf
+[19:15:25] [跳过重复] 2019年 星河湾 申请录取结果(1).pdf
+[19:15:25] [跳过重复] 2020年 星河湾 申请录取结果(1).pdf
+[19:15:26] [跳过重复] 2022学年 新高二 数学 AP 限定选修 选修课程 选课单(1).xlsx
+[19:15:26] [跳过重复] School Transcript(1).pdf
+[19:15:26] [跳过重复] 上海星河湾 AP school profile(1).pdf
+[19:15:26] [跳过重复] 上海星河湾 Notes - 2022 update(1).docx
+[19:15:26] [跳过重复] 星河湾 2017 - 2020 申请结果 文章链接(1).txt
+[19:15:26] [跳过重复] 星河湾 notes(1).docx
+[19:15:26] [跳过重复] HSPDCourseCatalog2223Feb16(1).pdf
+[19:15:27] [跳过重复] UpdatedPXCatalog(1).pdf
+[19:15:27] [跳过重复] school profile-Class 2022(1).pdf
+[19:15:28] [跳过重复] 合肥一中国际部Notes - 2022 Updates(1).docx
+[19:15:28] [跳过重复] 成绩单示例(1).pdf
+[19:15:28] [跳过重复] 山东省实验国际部notes -2022 Updates(1).docx
+[19:15:28] [跳过重复] 成绩单样式(1).pdf
+[19:15:28] [跳过重复] 2021 St induction (AP11 & AP12)(1).pdf
+[19:15:28] [跳过重复] 2023 PeerBuddy Course Registration Guide 选课指南(1).pdf
+[19:15:28] [跳过重复] HFI - 学生手册选课必看部分(1).pdf
+[19:15:29] [跳过重复] HFI - 学生手册选课必看部分_批注(1).pdf
+[19:15:29] [跳过重复] HFI AP Course Choices(1).pdf
+[19:15:29] [跳过重复] HFI Notes - 2022 update(1).docx
+[19:15:29] [跳过重复] HFI Notes(1).docx
+[19:15:29] [跳过重复] HFI School Profile 2021-202109(1).pdf
+[19:15:29] [跳过重复] HFI Student Handbook 2020-21 v1.3-Section-4(1).pdf
+[19:15:30] [跳过重复] HFI Student Handbook 2021-22 v1.1(1).doc
+[19:15:30] [跳过重复] AP USH+Assessment+Summary-+Reilly(1).docx
+[19:15:30] [跳过重复] G11_AP Calculus BC Syllabus 2021-2022(1).pdf
+[19:15:30] [跳过重复] G11_AP ES_Assessment(1).pdf
+[19:15:31] [跳过重复] G11_AP HG_Assessment(1).pdf
+[19:15:31] [跳过重复] G11_World History Assessment Summary 2021-22(1).docx
+[19:15:31] [跳过重复] HFI G11 A.P.+Euro History(1).docx
+[19:15:31] [跳过重复] HFI-G11-GE PPT(1).pptx
+[19:15:31] [跳过重复] 22.06.01 线上分享会(对外)(1).pdf
+[19:15:31] [跳过重复] 2021 高一选课说明_Final_6.18(1).pdf
+[19:15:31] [跳过重复] [1] 20220430 高二动员大会重要事项(1)(1).pdf
+[19:15:31] [跳过重复] [2] 2022本科申请材料清单-SSAP(1)(1)(1).xlsx
+[19:15:31] [跳过重复] [3] 2022本科申请材料清单-SSAP-详细说明(1)(1)(1).docx
+[19:15:31] [跳过重复] 广东省实验AP Notes - 2022 update 1(1).docx
+[19:15:31] [跳过重复] 20220505家长会分享版（含2022录取结果）(1).pdf
+[19:15:32] [跳过重复] 深圳中学2013~2019录取数据(1).docx
+[19:15:32] [跳过重复] 深圳中学Notes - 2022 update(1).docx
+[19:15:32] [跳过重复] 碧桂园 AP G1-G3选课说明(1).pdf
+[19:15:32] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[19:15:34] [跳过重复] 碧桂园AP Notes - 2022 update(1).docx
+[19:15:34] [跳过重复] 碧桂园竞赛&学院活动规划(1).xlsx
+[19:15:34] [跳过重复] 附件1：2022-2023BIBS·C国际竞赛训练营各校区开设列表(1).xlsx
+[19:15:34] [跳过重复] 附件1：Projects Introduction of Long-term Research Program(1).pdf
+[19:15:34] [跳过重复] 附件2：Instructor Introduction of Long-term Research Program(1).pdf
+[19:15:34] [跳过重复] 附件2：商赛、经济、综合类师资介绍Teachers for Business Economics Competition(1).pdf
+[19:15:35] [跳过重复] 附件3：Introduction of 2023 BIBS · C Team Recruitment of iGEM(1).pdf
+[19:15:36] [跳过重复] 附件3：数、理、生竞赛师资介绍Teachers for MATH PHISICS&BIO(1).pdf
+[19:15:36] [跳过重复] 附件4：Introduction of 2022 Southern BIBS·C Schools Team Recruitment of HiMCM(1).pdf
+[19:15:37] [跳过重复] 附件4：计算机类竞赛师资介绍Teachers For Computer Science(1).pdf
+[19:15:38] [跳过重复] 附件5：Study Arrangement of Each Project(1).pdf
+[19:15:38] [跳过重复] BIGZ Senior Project 2022-23(1).pdf
+[19:15:38] [跳过重复] G10_Elective Catalog_2022-23(1).pdf
+[19:15:38] [跳过重复] Grade 10 Course Selection 2022-2023(1).pdf
+[19:15:38] [跳过重复] 广州贝赛斯 Notes - 2022 Updates(1).docx
+[19:15:38] [跳过重复] 2021-2022 Student Handbook(1).pdf
+[19:15:39] [跳过重复] AP Micro 2016(1).pdf
+[19:15:39] [跳过重复] AP Micro 2017(1).pdf
+[19:15:39] [跳过重复] AP Micro 2018(1).pdf
+[19:15:39] [跳过重复] AP Micro 2019(1).pdf
+[19:15:39] [跳过重复] CCOSchoolProfile(1).pdf
+[19:15:40] [跳过重复] JHU录取(1).pdf
+[19:15:42] [跳过重复] 南开国际课程中心毕业生就读学校统计（2010-2019）(1).pdf
+[19:15:42] [跳过重复] 对话南开学子蔡向濛丨走进美国斯坦福大学的法宝：良师、良友、良机(1).pdf
+[19:15:43] [跳过重复] 斯坦福牛津Case(1).pdf
+[19:15:45] [跳过重复] 重庆南开中学国际课程中心2020届录取汇总(1).pdf
+[19:15:45] [跳过重复] 2019_范德堡大学ED教育学_Jerry(1).pdf
+[19:15:46] [跳过重复] 2019年录取结果(1).pdf
+[19:15:51] [跳过重复] 2020_UWM & 伦斯特理工(1).pdf
+[19:15:51] [跳过重复] John Locke v3-Finalized (1).docx
+[19:15:51] [跳过重复] Question 2(ver.4) - Final (1).docx
+[19:15:51] [跳过重复] Yuri 2nd Draft(1).docx
+[19:15:51] [跳过重复] Yuri - Draft 2 - Finalized (1).doc
+[19:15:52] [跳过重复] 2020_南加大和佐治亚理工_Alice(1).pdf
+[19:15:53] [跳过重复] 21.03.06线上家长会--crystal(1).pdf
+[19:15:53] [跳过重复] Bojing Yu - CA - OSU(1).pdf
+[19:15:53] [跳过重复] Haotong Wang - CA - UW-M(1).pdf
+[19:15:53] [跳过重复] Haowen Jiang - CA - NYU(1).pdf
+[19:15:53] [跳过重复] Songyu Han - CA - CMU(1).pdf
+[19:15:53] [跳过重复] Xiaoyu Qiu - CA - USC(1).pdf
+[19:15:53] [跳过重复] 成绩单 Semester(1).pdf
+[19:15:53] [跳过重复] 活动规划之升级打怪20210306--YI(1).pptx
+[19:15:53] [跳过重复] 青岛博格思加州学校国际高中班招生简章(1).pdf
+[19:15:54] [跳过重复] All about A-Level(1).docx
+[19:15:54] [跳过重复] CIE-2021-timetable-zone-5(1).pdf
+[19:15:56] [跳过重复] 南京外国语中英班notes(1).docx
+[19:15:56] [跳过重复] 2018录取结果(1).pdf
+[19:15:56] [跳过重复] 2019录取结果(1).pdf
+[19:15:56] [跳过重复] 2020录取结果(1).pdf
+[19:15:57] [跳过重复] 2021录取结果(1).pdf
+[19:16:05] [跳过重复] 2022-2023 A1_Options_book(1).pdf
+[19:16:05] [跳过重复] The school profile – Shenzhen College of International Education(1).pdf
+[19:16:05] [跳过重复] 家长版-深国交4年案例(1).pdf
+[19:16:05] [跳过重复] 成绩单(1).pdf
+[19:16:05] [跳过重复] 深国交 Notes - 2022 Update(1).docx
+[19:16:05] [跳过重复] 深国交2023美本录取发布(1).pdf
+[19:16:06] [跳过重复] 深国交社团表(1).xlsx
+[19:16:06] [跳过重复] 220404 浑朴毕业生学术分享会 IB TOK(1).pdf
+[19:16:06] [跳过重复] All about IB(1).docx
+[19:16:06] [跳过重复] Math IA step 1(1).pdf
+[19:16:07] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[19:16:07] [跳过重复] Semester_One_Reports_2020-2021(1).pdf
+[19:16:07] [跳过重复] Semester_Two_Reports_2020-2021(1).pdf
+[19:16:07] [跳过重复] Service Stream Zhi Xing Activity 2021-2022_Intro(1).docx
+[19:16:07] [跳过重复] Teresa Chen DP1 Transcript_2020-2021-1(1).pdf
+[19:16:07] [跳过重复] UWC Changshu Notes - 2022 update(1).docx
+[19:16:07] [跳过重复] UWC Notes(1).docx
+[19:16:07] [跳过重复] UWC 常熟学校册子(1).pdf
+[19:16:07] [跳过重复] may-2021-exam-schedule-english-revised-v2(1).pdf
+[19:16:08] [跳过重复] 2017年 七宝德怀特 申请录取情况(1).pdf
+[19:16:08] [跳过重复] 2018年 七宝德怀特 申请录取结果(1).pdf
+[19:16:08] [跳过重复] 2019年 七宝德怀特 申请录取结果(1).pdf
+[19:16:08] [跳过重复] 2020年 七宝德怀特 申请录取结果(1).pdf
+[19:16:08] [跳过重复] IBDP subject briefs_class 2024_CHN(1).pdf
+[19:16:08] [跳过重复] IB_DP_Course_Prerequisites_Class_2021(1).pdf
+[19:16:09] [跳过重复] QDHS Course Selection Guide 选课指南 202111(1).pdf
+[19:16:09] [跳过重复] QDHS Course Selection Guide(1).pdf
+[19:16:10] [跳过重复] 七宝德怀特 Note - 2022update(1).docx
+[19:16:10] [跳过重复] 七宝德怀特 学校社团 2022(1).pdf
+[19:16:10] [跳过重复] 上海七德 2017 - 2022 录取结果 文章链接(1).txt
+[19:16:10] [跳过重复] School Profile(1).pdf
+[19:16:10] [跳过重复] 上中（IB）- Notes 2022(1).docx
+[19:16:10] [跳过重复] 上海_上中国际 IB Program Selective Survey(1).pdf
+[19:16:10] [跳过重复] 2022世外中学升学分享会+艺体+传媒+设计(1).docx
+[19:16:10] [跳过重复] 2022世外中学升学分享会+（社会学+人文+文化）(1).docx
+[19:16:10] [跳过重复] 上海世界外国语中学2020录取榜单(1).docx
+[19:16:10] [跳过重复] 世外 2021_推荐暑校(1).pdf
+[19:16:10] [跳过重复] 世外2020录取结果(1).pdf
+[19:16:13] [跳过重复] 世外Notes - 2022 Updates(1).docx
+[19:16:13] [跳过重复] YKPao School Profile(1).pdf
+[19:16:14] [跳过重复] 包校成绩单（半学期）(1).pdf
+[19:16:14] [跳过重复] 包校成绩单（学期）(1).pdf
+[19:16:14] [跳过重复] 包玉刚 Notes - 2022 update(1).docx
+[19:16:14] [跳过重复] 包玉刚-高中课程手册2019-2021(1).pdf
+[19:16:14] [跳过重复] IB Options booklet (Feb 2023)(1).pdf
+[19:16:14] [跳过重复] 2019-2020_1st_Semester_Report_2019203(1).pdf
+[19:16:14] [跳过重复] 2019-2020_2nd_Semester_Report_2019203(1).pdf
+[19:16:14] [跳过重复] 2021-2022 1st semester club fair 社团列表(1).pdf
+[19:16:14] [跳过重复] IEP社团活动场地与老师安排202009(1).xlsx
+[19:16:14] [跳过重复] 学期中成绩单范例(1).pdf
+[19:16:14] [跳过重复] 平和IB Notes - 2022 update(1).docx
+[19:16:14] [跳过重复] 平和IBDP2020届录取结果(1).pdf
+[19:16:15] [跳过重复] 平和IBDP2021届毕业生录取结果汇总(1).pdf
+[19:16:16] [跳过重复] CAS(1).pdf
+[19:16:16] [跳过重复] EE&TOK(1).pdf
+[19:16:16] [跳过重复] G1 中文A(1).pdf
+[19:16:16] [跳过重复] G1 英文A 文学(1).pdf
+[19:16:17] [跳过重复] G1 英文A 语言与文学(1).pdf
+[19:16:17] [跳过重复] G2 英文B(1).pdf
+[19:16:17] [跳过重复] G3 商务 地理 哲学 历史 心理(1).pdf
+[19:16:17] [跳过重复] G3 经济(1).pdf
+[19:16:18] [跳过重复] G4 化学 生物 环境(1).pdf
+[19:16:19] [跳过重复] G4 物理(1).pdf
+[19:16:19] [跳过重复] G5 数学(1).pdf
+[19:16:19] [跳过重复] G6 视觉艺术 音乐(1).pdf
+[19:16:24] [跳过重复] CommonApp账号与Cialfo的关联(1).pdf
+[19:16:24] [跳过重复] DP G4-3班选校单(1)(1)(1).docx
+[19:16:24] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[19:16:26] [跳过重复] 碧桂园IB Notes - 2022 update(1).docx
+[19:16:26] [跳过重复] AP IB Alevel三大课程对比(1).pdf
+[19:16:28] [跳过重复] AP IB Alevel三大课程对比2(1).pdf
+[19:16:31] [跳过重复] AP IB Alevel三大课程对比3(1).pdf
+[19:16:33] [跳过重复] [School Name] Notes - 2022 update(1).docx
+[19:16:33] [跳过重复] 国际课程体系AP IB Alevel(1).docx
+[19:16:33] [跳过重复] 国际课程线上学习资源(1).docx
+[19:16:33] [跳过重复] IELTS 高分写作模板(1).pdf
+[19:16:33] [跳过重复] Simon考官9分大作文范文合集(1).pdf
+[19:16:34] [跳过重复] TOEFL_16篇独立范文-词组学习(1).pdf
+[19:16:34] [跳过重复] 写作八大话题语料积累(1).docx
+[19:16:34] [跳过重复] TPO听力按学科分类词汇(1).pdf
+[19:16:35] [跳过重复] 假如美国人也背TOEFL词汇(1).pdf
+[19:16:35] [跳过重复] 托福口语看这本就够了_张涵(1).pdf
+[19:16:35] [跳过重复] 120316 (L)(1).docx
+[19:16:35] [跳过重复] 120316 (R)(1).docx
+[19:16:35] [跳过重复] 120316 (S)(1).docx
+[19:16:35] [跳过重复] 120316 (W)(1).docx
+[19:16:35] [跳过重复] 12月16年(1).docx
+[19:16:35] [跳过重复] ACT VS SAT 异同分析(1).pdf
+[19:16:36] [跳过重复] ACT下载链接(1).txt
+[19:16:36] [跳过重复] Colleges That Superscore ACT_(1).pdf
+[19:16:36] [跳过重复] How Do You Calculate SAT Score_ Raw and Scaled(1).pdf
+[19:16:37] [跳过重复] SAT-ACT 小说文学素养强化教程FV1.1(1).pdf
+[19:16:39] [跳过重复] 极简英语思维(1).pdf
+[19:16:39] [跳过重复] Emily Dickinson - The Complete Poems of Emily Dickinson (1960)(1).pdf
+[19:16:39] [跳过重复] [Arden Shakespeare_ Third Series] William Shakespeare, Katherine Duncan-Jones (editor) - Shakespeare's Sonnets (1997, Bloomsbury Arden Shakespeare) - libgen.li(1).pdf
+[19:16:39] [跳过重复] SAT ACT分数转换(1).pdf
+[19:16:42] [跳过重复] 2016-2021.12SAT真题网盘链接(1).txt
+[19:16:42] [跳过重复] 2020亚太真题SAT(1).pdf
+[19:16:42] [跳过重复] 2021 North America 数学2. pdf(1).pdf
+[19:16:42] [跳过重复] 2021 North America 数学1(1).pdf
+[19:16:42] [跳过重复] 2021 North america 阅读(1).pdf
+[19:16:42] [跳过重复] 答案(1).pdf
+[19:16:42] [跳过重复] 2021 3月亚太真题‚(1).pdf
+[19:16:42] [跳过重复] 2021 3月亚太答案 pdf(1).pdf
+[19:16:42] [跳过重复] 21年5月北美 SAT 真题(1).pdf
+[19:16:43] [跳过重复] 21年5月北美 SAT 答案(1).pdf
+[19:16:43] [跳过重复] SAT语法知识点(1).pdf
+[19:16:43] [跳过重复] 可汗阅读(1).pdf
+[19:16:43] [跳过重复] 标化考试Standardized Test(1).docx
+[19:16:43] [跳过重复] 美国高考3000词电子版(1).pdf
+[19:16:43] [跳过重复] ACT备考策略简介BN20210416(1).pptx
+[19:16:43] [跳过重复] 机考SAT- 介绍(1).pdf
+[19:16:43] [跳过重复] 教师资源介绍及报价(1)(1).xlsx
+[19:16:43] [跳过重复] 机构推荐(1).xlsx
+[19:17:14] [跳过重复] Massanari2015_-_--_Gamergate_and_The_Fappening-_How_Reddit-s_algorithm_governance_and_cult (1).pdf
+[19:17:30] [跳过重复] Hodkinson_2002 (1).pdf
+[19:17:35] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[19:17:35] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[19:17:35] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[19:17:43] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[19:17:43] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[19:17:43] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[19:18:39] [跳过重复] writing workshop in Wuhan(1).docx
+[19:19:11] [跳过重复] Massanari2015_-_--_Gamergate_and_The_Fappening-_How_Reddit-s_algorithm_governance_and_cult (1).pdf
+[19:19:22] 扫描完成：1722 普通文件，217 OCR PDF，跳过规则 87 个，重复副本 231 个，图片 459 张
+[19:19:22] dry-run 完成，未处理任何文件。
+[19:19:57] [跳过重复] John Locke v3-Finalized (1).docx
+[19:19:57] [跳过重复] Question 2(ver.4) - Final (1).docx
+[19:19:57] [跳过重复] Yuri 2nd Draft(1).docx
+[19:19:57] [跳过重复] Yuri - Draft 2 - Finalized (1).doc
+[19:21:28] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[19:21:28] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[19:21:28] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[19:23:18] === run_pipeline.py 开始 2026-06-09 19:23:18 ===
+[19:23:18] skip_list: 147 个，已处理记录: 0 个
+[19:23:18] 扫描目录（OCR PDF 检测中，< 1s/PDF）…
+[19:23:19] 扫描 ../途策 知识库（3368 个路径，1291 个 PDF 需 OCR 检测）
+[19:23:19] [跳过重复] AP 2021 Exam Dates - AP Central _ College Board(1).pdf
+[19:23:20] [跳过重复] AP Student-Score-Distributions-2020(1).pdf
+[19:23:21] [跳过重复] All About AP(1).docx
+[19:23:21] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[19:23:21] [跳过重复] 【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？(1).pdf
+[19:23:21] [跳过重复] 公办AP的佼佼者——华二国课班(1).pdf
+[19:23:21] [跳过重复] 华东师大二附中2021届毕业生海外名校申请结果出炉！(1).pdf
+[19:23:21] [跳过重复] 华二APnotes -  2022 Updates(1).docx
+[19:23:21] [跳过重复] 成绩单样式(1).pdf
+[19:23:21] [跳过重复] 2022IEP升学信息(1).pdf
+[19:23:21] [跳过重复] Trancript Sample(1).pdf
+[19:23:22] [跳过重复] 上海平和 IEP 班 Notes(1).docx
+[19:23:22] [跳过重复] 2017年 星河湾 申请录取结果(1).pdf
+[19:23:22] [跳过重复] 2018年 星河湾 申请录取结果(1).pdf
+[19:23:22] [跳过重复] 2019年 星河湾 申请录取结果(1).pdf
+[19:23:22] [跳过重复] 2020年 星河湾 申请录取结果(1).pdf
+[19:23:22] [跳过重复] 2022学年 新高二 数学 AP 限定选修 选修课程 选课单(1).xlsx
+[19:23:22] [跳过重复] School Transcript(1).pdf
+[19:23:22] [跳过重复] 上海星河湾 AP school profile(1).pdf
+[19:23:23] [跳过重复] 上海星河湾 Notes - 2022 update(1).docx
+[19:23:23] [跳过重复] 星河湾 2017 - 2020 申请结果 文章链接(1).txt
+[19:23:23] [跳过重复] 星河湾 notes(1).docx
+[19:23:23] [跳过重复] HSPDCourseCatalog2223Feb16(1).pdf
+[19:23:23] [跳过重复] UpdatedPXCatalog(1).pdf
+[19:23:24] [跳过重复] school profile-Class 2022(1).pdf
+[19:23:25] [跳过重复] 合肥一中国际部Notes - 2022 Updates(1).docx
+[19:23:25] [跳过重复] 成绩单示例(1).pdf
+[19:23:25] [跳过重复] 山东省实验国际部notes -2022 Updates(1).docx
+[19:23:25] [跳过重复] 成绩单样式(1).pdf
+[19:23:25] [跳过重复] 2021 St induction (AP11 & AP12)(1).pdf
+[19:23:25] [跳过重复] 2023 PeerBuddy Course Registration Guide 选课指南(1).pdf
+[19:23:25] [跳过重复] HFI - 学生手册选课必看部分(1).pdf
+[19:23:26] [跳过重复] HFI - 学生手册选课必看部分_批注(1).pdf
+[19:23:26] [跳过重复] HFI AP Course Choices(1).pdf
+[19:23:26] [跳过重复] HFI Notes - 2022 update(1).docx
+[19:23:26] [跳过重复] HFI Notes(1).docx
+[19:23:26] [跳过重复] HFI School Profile 2021-202109(1).pdf
+[19:23:26] [跳过重复] HFI Student Handbook 2020-21 v1.3-Section-4(1).pdf
+[19:23:27] [跳过重复] HFI Student Handbook 2021-22 v1.1(1).doc
+[19:23:27] [跳过重复] AP USH+Assessment+Summary-+Reilly(1).docx
+[19:23:27] [跳过重复] G11_AP Calculus BC Syllabus 2021-2022(1).pdf
+[19:23:27] [跳过重复] G11_AP ES_Assessment(1).pdf
+[19:23:28] [跳过重复] G11_AP HG_Assessment(1).pdf
+[19:23:28] [跳过重复] G11_World History Assessment Summary 2021-22(1).docx
+[19:23:28] [跳过重复] HFI G11 A.P.+Euro History(1).docx
+[19:23:28] [跳过重复] HFI-G11-GE PPT(1).pptx
+[19:23:28] [跳过重复] 22.06.01 线上分享会(对外)(1).pdf
+[19:23:28] [跳过重复] 2021 高一选课说明_Final_6.18(1).pdf
+[19:23:29] [跳过重复] [1] 20220430 高二动员大会重要事项(1)(1).pdf
+[19:23:29] [跳过重复] [2] 2022本科申请材料清单-SSAP(1)(1)(1).xlsx
+[19:23:29] [跳过重复] [3] 2022本科申请材料清单-SSAP-详细说明(1)(1)(1).docx
+[19:23:29] [跳过重复] 广东省实验AP Notes - 2022 update 1(1).docx
+[19:23:29] [跳过重复] 20220505家长会分享版（含2022录取结果）(1).pdf
+[19:23:29] [跳过重复] 深圳中学2013~2019录取数据(1).docx
+[19:23:29] [跳过重复] 深圳中学Notes - 2022 update(1).docx
+[19:23:29] [跳过重复] 碧桂园 AP G1-G3选课说明(1).pdf
+[19:23:30] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[19:23:31] [跳过重复] 碧桂园AP Notes - 2022 update(1).docx
+[19:23:31] [跳过重复] 碧桂园竞赛&学院活动规划(1).xlsx
+[19:23:31] [跳过重复] 附件1：2022-2023BIBS·C国际竞赛训练营各校区开设列表(1).xlsx
+[19:23:31] [跳过重复] 附件1：Projects Introduction of Long-term Research Program(1).pdf
+[19:23:31] [跳过重复] 附件2：Instructor Introduction of Long-term Research Program(1).pdf
+[19:23:31] [跳过重复] 附件2：商赛、经济、综合类师资介绍Teachers for Business Economics Competition(1).pdf
+[19:23:33] [跳过重复] 附件3：Introduction of 2023 BIBS · C Team Recruitment of iGEM(1).pdf
+[19:23:33] [跳过重复] 附件3：数、理、生竞赛师资介绍Teachers for MATH PHISICS&BIO(1).pdf
+[19:23:34] [跳过重复] 附件4：Introduction of 2022 Southern BIBS·C Schools Team Recruitment of HiMCM(1).pdf
+[19:23:34] [跳过重复] 附件4：计算机类竞赛师资介绍Teachers For Computer Science(1).pdf
+[19:23:35] [跳过重复] 附件5：Study Arrangement of Each Project(1).pdf
+[19:23:35] [跳过重复] BIGZ Senior Project 2022-23(1).pdf
+[19:23:35] [跳过重复] G10_Elective Catalog_2022-23(1).pdf
+[19:23:35] [跳过重复] Grade 10 Course Selection 2022-2023(1).pdf
+[19:23:35] [跳过重复] 广州贝赛斯 Notes - 2022 Updates(1).docx
+[19:23:35] [跳过重复] 2021-2022 Student Handbook(1).pdf
+[19:23:36] [跳过重复] AP Micro 2016(1).pdf
+[19:23:36] [跳过重复] AP Micro 2017(1).pdf
+[19:23:36] [跳过重复] AP Micro 2018(1).pdf
+[19:23:36] [跳过重复] AP Micro 2019(1).pdf
+[19:23:36] [跳过重复] CCOSchoolProfile(1).pdf
+[19:23:37] [跳过重复] JHU录取(1).pdf
+[19:23:39] [跳过重复] 南开国际课程中心毕业生就读学校统计（2010-2019）(1).pdf
+[19:23:39] [跳过重复] 对话南开学子蔡向濛丨走进美国斯坦福大学的法宝：良师、良友、良机(1).pdf
+[19:23:40] [跳过重复] 斯坦福牛津Case(1).pdf
+[19:23:42] [跳过重复] 重庆南开中学国际课程中心2020届录取汇总(1).pdf
+[19:23:42] [跳过重复] 2019_范德堡大学ED教育学_Jerry(1).pdf
+[19:23:43] [跳过重复] 2019年录取结果(1).pdf
+[19:23:48] [跳过重复] 2020_UWM & 伦斯特理工(1).pdf
+[19:23:49] [跳过重复] 2020_南加大和佐治亚理工_Alice(1).pdf
+[19:23:50] [跳过重复] 21.03.06线上家长会--crystal(1).pdf
+[19:23:50] [跳过重复] Bojing Yu - CA - OSU(1).pdf
+[19:23:50] [跳过重复] Haotong Wang - CA - UW-M(1).pdf
+[19:23:50] [跳过重复] Haowen Jiang - CA - NYU(1).pdf
+[19:23:50] [跳过重复] Songyu Han - CA - CMU(1).pdf
+[19:23:50] [跳过重复] Xiaoyu Qiu - CA - USC(1).pdf
+[19:23:50] [跳过重复] 成绩单 Semester(1).pdf
+[19:23:50] [跳过重复] 活动规划之升级打怪20210306--YI(1).pptx
+[19:23:50] [跳过重复] 青岛博格思加州学校国际高中班招生简章(1).pdf
+[19:23:51] [跳过重复] All about A-Level(1).docx
+[19:23:51] [跳过重复] CIE-2021-timetable-zone-5(1).pdf
+[19:23:53] [跳过重复] 南京外国语中英班notes(1).docx
+[19:23:53] [跳过重复] 2018录取结果(1).pdf
+[19:23:53] [跳过重复] 2019录取结果(1).pdf
+[19:23:54] [跳过重复] 2020录取结果(1).pdf
+[19:23:54] [跳过重复] 2021录取结果(1).pdf
+[19:24:02] [跳过重复] 2022-2023 A1_Options_book(1).pdf
+[19:24:02] [跳过重复] The school profile – Shenzhen College of International Education(1).pdf
+[19:24:02] [跳过重复] 家长版-深国交4年案例(1).pdf
+[19:24:02] [跳过重复] 成绩单(1).pdf
+[19:24:02] [跳过重复] 深国交 Notes - 2022 Update(1).docx
+[19:24:02] [跳过重复] 深国交2023美本录取发布(1).pdf
+[19:24:03] [跳过重复] 深国交社团表(1).xlsx
+[19:24:03] [跳过重复] 220404 浑朴毕业生学术分享会 IB TOK(1).pdf
+[19:24:03] [跳过重复] All about IB(1).docx
+[19:24:04] [跳过重复] Math IA step 1(1).pdf
+[19:24:04] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[19:24:04] [跳过重复] Semester_One_Reports_2020-2021(1).pdf
+[19:24:04] [跳过重复] Semester_Two_Reports_2020-2021(1).pdf
+[19:24:04] [跳过重复] Service Stream Zhi Xing Activity 2021-2022_Intro(1).docx
+[19:24:04] [跳过重复] Teresa Chen DP1 Transcript_2020-2021-1(1).pdf
+[19:24:04] [跳过重复] UWC Changshu Notes - 2022 update(1).docx
+[19:24:04] [跳过重复] UWC Notes(1).docx
+[19:24:04] [跳过重复] UWC 常熟学校册子(1).pdf
+[19:24:04] [跳过重复] may-2021-exam-schedule-english-revised-v2(1).pdf
+[19:24:05] [跳过重复] 2017年 七宝德怀特 申请录取情况(1).pdf
+[19:24:05] [跳过重复] 2018年 七宝德怀特 申请录取结果(1).pdf
+[19:24:05] [跳过重复] 2019年 七宝德怀特 申请录取结果(1).pdf
+[19:24:05] [跳过重复] 2020年 七宝德怀特 申请录取结果(1).pdf
+[19:24:06] [跳过重复] IBDP subject briefs_class 2024_CHN(1).pdf
+[19:24:06] [跳过重复] IB_DP_Course_Prerequisites_Class_2021(1).pdf
+[19:24:06] [跳过重复] QDHS Course Selection Guide 选课指南 202111(1).pdf
+[19:24:07] [跳过重复] QDHS Course Selection Guide(1).pdf
+[19:24:07] [跳过重复] 七宝德怀特 Note - 2022update(1).docx
+[19:24:07] [跳过重复] 七宝德怀特 学校社团 2022(1).pdf
+[19:24:07] [跳过重复] 上海七德 2017 - 2022 录取结果 文章链接(1).txt
+[19:24:07] [跳过重复] School Profile(1).pdf
+[19:24:07] [跳过重复] 上中（IB）- Notes 2022(1).docx
+[19:24:07] [跳过重复] 上海_上中国际 IB Program Selective Survey(1).pdf
+[19:24:07] [跳过重复] 2022世外中学升学分享会+艺体+传媒+设计(1).docx
+[19:24:07] [跳过重复] 2022世外中学升学分享会+（社会学+人文+文化）(1).docx
+[19:24:07] [跳过重复] 上海世界外国语中学2020录取榜单(1).docx
+[19:24:07] [跳过重复] 世外 2021_推荐暑校(1).pdf
+[19:24:07] [跳过重复] 世外2020录取结果(1).pdf
+[19:24:10] [跳过重复] 世外Notes - 2022 Updates(1).docx
+[19:24:10] [跳过重复] YKPao School Profile(1).pdf
+[19:24:11] [跳过重复] 包校成绩单（半学期）(1).pdf
+[19:24:11] [跳过重复] 包校成绩单（学期）(1).pdf
+[19:24:11] [跳过重复] 包玉刚 Notes - 2022 update(1).docx
+[19:24:11] [跳过重复] 包玉刚-高中课程手册2019-2021(1).pdf
+[19:24:11] [跳过重复] IB Options booklet (Feb 2023)(1).pdf
+[19:24:11] [跳过重复] 2019-2020_1st_Semester_Report_2019203(1).pdf
+[19:24:11] [跳过重复] 2019-2020_2nd_Semester_Report_2019203(1).pdf
+[19:24:11] [跳过重复] 2021-2022 1st semester club fair 社团列表(1).pdf
+[19:24:11] [跳过重复] IEP社团活动场地与老师安排202009(1).xlsx
+[19:24:11] [跳过重复] 学期中成绩单范例(1).pdf
+[19:24:11] [跳过重复] 平和IB Notes - 2022 update(1).docx
+[19:24:11] [跳过重复] 平和IBDP2020届录取结果(1).pdf
+[19:24:12] [跳过重复] 平和IBDP2021届毕业生录取结果汇总(1).pdf
+[19:24:12] [跳过重复] CAS(1).pdf
+[19:24:12] [跳过重复] EE&TOK(1).pdf
+[19:24:13] [跳过重复] G1 中文A(1).pdf
+[19:24:13] [跳过重复] G1 英文A 文学(1).pdf
+[19:24:13] [跳过重复] G1 英文A 语言与文学(1).pdf
+[19:24:14] [跳过重复] G2 英文B(1).pdf
+[19:24:14] [跳过重复] G3 商务 地理 哲学 历史 心理(1).pdf
+[19:24:14] [跳过重复] G3 经济(1).pdf
+[19:24:14] [跳过重复] G4 化学 生物 环境(1).pdf
+[19:24:15] [跳过重复] G4 物理(1).pdf
+[19:24:15] [跳过重复] G5 数学(1).pdf
+[19:24:16] [跳过重复] G6 视觉艺术 音乐(1).pdf
+[19:24:20] [跳过重复] CommonApp账号与Cialfo的关联(1).pdf
+[19:24:20] [跳过重复] DP G4-3班选校单(1)(1)(1).docx
+[19:24:20] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[19:24:21] [跳过重复] 碧桂园IB Notes - 2022 update(1).docx
+[19:24:21] [跳过重复] AP IB Alevel三大课程对比(1).pdf
+[19:24:23] [跳过重复] AP IB Alevel三大课程对比2(1).pdf
+[19:24:25] [跳过重复] AP IB Alevel三大课程对比3(1).pdf
+[19:24:27] [跳过重复] [School Name] Notes - 2022 update(1).docx
+[19:24:27] [跳过重复] 国际课程体系AP IB Alevel(1).docx
+[19:24:27] [跳过重复] 国际课程线上学习资源(1).docx
+[19:24:27] [跳过重复] IELTS 高分写作模板(1).pdf
+[19:24:28] [跳过重复] Simon考官9分大作文范文合集(1).pdf
+[19:24:28] [跳过重复] TOEFL_16篇独立范文-词组学习(1).pdf
+[19:24:28] [跳过重复] 写作八大话题语料积累(1).docx
+[19:24:28] [跳过重复] TPO听力按学科分类词汇(1).pdf
+[19:24:29] [跳过重复] 假如美国人也背TOEFL词汇(1).pdf
+[19:24:29] [跳过重复] 托福口语看这本就够了_张涵(1).pdf
+[19:24:29] [跳过重复] 120316 (L)(1).docx
+[19:24:29] [跳过重复] 120316 (R)(1).docx
+[19:24:29] [跳过重复] 120316 (S)(1).docx
+[19:24:29] [跳过重复] 120316 (W)(1).docx
+[19:24:29] [跳过重复] 12月16年(1).docx
+[19:24:29] [跳过重复] ACT VS SAT 异同分析(1).pdf
+[19:24:30] [跳过重复] ACT下载链接(1).txt
+[19:24:30] [跳过重复] Colleges That Superscore ACT_(1).pdf
+[19:24:30] [跳过重复] How Do You Calculate SAT Score_ Raw and Scaled(1).pdf
+[19:24:31] [跳过重复] SAT-ACT 小说文学素养强化教程FV1.1(1).pdf
+[19:24:32] [跳过重复] 极简英语思维(1).pdf
+[19:24:32] [跳过重复] Emily Dickinson - The Complete Poems of Emily Dickinson (1960)(1).pdf
+[19:24:32] [跳过重复] [Arden Shakespeare_ Third Series] William Shakespeare, Katherine Duncan-Jones (editor) - Shakespeare's Sonnets (1997, Bloomsbury Arden Shakespeare) - libgen.li(1).pdf
+[19:24:33] [跳过重复] SAT ACT分数转换(1).pdf
+[19:24:35] [跳过重复] 2016-2021.12SAT真题网盘链接(1).txt
+[19:24:35] [跳过重复] 2020亚太真题SAT(1).pdf
+[19:24:35] [跳过重复] 2021 North America 数学2. pdf(1).pdf
+[19:24:36] [跳过重复] 2021 North America 数学1(1).pdf
+[19:24:36] [跳过重复] 2021 North america 阅读(1).pdf
+[19:24:36] [跳过重复] 答案(1).pdf
+[19:24:36] [跳过重复] 2021 3月亚太真题‚(1).pdf
+[19:24:36] [跳过重复] 2021 3月亚太答案 pdf(1).pdf
+[19:24:36] [跳过重复] 21年5月北美 SAT 真题(1).pdf
+[19:24:36] [跳过重复] 21年5月北美 SAT 答案(1).pdf
+[19:24:36] [跳过重复] SAT语法知识点(1).pdf
+[19:24:36] [跳过重复] 可汗阅读(1).pdf
+[19:24:36] [跳过重复] 标化考试Standardized Test(1).docx
+[19:24:36] [跳过重复] 美国高考3000词电子版(1).pdf
+[19:24:36] [跳过重复] ACT备考策略简介BN20210416(1).pptx
+[19:24:36] [跳过重复] 机考SAT- 介绍(1).pdf
+[19:24:36] [跳过重复] 教师资源介绍及报价(1)(1).xlsx
+[19:24:36] [跳过重复] 机构推荐(1).xlsx
+[19:25:04] [跳过重复] Massanari2015_-_--_Gamergate_and_The_Fappening-_How_Reddit-s_algorithm_governance_and_cult (1).pdf
+[19:25:19] [跳过重复] Hodkinson_2002 (1).pdf
+[19:26:25] [跳过重复] writing workshop in Wuhan(1).docx
+[19:26:56] [跳过重复] Massanari2015_-_--_Gamergate_and_The_Fappening-_How_Reddit-s_algorithm_governance_and_cult (1).pdf
+[19:27:43] [跳过重复] John Locke v3-Finalized (1).docx
+[19:27:43] [跳过重复] Question 2(ver.4) - Final (1).docx
+[19:27:43] [跳过重复] Yuri 2nd Draft(1).docx
+[19:27:43] [跳过重复] Yuri - Draft 2 - Finalized (1).doc
+[19:29:25] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[19:29:25] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[19:29:25] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[19:29:34] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[19:29:34] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[19:29:34] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[19:34:06] 扫描完成：1722 普通文件，217 OCR PDF，跳过规则 87 个，重复副本 231 个，图片 459 张
+[19:34:06] 现有 chunk 数：4619，新 chunk seq 从 4620 起
+[19:34:06] 现有 content md5：4619 个（跨运行去重）
+[19:34:06] 
+--- 批次 1：403 文件，493.5 MB ---
+[19:37:53]   ✗ .~2716 (R).docx: Package not found at '../途策 知识库/Training/01 General Information/12 标化考试/12.1 TOEFL&IELTS/托福真题/20160827/.~2716 (R).docx'
+[19:37:53]   ✗ .~2716 (R).docx: Package not found at '../途策 知识库/Training/01 General Information/12 标化考试/12.1 TOEFL&IELTS/托福真题/20160827 2/.~2716 (R).docx'
+[19:40:20]   ✗ 美国大U前60文理前40录取要求总结和录取特点-Conflict-jadedong_Win10.xls: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+[19:40:20]   ✗ 美国大U前60文理前40录取要求总结和录取特点.xls: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+[22:10:53] === run_pipeline.py 开始 2026-06-09 22:10:53 ===
+[22:10:53] skip_list: 147 个，已处理记录: 0 个
+[22:10:53] 扫描目录（OCR PDF 检测中，< 1s/PDF）…
+[22:10:54] 扫描 ../途策 知识库（3368 个路径，1291 个 PDF 需 OCR 检测）
+[22:10:54] [跳过重复] AP 2021 Exam Dates - AP Central _ College Board(1).pdf
+[22:10:55] [跳过重复] AP Student-Score-Distributions-2020(1).pdf
+[22:10:56] [跳过重复] All About AP(1).docx
+[22:10:56] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[22:10:56] [跳过重复] 【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？(1).pdf
+[22:10:56] [跳过重复] 公办AP的佼佼者——华二国课班(1).pdf
+[22:10:56] [跳过重复] 华东师大二附中2021届毕业生海外名校申请结果出炉！(1).pdf
+[22:10:57] [跳过重复] 华二APnotes -  2022 Updates(1).docx
+[22:10:57] [跳过重复] 成绩单样式(1).pdf
+[22:10:57] [跳过重复] 2022IEP升学信息(1).pdf
+[22:10:57] [跳过重复] Trancript Sample(1).pdf
+[22:10:57] [跳过重复] 上海平和 IEP 班 Notes(1).docx
+[22:10:57] [跳过重复] 2017年 星河湾 申请录取结果(1).pdf
+[22:10:57] [跳过重复] 2018年 星河湾 申请录取结果(1).pdf
+[22:10:57] [跳过重复] 2019年 星河湾 申请录取结果(1).pdf
+[22:10:58] [跳过重复] 2020年 星河湾 申请录取结果(1).pdf
+[22:10:58] [跳过重复] 2022学年 新高二 数学 AP 限定选修 选修课程 选课单(1).xlsx
+[22:10:58] [跳过重复] School Transcript(1).pdf
+[22:10:58] [跳过重复] 上海星河湾 AP school profile(1).pdf
+[22:10:58] [跳过重复] 上海星河湾 Notes - 2022 update(1).docx
+[22:10:58] [跳过重复] 星河湾 2017 - 2020 申请结果 文章链接(1).txt
+[22:10:58] [跳过重复] 星河湾 notes(1).docx
+[22:10:58] [跳过重复] HSPDCourseCatalog2223Feb16(1).pdf
+[22:10:59] [跳过重复] UpdatedPXCatalog(1).pdf
+[22:11:00] [跳过重复] school profile-Class 2022(1).pdf
+[22:11:00] [跳过重复] 合肥一中国际部Notes - 2022 Updates(1).docx
+[22:11:00] [跳过重复] 成绩单示例(1).pdf
+[22:11:00] [跳过重复] 山东省实验国际部notes -2022 Updates(1).docx
+[22:11:00] [跳过重复] 成绩单样式(1).pdf
+[22:11:00] [跳过重复] 2021 St induction (AP11 & AP12)(1).pdf
+[22:11:00] [跳过重复] 2023 PeerBuddy Course Registration Guide 选课指南(1).pdf
+[22:11:01] [跳过重复] HFI - 学生手册选课必看部分(1).pdf
+[22:11:01] [跳过重复] HFI - 学生手册选课必看部分_批注(1).pdf
+[22:11:01] [跳过重复] HFI AP Course Choices(1).pdf
+[22:11:01] [跳过重复] HFI Notes - 2022 update(1).docx
+[22:11:01] [跳过重复] HFI Notes(1).docx
+[22:11:01] [跳过重复] HFI School Profile 2021-202109(1).pdf
+[22:11:02] [跳过重复] HFI Student Handbook 2020-21 v1.3-Section-4(1).pdf
+[22:11:02] [跳过重复] HFI Student Handbook 2021-22 v1.1(1).doc
+[22:11:02] [跳过重复] AP USH+Assessment+Summary-+Reilly(1).docx
+[22:11:02] [跳过重复] G11_AP Calculus BC Syllabus 2021-2022(1).pdf
+[22:11:02] [跳过重复] G11_AP ES_Assessment(1).pdf
+[22:11:03] [跳过重复] G11_AP HG_Assessment(1).pdf
+[22:11:03] [跳过重复] G11_World History Assessment Summary 2021-22(1).docx
+[22:11:03] [跳过重复] HFI G11 A.P.+Euro History(1).docx
+[22:11:03] [跳过重复] HFI-G11-GE PPT(1).pptx
+[22:11:03] [跳过重复] 22.06.01 线上分享会(对外)(1).pdf
+[22:11:04] [跳过重复] 2021 高一选课说明_Final_6.18(1).pdf
+[22:11:04] [跳过重复] [1] 20220430 高二动员大会重要事项(1)(1).pdf
+[22:11:04] [跳过重复] [2] 2022本科申请材料清单-SSAP(1)(1)(1).xlsx
+[22:11:04] [跳过重复] [3] 2022本科申请材料清单-SSAP-详细说明(1)(1)(1).docx
+[22:11:04] [跳过重复] 广东省实验AP Notes - 2022 update 1(1).docx
+[22:11:04] [跳过重复] 20220505家长会分享版（含2022录取结果）(1).pdf
+[22:11:05] [跳过重复] 深圳中学2013~2019录取数据(1).docx
+[22:11:05] [跳过重复] 深圳中学Notes - 2022 update(1).docx
+[22:11:05] [跳过重复] 碧桂园 AP G1-G3选课说明(1).pdf
+[22:11:05] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[22:11:07] [跳过重复] 碧桂园AP Notes - 2022 update(1).docx
+[22:11:07] [跳过重复] 碧桂园竞赛&学院活动规划(1).xlsx
+[22:11:07] [跳过重复] 附件1：2022-2023BIBS·C国际竞赛训练营各校区开设列表(1).xlsx
+[22:11:07] [跳过重复] 附件1：Projects Introduction of Long-term Research Program(1).pdf
+[22:11:07] [跳过重复] 附件2：Instructor Introduction of Long-term Research Program(1).pdf
+[22:11:07] [跳过重复] 附件2：商赛、经济、综合类师资介绍Teachers for Business Economics Competition(1).pdf
+[22:11:08] [跳过重复] 附件3：Introduction of 2023 BIBS · C Team Recruitment of iGEM(1).pdf
+[22:11:09] [跳过重复] 附件3：数、理、生竞赛师资介绍Teachers for MATH PHISICS&BIO(1).pdf
+[22:11:09] [跳过重复] 附件4：Introduction of 2022 Southern BIBS·C Schools Team Recruitment of HiMCM(1).pdf
+[22:11:10] [跳过重复] 附件4：计算机类竞赛师资介绍Teachers For Computer Science(1).pdf
+[22:11:11] [跳过重复] 附件5：Study Arrangement of Each Project(1).pdf
+[22:11:11] [跳过重复] BIGZ Senior Project 2022-23(1).pdf
+[22:11:11] [跳过重复] G10_Elective Catalog_2022-23(1).pdf
+[22:11:11] [跳过重复] Grade 10 Course Selection 2022-2023(1).pdf
+[22:11:11] [跳过重复] 广州贝赛斯 Notes - 2022 Updates(1).docx
+[22:11:11] [跳过重复] 2021-2022 Student Handbook(1).pdf
+[22:11:12] [跳过重复] AP Micro 2016(1).pdf
+[22:11:12] [跳过重复] AP Micro 2018(1).pdf
+[22:11:12] [跳过重复] CCOSchoolProfile(1).pdf
+[22:11:13] [跳过重复] JHU录取(1).pdf
+[22:11:15] [跳过重复] 南开国际课程中心毕业生就读学校统计（2010-2019）(1).pdf
+[22:11:15] [跳过重复] 对话南开学子蔡向濛丨走进美国斯坦福大学的法宝：良师、良友、良机(1).pdf
+[22:11:16] [跳过重复] 斯坦福牛津Case(1).pdf
+[22:11:18] [跳过重复] 重庆南开中学国际课程中心2020届录取汇总(1).pdf
+[22:11:18] [跳过重复] 2019_范德堡大学ED教育学_Jerry(1).pdf
+[22:11:19] [跳过重复] 2019年录取结果(1).pdf
+[22:11:23] [跳过重复] 2020_南加大和佐治亚理工_Alice(1).pdf
+[22:11:24] [跳过重复] 21.03.06线上家长会--crystal(1).pdf
+[22:11:25] [跳过重复] Bojing Yu - CA - OSU(1).pdf
+[22:11:25] [跳过重复] Haotong Wang - CA - UW-M(1).pdf
+[22:11:25] [跳过重复] Haowen Jiang - CA - NYU(1).pdf
+[22:11:25] [跳过重复] Songyu Han - CA - CMU(1).pdf
+[22:11:25] [跳过重复] Xiaoyu Qiu - CA - USC(1).pdf
+[22:11:25] [跳过重复] 成绩单 Semester(1).pdf
+[22:11:25] [跳过重复] 活动规划之升级打怪20210306--YI(1).pptx
+[22:11:25] [跳过重复] 青岛博格思加州学校国际高中班招生简章(1).pdf
+[22:11:25] [跳过重复] All about A-Level(1).docx
+[22:11:25] [跳过重复] CIE-2021-timetable-zone-5(1).pdf
+[22:11:27] [跳过重复] 南京外国语中英班notes(1).docx
+[22:11:27] [跳过重复] 2018录取结果(1).pdf
+[22:11:27] [跳过重复] 2019录取结果(1).pdf
+[22:11:27] [跳过重复] 2020录取结果(1).pdf
+[22:11:28] [跳过重复] 2021录取结果(1).pdf
+[22:11:35] [跳过重复] 2022-2023 A1_Options_book(1).pdf
+[22:11:35] [跳过重复] The school profile – Shenzhen College of International Education(1).pdf
+[22:11:35] [跳过重复] 家长版-深国交4年案例(1).pdf
+[22:11:35] [跳过重复] 成绩单(1).pdf
+[22:11:35] [跳过重复] 深国交 Notes - 2022 Update(1).docx
+[22:11:35] [跳过重复] 深国交2023美本录取发布(1).pdf
+[22:11:36] [跳过重复] 深国交社团表(1).xlsx
+[22:11:36] [跳过重复] 220404 浑朴毕业生学术分享会 IB TOK(1).pdf
+[22:11:36] [跳过重复] All about IB(1).docx
+[22:11:37] [跳过重复] Math IA step 1(1).pdf
+[22:11:37] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[22:11:37] [跳过重复] Semester_One_Reports_2020-2021(1).pdf
+[22:11:37] [跳过重复] Semester_Two_Reports_2020-2021(1).pdf
+[22:11:37] [跳过重复] Service Stream Zhi Xing Activity 2021-2022_Intro(1).docx
+[22:11:37] [跳过重复] Teresa Chen DP1 Transcript_2020-2021-1(1).pdf
+[22:11:37] [跳过重复] UWC Changshu Notes - 2022 update(1).docx
+[22:11:37] [跳过重复] UWC Notes(1).docx
+[22:11:37] [跳过重复] UWC 常熟学校册子(1).pdf
+[22:11:37] [跳过重复] may-2021-exam-schedule-english-revised-v2(1).pdf
+[22:11:38] [跳过重复] 2017年 七宝德怀特 申请录取情况(1).pdf
+[22:11:38] [跳过重复] 2018年 七宝德怀特 申请录取结果(1).pdf
+[22:11:38] [跳过重复] 2019年 七宝德怀特 申请录取结果(1).pdf
+[22:11:38] [跳过重复] 2020年 七宝德怀特 申请录取结果(1).pdf
+[22:11:39] [跳过重复] IB_DP_Course_Prerequisites_Class_2021(1).pdf
+[22:11:39] [跳过重复] QDHS Course Selection Guide 选课指南 202111(1).pdf
+[22:11:39] [跳过重复] QDHS Course Selection Guide(1).pdf
+[22:11:40] [跳过重复] 七宝德怀特 Note - 2022update(1).docx
+[22:11:40] [跳过重复] 七宝德怀特 学校社团 2022(1).pdf
+[22:11:40] [跳过重复] 上海七德 2017 - 2022 录取结果 文章链接(1).txt
+[22:11:40] [跳过重复] School Profile(1).pdf
+[22:11:40] [跳过重复] 上中（IB）- Notes 2022(1).docx
+[22:11:40] [跳过重复] 上海_上中国际 IB Program Selective Survey(1).pdf
+[22:11:40] [跳过重复] 2022世外中学升学分享会+艺体+传媒+设计(1).docx
+[22:11:40] [跳过重复] 2022世外中学升学分享会+（社会学+人文+文化）(1).docx
+[22:11:40] [跳过重复] 上海世界外国语中学2020录取榜单(1).docx
+[22:11:40] [跳过重复] 世外2020录取结果(1).pdf
+[22:11:43] [跳过重复] 世外Notes - 2022 Updates(1).docx
+[22:11:43] [跳过重复] YKPao School Profile(1).pdf
+[22:11:44] [跳过重复] 包校成绩单（半学期）(1).pdf
+[22:11:44] [跳过重复] 包校成绩单（学期）(1).pdf
+[22:11:44] [跳过重复] 包玉刚 Notes - 2022 update(1).docx
+[22:11:44] [跳过重复] 包玉刚-高中课程手册2019-2021(1).pdf
+[22:11:45] [跳过重复] IB Options booklet (Feb 2023)(1).pdf
+[22:11:45] [跳过重复] 2019-2020_1st_Semester_Report_2019203(1).pdf
+[22:11:45] [跳过重复] 2019-2020_2nd_Semester_Report_2019203(1).pdf
+[22:11:45] [跳过重复] 2021-2022 1st semester club fair 社团列表(1).pdf
+[22:11:45] [跳过重复] IEP社团活动场地与老师安排202009(1).xlsx
+[22:11:45] [跳过重复] 学期中成绩单范例(1).pdf
+[22:11:45] [跳过重复] 平和IB Notes - 2022 update(1).docx
+[22:11:45] [跳过重复] 平和IBDP2020届录取结果(1).pdf
+[22:11:46] [跳过重复] 平和IBDP2021届毕业生录取结果汇总(1).pdf
+[22:11:46] [跳过重复] CAS(1).pdf
+[22:11:47] [跳过重复] EE&TOK(1).pdf
+[22:11:47] [跳过重复] G1 中文A(1).pdf
+[22:11:47] [跳过重复] G1 英文A 文学(1).pdf
+[22:11:48] [跳过重复] G1 英文A 语言与文学(1).pdf
+[22:11:48] [跳过重复] G2 英文B(1).pdf
+[22:11:48] [跳过重复] G3 商务 地理 哲学 历史 心理(1).pdf
+[22:11:49] [跳过重复] G3 经济(1).pdf
+[22:11:49] [跳过重复] G4 化学 生物 环境(1).pdf
+[22:11:50] [跳过重复] G4 物理(1).pdf
+[22:11:50] [跳过重复] G5 数学(1).pdf
+[22:11:50] [跳过重复] G6 视觉艺术 音乐(1).pdf
+[22:11:56] [跳过重复] CommonApp账号与Cialfo的关联(1).pdf
+[22:11:56] [跳过重复] DP G4-3班选校单(1)(1)(1).docx
+[22:11:56] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[22:11:57] [跳过重复] 碧桂园IB Notes - 2022 update(1).docx
+[22:11:57] [跳过重复] AP IB Alevel三大课程对比(1).pdf
+[22:12:01] [跳过重复] AP IB Alevel三大课程对比2(1).pdf
+[22:12:03] [跳过重复] AP IB Alevel三大课程对比3(1).pdf
+[22:12:05] [跳过重复] [School Name] Notes - 2022 update(1).docx
+[22:12:05] [跳过重复] 国际课程体系AP IB Alevel(1).docx
+[22:12:05] [跳过重复] 国际课程线上学习资源(1).docx
+[22:12:05] [跳过重复] IELTS 高分写作模板(1).pdf
+[22:12:06] [跳过重复] Simon考官9分大作文范文合集(1).pdf
+[22:12:06] [跳过重复] TOEFL_16篇独立范文-词组学习(1).pdf
+[22:12:06] [跳过重复] 写作八大话题语料积累(1).docx
+[22:12:06] [跳过重复] TPO听力按学科分类词汇(1).pdf
+[22:12:07] [跳过重复] 托福口语看这本就够了_张涵(1).pdf
+[22:12:07] [跳过重复] 120316 (L)(1).docx
+[22:12:07] [跳过重复] 120316 (R)(1).docx
+[22:12:07] [跳过重复] 120316 (S)(1).docx
+[22:12:07] [跳过重复] 120316 (W)(1).docx
+[22:12:07] [跳过重复] 12月16年(1).docx
+[22:12:07] [跳过重复] ACT VS SAT 异同分析(1).pdf
+[22:12:08] [跳过重复] ACT下载链接(1).txt
+[22:12:08] [跳过重复] Colleges That Superscore ACT_(1).pdf
+[22:12:08] [跳过重复] How Do You Calculate SAT Score_ Raw and Scaled(1).pdf
+[22:12:09] [跳过重复] SAT-ACT 小说文学素养强化教程FV1.1(1).pdf
+[22:12:10] [跳过重复] 极简英语思维(1).pdf
+[22:12:10] [跳过重复] [Arden Shakespeare_ Third Series] William Shakespeare, Katherine Duncan-Jones (editor) - Shakespeare's Sonnets (1997, Bloomsbury Arden Shakespeare) - libgen.li(1).pdf
+[22:12:11] [跳过重复] SAT ACT分数转换(1).pdf
+[22:12:13] [跳过重复] 2016-2021.12SAT真题网盘链接(1).txt
+[22:12:13] [跳过重复] 2020亚太真题SAT(1).pdf
+[22:12:14] [跳过重复] 2021 North America 数学2. pdf(1).pdf
+[22:12:14] [跳过重复] 2021 North America 数学1(1).pdf
+[22:12:14] [跳过重复] 2021 North america 阅读(1).pdf
+[22:12:14] [跳过重复] 答案(1).pdf
+[22:12:14] [跳过重复] 2021 3月亚太答案 pdf(1).pdf
+[22:12:14] [跳过重复] 21年5月北美 SAT 真题(1).pdf
+[22:12:14] [跳过重复] 21年5月北美 SAT 答案(1).pdf
+[22:12:14] [跳过重复] SAT语法知识点(1).pdf
+[22:12:14] [跳过重复] 可汗阅读(1).pdf
+[22:12:14] [跳过重复] 标化考试Standardized Test(1).docx
+[22:12:14] [跳过重复] ACT备考策略简介BN20210416(1).pptx
+[22:12:14] [跳过重复] 机考SAT- 介绍(1).pdf
+[22:12:14] [跳过重复] 教师资源介绍及报价(1)(1).xlsx
+[22:12:14] [跳过重复] 机构推荐(1).xlsx
+[22:12:50] [跳过重复] John Locke v3-Finalized (1).docx
+[22:12:50] [跳过重复] Question 2(ver.4) - Final (1).docx
+[22:12:50] [跳过重复] Yuri 2nd Draft(1).docx
+[22:12:50] [跳过重复] Yuri - Draft 2 - Finalized (1).doc
+[22:14:22] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[22:14:22] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[22:14:22] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[22:14:30] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[22:14:30] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[22:14:30] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[22:18:15] 扫描完成：1409 普通文件，97 OCR PDF，跳过规则 521 个，重复副本 218 个，图片 459 张
+[22:18:15] 现有 chunk 数：4619，新 chunk seq 从 4620 起
+[22:18:15] 现有 content md5：4619 个（跨运行去重）
+[22:18:15] 
+--- 批次 1：401 文件，499.1 MB ---
+[22:26:58]   批次完成：401 成功，0 失败，4862 新 chunk，524s，内存 0.0 GB
+[22:26:58] --max-batches 1 已达上限，提前停止
+[22:26:58] 
+所有批次完成：新增 4862 个 chunk
+[22:26:58] 执行全局去重…
+[22:26:59] 全局去重：移除 0 个，保留 9481 个
+[22:26:59] --no-ingest：跳过入库
+[22:26:59] 
+批次汇总：
+[22:26:59]     批次      文件    失败   chunk        耗时
+[22:26:59]      1     401     0    4862     524s
+[22:26:59] === 完成 2026-06-09 22:26:59 ===
+[23:30:41] === run_pipeline.py 开始 2026-06-09 23:30:41 ===
+[23:30:41] skip_list: 147 个，已处理记录: 401 个
+[23:30:41] 扫描目录（OCR PDF 检测中，< 1s/PDF）…
+[23:30:41] 扫描 ../途策 知识库（3368 个路径，1291 个 PDF 需 OCR 检测）
+[23:30:41] [跳过重复] AP 2021 Exam Dates - AP Central _ College Board(1).pdf
+[23:30:41] [跳过重复] AP Student-Score-Distributions-2020(1).pdf
+[23:30:41] [跳过重复] All About AP(1).docx
+[23:30:41] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[23:30:41] [跳过重复] 【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？(1).pdf
+[23:30:41] [跳过重复] 公办AP的佼佼者——华二国课班(1).pdf
+[23:30:41] [跳过重复] 华东师大二附中2021届毕业生海外名校申请结果出炉！(1).pdf
+[23:30:41] [跳过重复] 华二APnotes -  2022 Updates(1).docx
+[23:30:41] [跳过重复] 成绩单样式(1).pdf
+[23:30:41] [跳过重复] 2022IEP升学信息(1).pdf
+[23:30:41] [跳过重复] Trancript Sample(1).pdf
+[23:30:41] [跳过重复] 上海平和 IEP 班 Notes(1).docx
+[23:30:41] [跳过重复] 2017年 星河湾 申请录取结果(1).pdf
+[23:30:41] [跳过重复] 2018年 星河湾 申请录取结果(1).pdf
+[23:30:41] [跳过重复] 2019年 星河湾 申请录取结果(1).pdf
+[23:30:41] [跳过重复] 2020年 星河湾 申请录取结果(1).pdf
+[23:30:41] [跳过重复] 2022学年 新高二 数学 AP 限定选修 选修课程 选课单(1).xlsx
+[23:30:41] [跳过重复] School Transcript(1).pdf
+[23:30:41] [跳过重复] 上海星河湾 AP school profile(1).pdf
+[23:30:41] [跳过重复] 上海星河湾 Notes - 2022 update(1).docx
+[23:30:41] [跳过重复] 星河湾 2017 - 2020 申请结果 文章链接(1).txt
+[23:30:41] [跳过重复] 星河湾 notes(1).docx
+[23:30:41] [跳过重复] HSPDCourseCatalog2223Feb16(1).pdf
+[23:30:41] [跳过重复] UpdatedPXCatalog(1).pdf
+[23:30:41] [跳过重复] school profile-Class 2022(1).pdf
+[23:30:41] [跳过重复] 合肥一中国际部Notes - 2022 Updates(1).docx
+[23:30:41] [跳过重复] 成绩单示例(1).pdf
+[23:30:41] [跳过重复] 山东省实验国际部notes -2022 Updates(1).docx
+[23:30:41] [跳过重复] 成绩单样式(1).pdf
+[23:30:41] [跳过重复] 2021 St induction (AP11 & AP12)(1).pdf
+[23:30:41] [跳过重复] 2023 PeerBuddy Course Registration Guide 选课指南(1).pdf
+[23:30:41] [跳过重复] HFI - 学生手册选课必看部分(1).pdf
+[23:30:41] [跳过重复] HFI - 学生手册选课必看部分_批注(1).pdf
+[23:30:41] [跳过重复] HFI AP Course Choices(1).pdf
+[23:30:41] [跳过重复] HFI Notes - 2022 update(1).docx
+[23:30:41] [跳过重复] HFI Notes(1).docx
+[23:30:41] [跳过重复] HFI School Profile 2021-202109(1).pdf
+[23:30:41] [跳过重复] HFI Student Handbook 2020-21 v1.3-Section-4(1).pdf
+[23:30:41] [跳过重复] HFI Student Handbook 2021-22 v1.1(1).doc
+[23:30:41] [跳过重复] AP USH+Assessment+Summary-+Reilly(1).docx
+[23:30:41] [跳过重复] G11_AP Calculus BC Syllabus 2021-2022(1).pdf
+[23:30:41] [跳过重复] G11_AP ES_Assessment(1).pdf
+[23:30:41] [跳过重复] G11_AP HG_Assessment(1).pdf
+[23:30:41] [跳过重复] G11_World History Assessment Summary 2021-22(1).docx
+[23:30:41] [跳过重复] HFI G11 A.P.+Euro History(1).docx
+[23:30:41] [跳过重复] HFI-G11-GE PPT(1).pptx
+[23:30:41] [跳过重复] 22.06.01 线上分享会(对外)(1).pdf
+[23:30:41] [跳过重复] 2021 高一选课说明_Final_6.18(1).pdf
+[23:30:41] [跳过重复] [1] 20220430 高二动员大会重要事项(1)(1).pdf
+[23:30:41] [跳过重复] [2] 2022本科申请材料清单-SSAP(1)(1)(1).xlsx
+[23:30:41] [跳过重复] [3] 2022本科申请材料清单-SSAP-详细说明(1)(1)(1).docx
+[23:30:41] [跳过重复] 广东省实验AP Notes - 2022 update 1(1).docx
+[23:30:41] [跳过重复] 20220505家长会分享版（含2022录取结果）(1).pdf
+[23:30:41] [跳过重复] 深圳中学2013~2019录取数据(1).docx
+[23:30:41] [跳过重复] 深圳中学Notes - 2022 update(1).docx
+[23:30:41] [跳过重复] 碧桂园 AP G1-G3选课说明(1).pdf
+[23:30:41] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[23:30:41] [跳过重复] 碧桂园AP Notes - 2022 update(1).docx
+[23:30:41] [跳过重复] 碧桂园竞赛&学院活动规划(1).xlsx
+[23:30:41] [跳过重复] 附件1：2022-2023BIBS·C国际竞赛训练营各校区开设列表(1).xlsx
+[23:30:41] [跳过重复] 附件1：Projects Introduction of Long-term Research Program(1).pdf
+[23:30:41] [跳过重复] 附件2：Instructor Introduction of Long-term Research Program(1).pdf
+[23:30:41] [跳过重复] 附件2：商赛、经济、综合类师资介绍Teachers for Business Economics Competition(1).pdf
+[23:30:41] [跳过重复] 附件3：Introduction of 2023 BIBS · C Team Recruitment of iGEM(1).pdf
+[23:30:41] [跳过重复] 附件3：数、理、生竞赛师资介绍Teachers for MATH PHISICS&BIO(1).pdf
+[23:30:41] [跳过重复] 附件4：Introduction of 2022 Southern BIBS·C Schools Team Recruitment of HiMCM(1).pdf
+[23:30:41] [跳过重复] 附件4：计算机类竞赛师资介绍Teachers For Computer Science(1).pdf
+[23:30:41] [跳过重复] 附件5：Study Arrangement of Each Project(1).pdf
+[23:30:41] [跳过重复] BIGZ Senior Project 2022-23(1).pdf
+[23:30:41] [跳过重复] G10_Elective Catalog_2022-23(1).pdf
+[23:30:41] [跳过重复] Grade 10 Course Selection 2022-2023(1).pdf
+[23:30:41] [跳过重复] 广州贝赛斯 Notes - 2022 Updates(1).docx
+[23:30:41] [跳过重复] 2021-2022 Student Handbook(1).pdf
+[23:30:41] [跳过重复] AP Micro 2016(1).pdf
+[23:30:41] [跳过重复] AP Micro 2018(1).pdf
+[23:30:41] [跳过重复] CCOSchoolProfile(1).pdf
+[23:30:41] [跳过重复] JHU录取(1).pdf
+[23:30:44] [跳过重复] 南开国际课程中心毕业生就读学校统计（2010-2019）(1).pdf
+[23:30:44] [跳过重复] 对话南开学子蔡向濛丨走进美国斯坦福大学的法宝：良师、良友、良机(1).pdf
+[23:30:44] [跳过重复] 斯坦福牛津Case(1).pdf
+[23:30:46] [跳过重复] 重庆南开中学国际课程中心2020届录取汇总(1).pdf
+[23:30:46] [跳过重复] 2019_范德堡大学ED教育学_Jerry(1).pdf
+[23:30:46] [跳过重复] 2019年录取结果(1).pdf
+[23:30:46] [跳过重复] 2020_南加大和佐治亚理工_Alice(1).pdf
+[23:30:46] [跳过重复] 21.03.06线上家长会--crystal(1).pdf
+[23:30:46] [跳过重复] Bojing Yu - CA - OSU(1).pdf
+[23:30:46] [跳过重复] Haotong Wang - CA - UW-M(1).pdf
+[23:30:46] [跳过重复] Haowen Jiang - CA - NYU(1).pdf
+[23:30:46] [跳过重复] Songyu Han - CA - CMU(1).pdf
+[23:30:46] [跳过重复] Xiaoyu Qiu - CA - USC(1).pdf
+[23:30:46] [跳过重复] 成绩单 Semester(1).pdf
+[23:30:46] [跳过重复] 活动规划之升级打怪20210306--YI(1).pptx
+[23:30:46] [跳过重复] 青岛博格思加州学校国际高中班招生简章(1).pdf
+[23:30:46] [跳过重复] All about A-Level(1).docx
+[23:30:46] [跳过重复] CIE-2021-timetable-zone-5(1).pdf
+[23:30:46] [跳过重复] 南京外国语中英班notes(1).docx
+[23:30:46] [跳过重复] 2018录取结果(1).pdf
+[23:30:46] [跳过重复] 2019录取结果(1).pdf
+[23:30:46] [跳过重复] 2020录取结果(1).pdf
+[23:30:46] [跳过重复] 2021录取结果(1).pdf
+[23:30:53] [跳过重复] 2022-2023 A1_Options_book(1).pdf
+[23:30:53] [跳过重复] The school profile – Shenzhen College of International Education(1).pdf
+[23:30:53] [跳过重复] 家长版-深国交4年案例(1).pdf
+[23:30:53] [跳过重复] 成绩单(1).pdf
+[23:30:53] [跳过重复] 深国交 Notes - 2022 Update(1).docx
+[23:30:53] [跳过重复] 深国交2023美本录取发布(1).pdf
+[23:30:53] [跳过重复] 深国交社团表(1).xlsx
+[23:30:53] [跳过重复] 220404 浑朴毕业生学术分享会 IB TOK(1).pdf
+[23:30:53] [跳过重复] All about IB(1).docx
+[23:30:53] [跳过重复] Math IA step 1(1).pdf
+[23:30:53] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[23:30:53] [跳过重复] Semester_One_Reports_2020-2021(1).pdf
+[23:30:53] [跳过重复] Semester_Two_Reports_2020-2021(1).pdf
+[23:30:53] [跳过重复] Service Stream Zhi Xing Activity 2021-2022_Intro(1).docx
+[23:30:53] [跳过重复] Teresa Chen DP1 Transcript_2020-2021-1(1).pdf
+[23:30:53] [跳过重复] UWC Changshu Notes - 2022 update(1).docx
+[23:30:53] [跳过重复] UWC Notes(1).docx
+[23:30:53] [跳过重复] UWC 常熟学校册子(1).pdf
+[23:30:53] [跳过重复] may-2021-exam-schedule-english-revised-v2(1).pdf
+[23:30:53] [跳过重复] 2017年 七宝德怀特 申请录取情况(1).pdf
+[23:30:53] [跳过重复] 2018年 七宝德怀特 申请录取结果(1).pdf
+[23:30:53] [跳过重复] 2019年 七宝德怀特 申请录取结果(1).pdf
+[23:30:53] [跳过重复] 2020年 七宝德怀特 申请录取结果(1).pdf
+[23:30:53] [跳过重复] IB_DP_Course_Prerequisites_Class_2021(1).pdf
+[23:30:53] [跳过重复] QDHS Course Selection Guide 选课指南 202111(1).pdf
+[23:30:53] [跳过重复] QDHS Course Selection Guide(1).pdf
+[23:30:53] [跳过重复] 七宝德怀特 Note - 2022update(1).docx
+[23:30:53] [跳过重复] 七宝德怀特 学校社团 2022(1).pdf
+[23:30:53] [跳过重复] 上海七德 2017 - 2022 录取结果 文章链接(1).txt
+[23:30:53] [跳过重复] School Profile(1).pdf
+[23:30:53] [跳过重复] 上中（IB）- Notes 2022(1).docx
+[23:30:53] [跳过重复] 上海_上中国际 IB Program Selective Survey(1).pdf
+[23:30:53] [跳过重复] 2022世外中学升学分享会+艺体+传媒+设计(1).docx
+[23:30:53] [跳过重复] 2022世外中学升学分享会+（社会学+人文+文化）(1).docx
+[23:30:53] [跳过重复] 上海世界外国语中学2020录取榜单(1).docx
+[23:30:53] [跳过重复] 世外2020录取结果(1).pdf
+[23:30:57] [跳过重复] 世外Notes - 2022 Updates(1).docx
+[23:30:57] [跳过重复] YKPao School Profile(1).pdf
+[23:30:57] [跳过重复] 包校成绩单（半学期）(1).pdf
+[23:30:57] [跳过重复] 包校成绩单（学期）(1).pdf
+[23:30:57] [跳过重复] 包玉刚 Notes - 2022 update(1).docx
+[23:30:57] [跳过重复] 包玉刚-高中课程手册2019-2021(1).pdf
+[23:30:57] [跳过重复] IB Options booklet (Feb 2023)(1).pdf
+[23:30:57] [跳过重复] 2019-2020_1st_Semester_Report_2019203(1).pdf
+[23:30:57] [跳过重复] 2019-2020_2nd_Semester_Report_2019203(1).pdf
+[23:30:57] [跳过重复] 2021-2022 1st semester club fair 社团列表(1).pdf
+[23:30:57] [跳过重复] IEP社团活动场地与老师安排202009(1).xlsx
+[23:30:57] [跳过重复] 学期中成绩单范例(1).pdf
+[23:30:57] [跳过重复] 平和IB Notes - 2022 update(1).docx
+[23:30:57] [跳过重复] 平和IBDP2020届录取结果(1).pdf
+[23:30:57] [跳过重复] 平和IBDP2021届毕业生录取结果汇总(1).pdf
+[23:30:57] [跳过重复] CAS(1).pdf
+[23:30:57] [跳过重复] EE&TOK(1).pdf
+[23:30:57] [跳过重复] G1 中文A(1).pdf
+[23:30:57] [跳过重复] G1 英文A 文学(1).pdf
+[23:30:57] [跳过重复] G1 英文A 语言与文学(1).pdf
+[23:30:57] [跳过重复] G2 英文B(1).pdf
+[23:30:57] [跳过重复] G3 商务 地理 哲学 历史 心理(1).pdf
+[23:30:57] [跳过重复] G3 经济(1).pdf
+[23:30:57] [跳过重复] G4 化学 生物 环境(1).pdf
+[23:30:57] [跳过重复] G4 物理(1).pdf
+[23:30:57] [跳过重复] G5 数学(1).pdf
+[23:30:57] [跳过重复] G6 视觉艺术 音乐(1).pdf
+[23:30:57] [跳过重复] CommonApp账号与Cialfo的关联(1).pdf
+[23:30:57] [跳过重复] DP G4-3班选校单(1)(1)(1).docx
+[23:30:57] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[23:30:57] [跳过重复] 碧桂园IB Notes - 2022 update(1).docx
+[23:30:57] [跳过重复] AP IB Alevel三大课程对比(1).pdf
+[23:30:59] [跳过重复] AP IB Alevel三大课程对比2(1).pdf
+[23:31:02] [跳过重复] AP IB Alevel三大课程对比3(1).pdf
+[23:31:04] [跳过重复] [School Name] Notes - 2022 update(1).docx
+[23:31:04] [跳过重复] 国际课程体系AP IB Alevel(1).docx
+[23:31:04] [跳过重复] 国际课程线上学习资源(1).docx
+[23:31:04] [跳过重复] IELTS 高分写作模板(1).pdf
+[23:31:04] [跳过重复] Simon考官9分大作文范文合集(1).pdf
+[23:31:04] [跳过重复] TOEFL_16篇独立范文-词组学习(1).pdf
+[23:31:04] [跳过重复] 写作八大话题语料积累(1).docx
+[23:31:04] [跳过重复] TPO听力按学科分类词汇(1).pdf
+[23:31:04] [跳过重复] 托福口语看这本就够了_张涵(1).pdf
+[23:31:04] [跳过重复] 120316 (L)(1).docx
+[23:31:04] [跳过重复] 120316 (R)(1).docx
+[23:31:04] [跳过重复] 120316 (S)(1).docx
+[23:31:04] [跳过重复] 120316 (W)(1).docx
+[23:31:04] [跳过重复] 12月16年(1).docx
+[23:31:04] [跳过重复] ACT VS SAT 异同分析(1).pdf
+[23:31:05] [跳过重复] ACT下载链接(1).txt
+[23:31:05] [跳过重复] Colleges That Superscore ACT_(1).pdf
+[23:31:05] [跳过重复] How Do You Calculate SAT Score_ Raw and Scaled(1).pdf
+[23:31:05] [跳过重复] SAT-ACT 小说文学素养强化教程FV1.1(1).pdf
+[23:31:05] [跳过重复] 极简英语思维(1).pdf
+[23:31:05] [跳过重复] [Arden Shakespeare_ Third Series] William Shakespeare, Katherine Duncan-Jones (editor) - Shakespeare's Sonnets (1997, Bloomsbury Arden Shakespeare) - libgen.li(1).pdf
+[23:31:05] [跳过重复] SAT ACT分数转换(1).pdf
+[23:31:08] [跳过重复] 2016-2021.12SAT真题网盘链接(1).txt
+[23:31:08] [跳过重复] 2020亚太真题SAT(1).pdf
+[23:31:08] [跳过重复] 2021 North America 数学2. pdf(1).pdf
+[23:31:08] [跳过重复] 2021 North America 数学1(1).pdf
+[23:31:08] [跳过重复] 2021 North america 阅读(1).pdf
+[23:31:08] [跳过重复] 答案(1).pdf
+[23:31:08] [跳过重复] 2021 3月亚太答案 pdf(1).pdf
+[23:31:08] [跳过重复] 21年5月北美 SAT 真题(1).pdf
+[23:31:08] [跳过重复] 21年5月北美 SAT 答案(1).pdf
+[23:31:08] [跳过重复] SAT语法知识点(1).pdf
+[23:31:08] [跳过重复] 可汗阅读(1).pdf
+[23:31:08] [跳过重复] 标化考试Standardized Test(1).docx
+[23:31:08] [跳过重复] ACT备考策略简介BN20210416(1).pptx
+[23:31:08] [跳过重复] 机考SAT- 介绍(1).pdf
+[23:31:08] [跳过重复] 教师资源介绍及报价(1)(1).xlsx
+[23:31:08] [跳过重复] 机构推荐(1).xlsx
+[23:31:25] [跳过重复] John Locke v3-Finalized (1).docx
+[23:31:25] [跳过重复] Question 2(ver.4) - Final (1).docx
+[23:31:25] [跳过重复] Yuri 2nd Draft(1).docx
+[23:31:25] [跳过重复] Yuri - Draft 2 - Finalized (1).doc
+[23:33:10] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[23:33:10] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[23:33:10] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[23:33:22] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[23:33:22] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[23:33:22] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[23:38:03] 扫描完成：1008 普通文件，97 OCR PDF，跳过规则 521 个，重复副本 218 个，图片 459 张
+[23:38:03] 现有 chunk 数：9481，新 chunk seq 从 9482 起
+[23:38:03] 现有 content md5：9481 个（跨运行去重）
+[23:38:03] 
+--- 批次 1：842 文件，499.2 MB ---
+[23:40:37]   ✗ AAPT_physicsbowl 讲义（密码：asdanphysics）.pdf: 
+[23:49:31]   ✗ 20200308沃邦讲座文字版.doc: ../途策 知识库/Training/03 Catalyst SOP/31 Yicen 讲座/20200308沃邦讲座文字版.doc is not a Word Document.
+
+[23:49:31]   ✗ 4.19yicen讲座文字版.doc: ../途策 知识库/Training/03 Catalyst SOP/31 Yicen 讲座/4.19yicen讲座文字版.doc is not a Word Document.
+
+[23:55:18]   ✗ 2021 Indiana University Bloomington Checklist.docx: Package not found at '../途策 知识库/Training/03 Catalyst SOP/34 申请季流程/343 Checklist/2021 申请季checklist/2021 Indiana University Bloomington Checklist.docx'
+[23:55:23]   ✗ 2021 Worcester Polytechnic Institute Checklist.docx: Package not found at '../途策 知识库/Training/03 Catalyst SOP/34 申请季流程/343 Checklist/2021 申请季checklist/2021 Worcester Polytechnic Institute Checklist.docx'
+[23:55:32]   ✗ 2021 Indiana University Bloomington Checklist.pdf: No /Root object! - Is this really a PDF?
+[23:56:49]   批次完成：836 成功，6 失败，12855 新 chunk，1126s，内存 0.0 GB
+[23:56:49] 
+--- 批次 2：166 文件，125.2 MB ---
+[23:57:03]   ✗ 【碧桂园】2021-2022 Coalition Guide.pdf: No module named 'fitz'
+[23:57:13]   ✗ 七德 UC Application Guide-2021.pdf: No module named 'fitz'
+[23:58:53]   批次完成：164 成功，2 失败，2539 新 chunk，124s，内存 0.0 GB
+[23:58:53] 
+--- 批次 3：97 文件，276.1 MB ---
+[23:58:53]   ✗ 【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？.pdf: No module named 'fitz'
+[23:58:53]   ✗ 公办AP的佼佼者——华二国课班.pdf: No module named 'fitz'
+[23:58:55]   ✗ G10_Elective Catalog_2022-23.pdf: No module named 'fitz'
+[23:59:05]   ✗ JHU录取.pdf: No module named 'fitz'
+[23:59:12]   ✗ 斯坦福牛津Case.pdf: No module named 'fitz'
+[23:59:23]   ✗ 2021录取结果.pdf: No module named 'fitz'
+[23:59:24]   ✗ UWC 常熟学校册子.pdf: No module named 'fitz'
+[23:59:24]   ✗ School Profile.pdf: No module named 'fitz'
+[23:59:33]   ✗ 世外2020录取结果.pdf: No module named 'fitz'
+[23:59:47]   ✗ AP IB Alevel三大课程对比.pdf: No module named 'fitz'
+[00:00:06]   ✗ AP IB Alevel三大课程对比2.pdf: No module named 'fitz'
+[00:00:23]   ✗ AP IB Alevel三大课程对比3.pdf: No module named 'fitz'
+[00:00:39]   ✗ ACT VS SAT 异同分析.pdf: No module named 'fitz'
+[00:00:41]   ✗ SAT ACT分数转换.pdf: No module named 'fitz'
+[00:00:42]   ✗ 2021 North America 数学2. pdf.pdf: No module named 'fitz'
+[00:00:42]   ✗ 2021 North America 语法 (1).pdf: No module named 'fitz'
+[00:00:42]   ✗ 2021 North America 数学1.pdf: No module named 'fitz'
+[00:00:42]   ✗ SAT语法知识点.pdf: No module named 'fitz'
+[00:00:46]   ✗ 麻省理工学院录取案例1.pdf: No module named 'fitz'
+[00:00:46]   ✗ 政治学.pdf: No module named 'fitz'
+[00:01:04]   ✗ Angie Zhang_Oxford_Math 2020.pdf: No module named 'fitz'
+[00:01:19]   ✗ Jack Li_Oxford_Engineering 2020.pdf: No module named 'fitz'
+[00:01:34]   ✗ Jack Zhou_Oxford_Math 2020.pdf: No module named 'fitz'
+[00:01:34]   ✗ HFI - 免高考和会考证明.pdf: No module named 'fitz'
+[00:01:34]   ✗ HFI - 预毕业证明.pdf: No module named 'fitz'
+[00:01:36]   ✗ Agenda Setting.pdf: No module named 'fitz'
+[00:01:36]   ✗ Characteristics of Good Objectives.pdf: No module named 'fitz'
+[00:01:36]   ✗ YIC 评分表.pdf: No module named 'fitz'
+[00:01:36]   ✗ YIC-Create a Target Audience Profile.pdf: No module named 'fitz'
+[00:01:36]   ✗ YIC-Figure Out the Tactics Behind the Key Message.pdf: No module named 'fitz'
+[00:01:36]   ✗ YIC-How to Choose Platforms.pdf: No module named 'fitz'
+[00:01:40]   ✗ 2021-2022YOC青年观察选题提交说明.pdf: No module named 'fitz'
+[00:01:40]   ✗ Interview Subject Map.pdf: No module named 'fitz'
+[00:01:40]   ✗ YOC Rubrics.pdf: No module named 'fitz'
+[00:01:48]   ✗ 乡土研学产品介绍手册.pdf: No module named 'fitz'
+[00:01:51]   ✗ 筑著研学项目介绍.pdf: No module named 'fitz'
+[00:01:52]   ✗ 2023年科学苗子培养项目.pdf: No module named 'fitz'
+[00:01:52]   ✗ 小B同学-软硬件综合工程项目作品集案例.pdf: No module named 'fitz'
+[00:02:01]   ✗ MIT推荐暑期项目.pdf: No module named 'fitz'
+[00:02:16]   ✗ ISEF比赛介绍.pdf: No module named 'fitz'
+[00:02:51]   ✗ 物理专业比赛.pdf: No module named 'fitz'
+[00:02:51]   ✗ 2_2010_OpenExam_AnsKey.pdf: No module named 'fitz'
+[00:02:52]   ✗ 2_2014 USABO Open Exam.pdf: No module named 'fitz'
+[00:02:53]   ✗ 2_2015 USABO Open Exam.pdf: No module named 'fitz'
+[00:02:55]   ✗ 2_2016 USABO Open Exam.pdf: No module named 'fitz'
+[00:02:55]   ✗ 2_2010_OpenExam_AnsKey.pdf: No module named 'fitz'
+[00:02:56]   ✗ 2_2014 USABO Open Exam.pdf: No module named 'fitz'
+[00:02:57]   ✗ 2_2015 USABO Open Exam.pdf: No module named 'fitz'
+[00:02:59]   ✗ 2_2016 USABO Open Exam.pdf: No module named 'fitz'
+[00:03:12]   ✗ 2012-AMC10A-试题（英语）.pdf: No module named 'fitz'
+[00:03:25]   ✗ 2012-AMC10B-试题（英语）.pdf: No module named 'fitz'
+[00:03:34]   ✗ 2013-AMC10A-试题（英语）.pdf: No module named 'fitz'
+[00:03:43]   ✗ 2013-AMC10B-试题（英语）.pdf: No module named 'fitz'
+[00:03:51]   ✗ 2014-AMC10A-试题（英语）.pdf: No module named 'fitz'
+[00:03:58]   ✗ 2014-AMC10B-试题（英语）.pdf: No module named 'fitz'
+[00:04:06]   ✗ 2015-AMC10A-试题（英语）.pdf: No module named 'fitz'
+[00:04:15]   ✗ 2015-AMC10B-试题（英语）.pdf: No module named 'fitz'
+[00:04:24]   ✗ 2016-AMC10A-试题（英语）.pdf: No module named 'fitz'
+[00:04:33]   ✗ 2016-AMC10B-试题（英语）.pdf: No module named 'fitz'
+[00:04:43]   ✗ 2017-AMC10A-试题（英语）.pdf: No module named 'fitz'
+[00:04:54]   ✗ 2017-AMC12A-试题（英语）.pdf: No module named 'fitz'
+[00:05:05]   ✗ 2017-AMC12B-试题（英语）.pdf: No module named 'fitz'
+[00:05:16]   ✗ HiMCM美国高中数学建模比赛.pdf: No module named 'fitz'
+[00:05:32]   ✗ 数学专业比赛.pdf: No module named 'fitz'
+[00:05:33]   ✗ UVA Portfolio.pdf: No module named 'fitz'
+[00:06:49]   ✗ Middlebury-Coalition.pdf: No module named 'fitz'
+[00:06:50]   ✗ 210311-Delilah-Contemporary Art.pdf: No module named 'fitz'
+[00:06:50]   ✗ 220602-Delilah-疫情下的艺术作品.pdf: No module named 'fitz'
+[00:06:51]   ✗ 220707-Peter-Social Neuroscience Intro.pdf: No module named 'fitz'
+[00:07:06]   ✗ 10.20 ED Agreement 填写指引.pdf: No module named 'fitz'
+[00:07:17]   ✗ 10.8 早申请送分提醒邮件.pdf: No module named 'fitz'
+[00:07:21]   ✗ 11.2 EAED状态查询.pdf: No module named 'fitz'
+[00:07:24]   ✗ 8.1 申请季启动&申请系统注册邮件.pdf: No module named 'fitz'
+[00:07:26]   ✗ 8.1 附件CA填写指南.pdf: No module named 'fitz'
+[00:07:29]   ✗ 8.10 推荐信信息收集邮件.pdf: No module named 'fitz'
+[00:07:32]   ✗ 8.15 成绩单收集邮件.pdf: No module named 'fitz'
+[00:07:35]   ✗ 9.1 财力证明准备邮件.pdf: No module named 'fitz'
+[00:07:37]   ✗ Final 行前准备指南.pdf: No module named 'fitz'
+[00:07:39]   ✗ 10.20 ED Agreement 填写指引.pdf: No module named 'fitz'
+[00:07:42]   ✗ ED Agreement提交指南.pdf: No module named 'fitz'
+[00:07:58]   ✗ 【碧桂园】UC Guide 2022-2023.pdf: No module named 'fitz'
+[00:07:59]   ✗ 深圳中学 UC 系统填写指引 2022版本.pdf: No module named 'fitz'
+[00:08:01]   批次完成：15 成功，82 失败，1767 新 chunk，548s，内存 0.0 GB
+[00:08:01] 
+所有批次完成：新增 17161 个 chunk
+[00:08:01] 执行全局去重…
+[00:08:02] 全局去重：移除 0 个，保留 26642 个
+[00:08:02] 开始增量入库 Chroma（不重建，只追加新 chunk）…
+[00:08:06] 连接 Chroma: ./chroma_db
+[00:08:06] Chroma 现有 4619 个 chunk_id
+[00:08:07] jsonl 共 26642 个 chunk，新增 22023 个
+[00:08:08] 开始向量化 + upsert，共 22023 个，每批 50
+[00:08:08] 提示：第一批冷启动约 300-600s，后续每批约 2s
+[03:38:46] === run_pipeline.py 开始 2026-06-10 03:38:46 ===
+[03:38:46] skip_list: 147 个，已处理记录: 1416 个
+[03:38:46] 扫描目录（OCR PDF 检测中，< 1s/PDF）…
+[03:38:46] 扫描 ../途策 知识库（3368 个路径，1291 个 PDF 需 OCR 检测）
+[03:38:46] [跳过重复] AP 2021 Exam Dates - AP Central _ College Board(1).pdf
+[03:38:46] [跳过重复] AP Student-Score-Distributions-2020(1).pdf
+[03:38:46] [跳过重复] All About AP(1).docx
+[03:38:46] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[03:38:46] [跳过重复] 【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？(1).pdf
+[03:38:46] [跳过重复] 公办AP的佼佼者——华二国课班(1).pdf
+[03:38:46] [跳过重复] 华东师大二附中2021届毕业生海外名校申请结果出炉！(1).pdf
+[03:38:46] [跳过重复] 华二APnotes -  2022 Updates(1).docx
+[03:38:46] [跳过重复] 成绩单样式(1).pdf
+[03:38:46] [跳过重复] 2022IEP升学信息(1).pdf
+[03:38:46] [跳过重复] Trancript Sample(1).pdf
+[03:38:46] [跳过重复] 上海平和 IEP 班 Notes(1).docx
+[03:38:46] [跳过重复] 2017年 星河湾 申请录取结果(1).pdf
+[03:38:46] [跳过重复] 2018年 星河湾 申请录取结果(1).pdf
+[03:38:46] [跳过重复] 2019年 星河湾 申请录取结果(1).pdf
+[03:38:46] [跳过重复] 2020年 星河湾 申请录取结果(1).pdf
+[03:38:46] [跳过重复] 2022学年 新高二 数学 AP 限定选修 选修课程 选课单(1).xlsx
+[03:38:46] [跳过重复] School Transcript(1).pdf
+[03:38:46] [跳过重复] 上海星河湾 AP school profile(1).pdf
+[03:38:46] [跳过重复] 上海星河湾 Notes - 2022 update(1).docx
+[03:38:46] [跳过重复] 星河湾 2017 - 2020 申请结果 文章链接(1).txt
+[03:38:46] [跳过重复] 星河湾 notes(1).docx
+[03:38:46] [跳过重复] HSPDCourseCatalog2223Feb16(1).pdf
+[03:38:46] [跳过重复] UpdatedPXCatalog(1).pdf
+[03:38:46] [跳过重复] school profile-Class 2022(1).pdf
+[03:38:46] [跳过重复] 合肥一中国际部Notes - 2022 Updates(1).docx
+[03:38:46] [跳过重复] 成绩单示例(1).pdf
+[03:38:46] [跳过重复] 山东省实验国际部notes -2022 Updates(1).docx
+[03:38:46] [跳过重复] 成绩单样式(1).pdf
+[03:38:46] [跳过重复] 2021 St induction (AP11 & AP12)(1).pdf
+[03:38:46] [跳过重复] 2023 PeerBuddy Course Registration Guide 选课指南(1).pdf
+[03:38:46] [跳过重复] HFI - 学生手册选课必看部分(1).pdf
+[03:38:46] [跳过重复] HFI - 学生手册选课必看部分_批注(1).pdf
+[03:38:46] [跳过重复] HFI AP Course Choices(1).pdf
+[03:38:46] [跳过重复] HFI Notes - 2022 update(1).docx
+[03:38:46] [跳过重复] HFI Notes(1).docx
+[03:38:46] [跳过重复] HFI School Profile 2021-202109(1).pdf
+[03:38:46] [跳过重复] HFI Student Handbook 2020-21 v1.3-Section-4(1).pdf
+[03:38:46] [跳过重复] HFI Student Handbook 2021-22 v1.1(1).doc
+[03:38:46] [跳过重复] AP USH+Assessment+Summary-+Reilly(1).docx
+[03:38:46] [跳过重复] G11_AP Calculus BC Syllabus 2021-2022(1).pdf
+[03:38:46] [跳过重复] G11_AP ES_Assessment(1).pdf
+[03:38:46] [跳过重复] G11_AP HG_Assessment(1).pdf
+[03:38:46] [跳过重复] G11_World History Assessment Summary 2021-22(1).docx
+[03:38:46] [跳过重复] HFI G11 A.P.+Euro History(1).docx
+[03:38:46] [跳过重复] HFI-G11-GE PPT(1).pptx
+[03:38:46] [跳过重复] 22.06.01 线上分享会(对外)(1).pdf
+[03:38:46] [跳过重复] 2021 高一选课说明_Final_6.18(1).pdf
+[03:38:46] [跳过重复] [1] 20220430 高二动员大会重要事项(1)(1).pdf
+[03:38:46] [跳过重复] [2] 2022本科申请材料清单-SSAP(1)(1)(1).xlsx
+[03:38:46] [跳过重复] [3] 2022本科申请材料清单-SSAP-详细说明(1)(1)(1).docx
+[03:38:46] [跳过重复] 广东省实验AP Notes - 2022 update 1(1).docx
+[03:38:46] [跳过重复] 20220505家长会分享版（含2022录取结果）(1).pdf
+[03:38:46] [跳过重复] 深圳中学2013~2019录取数据(1).docx
+[03:38:46] [跳过重复] 深圳中学Notes - 2022 update(1).docx
+[03:38:46] [跳过重复] 碧桂园 AP G1-G3选课说明(1).pdf
+[03:38:46] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[03:38:46] [跳过重复] 碧桂园AP Notes - 2022 update(1).docx
+[03:38:46] [跳过重复] 碧桂园竞赛&学院活动规划(1).xlsx
+[03:38:46] [跳过重复] 附件1：2022-2023BIBS·C国际竞赛训练营各校区开设列表(1).xlsx
+[03:38:46] [跳过重复] 附件1：Projects Introduction of Long-term Research Program(1).pdf
+[03:38:46] [跳过重复] 附件2：Instructor Introduction of Long-term Research Program(1).pdf
+[03:38:46] [跳过重复] 附件2：商赛、经济、综合类师资介绍Teachers for Business Economics Competition(1).pdf
+[03:38:46] [跳过重复] 附件3：Introduction of 2023 BIBS · C Team Recruitment of iGEM(1).pdf
+[03:38:46] [跳过重复] 附件3：数、理、生竞赛师资介绍Teachers for MATH PHISICS&BIO(1).pdf
+[03:38:46] [跳过重复] 附件4：Introduction of 2022 Southern BIBS·C Schools Team Recruitment of HiMCM(1).pdf
+[03:38:46] [跳过重复] 附件4：计算机类竞赛师资介绍Teachers For Computer Science(1).pdf
+[03:38:46] [跳过重复] 附件5：Study Arrangement of Each Project(1).pdf
+[03:38:46] [跳过重复] BIGZ Senior Project 2022-23(1).pdf
+[03:38:46] [跳过重复] G10_Elective Catalog_2022-23(1).pdf
+[03:38:46] [跳过重复] Grade 10 Course Selection 2022-2023(1).pdf
+[03:38:46] [跳过重复] 广州贝赛斯 Notes - 2022 Updates(1).docx
+[03:38:46] [跳过重复] 2021-2022 Student Handbook(1).pdf
+[03:38:46] [跳过重复] AP Micro 2016(1).pdf
+[03:38:46] [跳过重复] AP Micro 2018(1).pdf
+[03:38:46] [跳过重复] CCOSchoolProfile(1).pdf
+[03:38:46] [跳过重复] JHU录取(1).pdf
+[03:38:49] [跳过重复] 南开国际课程中心毕业生就读学校统计（2010-2019）(1).pdf
+[03:38:49] [跳过重复] 对话南开学子蔡向濛丨走进美国斯坦福大学的法宝：良师、良友、良机(1).pdf
+[03:38:49] [跳过重复] 斯坦福牛津Case(1).pdf
+[03:38:51] [跳过重复] 重庆南开中学国际课程中心2020届录取汇总(1).pdf
+[03:38:51] [跳过重复] 2019_范德堡大学ED教育学_Jerry(1).pdf
+[03:38:51] [跳过重复] 2019年录取结果(1).pdf
+[03:38:51] [跳过重复] 2020_南加大和佐治亚理工_Alice(1).pdf
+[03:38:51] [跳过重复] 21.03.06线上家长会--crystal(1).pdf
+[03:38:51] [跳过重复] Bojing Yu - CA - OSU(1).pdf
+[03:38:51] [跳过重复] Haotong Wang - CA - UW-M(1).pdf
+[03:38:51] [跳过重复] Haowen Jiang - CA - NYU(1).pdf
+[03:38:51] [跳过重复] Songyu Han - CA - CMU(1).pdf
+[03:38:51] [跳过重复] Xiaoyu Qiu - CA - USC(1).pdf
+[03:38:51] [跳过重复] 成绩单 Semester(1).pdf
+[03:38:51] [跳过重复] 活动规划之升级打怪20210306--YI(1).pptx
+[03:38:51] [跳过重复] 青岛博格思加州学校国际高中班招生简章(1).pdf
+[03:38:51] [跳过重复] All about A-Level(1).docx
+[03:38:51] [跳过重复] CIE-2021-timetable-zone-5(1).pdf
+[03:38:51] [跳过重复] 南京外国语中英班notes(1).docx
+[03:38:51] [跳过重复] 2018录取结果(1).pdf
+[03:38:51] [跳过重复] 2019录取结果(1).pdf
+[03:38:51] [跳过重复] 2020录取结果(1).pdf
+[03:38:51] [跳过重复] 2021录取结果(1).pdf
+[03:38:57] [跳过重复] 2022-2023 A1_Options_book(1).pdf
+[03:38:57] [跳过重复] The school profile – Shenzhen College of International Education(1).pdf
+[03:38:57] [跳过重复] 家长版-深国交4年案例(1).pdf
+[03:38:57] [跳过重复] 成绩单(1).pdf
+[03:38:57] [跳过重复] 深国交 Notes - 2022 Update(1).docx
+[03:38:57] [跳过重复] 深国交2023美本录取发布(1).pdf
+[03:38:57] [跳过重复] 深国交社团表(1).xlsx
+[03:38:57] [跳过重复] 220404 浑朴毕业生学术分享会 IB TOK(1).pdf
+[03:38:57] [跳过重复] All about IB(1).docx
+[03:38:57] [跳过重复] Math IA step 1(1).pdf
+[03:38:57] [跳过重复] Shanghai American School_Course_Catalogue_2223_Dec15(1).pdf
+[03:38:57] [跳过重复] Semester_One_Reports_2020-2021(1).pdf
+[03:38:57] [跳过重复] Semester_Two_Reports_2020-2021(1).pdf
+[03:38:57] [跳过重复] Service Stream Zhi Xing Activity 2021-2022_Intro(1).docx
+[03:38:57] [跳过重复] Teresa Chen DP1 Transcript_2020-2021-1(1).pdf
+[03:38:57] [跳过重复] UWC Changshu Notes - 2022 update(1).docx
+[03:38:57] [跳过重复] UWC Notes(1).docx
+[03:38:57] [跳过重复] UWC 常熟学校册子(1).pdf
+[03:38:57] [跳过重复] may-2021-exam-schedule-english-revised-v2(1).pdf
+[03:38:57] [跳过重复] 2017年 七宝德怀特 申请录取情况(1).pdf
+[03:38:57] [跳过重复] 2018年 七宝德怀特 申请录取结果(1).pdf
+[03:38:57] [跳过重复] 2019年 七宝德怀特 申请录取结果(1).pdf
+[03:38:57] [跳过重复] 2020年 七宝德怀特 申请录取结果(1).pdf
+[03:38:57] [跳过重复] IB_DP_Course_Prerequisites_Class_2021(1).pdf
+[03:38:57] [跳过重复] QDHS Course Selection Guide 选课指南 202111(1).pdf
+[03:38:57] [跳过重复] QDHS Course Selection Guide(1).pdf
+[03:38:57] [跳过重复] 七宝德怀特 Note - 2022update(1).docx
+[03:38:57] [跳过重复] 七宝德怀特 学校社团 2022(1).pdf
+[03:38:57] [跳过重复] 上海七德 2017 - 2022 录取结果 文章链接(1).txt
+[03:38:57] [跳过重复] School Profile(1).pdf
+[03:38:58] [跳过重复] 上中（IB）- Notes 2022(1).docx
+[03:38:58] [跳过重复] 上海_上中国际 IB Program Selective Survey(1).pdf
+[03:38:58] [跳过重复] 2022世外中学升学分享会+艺体+传媒+设计(1).docx
+[03:38:58] [跳过重复] 2022世外中学升学分享会+（社会学+人文+文化）(1).docx
+[03:38:58] [跳过重复] 上海世界外国语中学2020录取榜单(1).docx
+[03:38:58] [跳过重复] 世外2020录取结果(1).pdf
+[03:39:00] [跳过重复] 世外Notes - 2022 Updates(1).docx
+[03:39:00] [跳过重复] YKPao School Profile(1).pdf
+[03:39:00] [跳过重复] 包校成绩单（半学期）(1).pdf
+[03:39:00] [跳过重复] 包校成绩单（学期）(1).pdf
+[03:39:00] [跳过重复] 包玉刚 Notes - 2022 update(1).docx
+[03:39:00] [跳过重复] 包玉刚-高中课程手册2019-2021(1).pdf
+[03:39:00] [跳过重复] IB Options booklet (Feb 2023)(1).pdf
+[03:39:00] [跳过重复] 2019-2020_1st_Semester_Report_2019203(1).pdf
+[03:39:00] [跳过重复] 2019-2020_2nd_Semester_Report_2019203(1).pdf
+[03:39:00] [跳过重复] 2021-2022 1st semester club fair 社团列表(1).pdf
+[03:39:00] [跳过重复] IEP社团活动场地与老师安排202009(1).xlsx
+[03:39:00] [跳过重复] 学期中成绩单范例(1).pdf
+[03:39:00] [跳过重复] 平和IB Notes - 2022 update(1).docx
+[03:39:00] [跳过重复] 平和IBDP2020届录取结果(1).pdf
+[03:39:00] [跳过重复] 平和IBDP2021届毕业生录取结果汇总(1).pdf
+[03:39:00] [跳过重复] CAS(1).pdf
+[03:39:00] [跳过重复] EE&TOK(1).pdf
+[03:39:00] [跳过重复] G1 中文A(1).pdf
+[03:39:00] [跳过重复] G1 英文A 文学(1).pdf
+[03:39:00] [跳过重复] G1 英文A 语言与文学(1).pdf
+[03:39:00] [跳过重复] G2 英文B(1).pdf
+[03:39:00] [跳过重复] G3 商务 地理 哲学 历史 心理(1).pdf
+[03:39:00] [跳过重复] G3 经济(1).pdf
+[03:39:00] [跳过重复] G4 化学 生物 环境(1).pdf
+[03:39:00] [跳过重复] G4 物理(1).pdf
+[03:39:00] [跳过重复] G5 数学(1).pdf
+[03:39:00] [跳过重复] G6 视觉艺术 音乐(1).pdf
+[03:39:00] [跳过重复] CommonApp账号与Cialfo的关联(1).pdf
+[03:39:00] [跳过重复] DP G4-3班选校单(1)(1)(1).docx
+[03:39:00] [跳过重复] 碧桂园 AP IB school profile 2019-2020(1).pdf
+[03:39:00] [跳过重复] 碧桂园IB Notes - 2022 update(1).docx
+[03:39:00] [跳过重复] AP IB Alevel三大课程对比(1).pdf
+[03:39:02] [跳过重复] AP IB Alevel三大课程对比2(1).pdf
+[03:39:04] [跳过重复] AP IB Alevel三大课程对比3(1).pdf
+[03:39:06] [跳过重复] [School Name] Notes - 2022 update(1).docx
+[03:39:06] [跳过重复] 国际课程体系AP IB Alevel(1).docx
+[03:39:06] [跳过重复] 国际课程线上学习资源(1).docx
+[03:39:06] [跳过重复] IELTS 高分写作模板(1).pdf
+[03:39:06] [跳过重复] Simon考官9分大作文范文合集(1).pdf
+[03:39:06] [跳过重复] TOEFL_16篇独立范文-词组学习(1).pdf
+[03:39:06] [跳过重复] 写作八大话题语料积累(1).docx
+[03:39:06] [跳过重复] TPO听力按学科分类词汇(1).pdf
+[03:39:06] [跳过重复] 托福口语看这本就够了_张涵(1).pdf
+[03:39:06] [跳过重复] 120316 (L)(1).docx
+[03:39:06] [跳过重复] 120316 (R)(1).docx
+[03:39:06] [跳过重复] 120316 (S)(1).docx
+[03:39:06] [跳过重复] 120316 (W)(1).docx
+[03:39:06] [跳过重复] 12月16年(1).docx
+[03:39:06] [跳过重复] ACT VS SAT 异同分析(1).pdf
+[03:39:07] [跳过重复] ACT下载链接(1).txt
+[03:39:07] [跳过重复] Colleges That Superscore ACT_(1).pdf
+[03:39:07] [跳过重复] How Do You Calculate SAT Score_ Raw and Scaled(1).pdf
+[03:39:07] [跳过重复] SAT-ACT 小说文学素养强化教程FV1.1(1).pdf
+[03:39:07] [跳过重复] 极简英语思维(1).pdf
+[03:39:07] [跳过重复] [Arden Shakespeare_ Third Series] William Shakespeare, Katherine Duncan-Jones (editor) - Shakespeare's Sonnets (1997, Bloomsbury Arden Shakespeare) - libgen.li(1).pdf
+[03:39:07] [跳过重复] SAT ACT分数转换(1).pdf
+[03:39:10] [跳过重复] 2016-2021.12SAT真题网盘链接(1).txt
+[03:39:10] [跳过重复] 2020亚太真题SAT(1).pdf
+[03:39:10] [跳过重复] 2021 North America 数学2. pdf(1).pdf
+[03:39:10] [跳过重复] 2021 North America 数学1(1).pdf
+[03:39:10] [跳过重复] 2021 North america 阅读(1).pdf
+[03:39:10] [跳过重复] 答案(1).pdf
+[03:39:10] [跳过重复] 2021 3月亚太答案 pdf(1).pdf
+[03:39:10] [跳过重复] 21年5月北美 SAT 真题(1).pdf
+[03:39:10] [跳过重复] 21年5月北美 SAT 答案(1).pdf
+[03:39:10] [跳过重复] SAT语法知识点(1).pdf
+[03:39:10] [跳过重复] 可汗阅读(1).pdf
+[03:39:10] [跳过重复] 标化考试Standardized Test(1).docx
+[03:39:10] [跳过重复] ACT备考策略简介BN20210416(1).pptx
+[03:39:10] [跳过重复] 机考SAT- 介绍(1).pdf
+[03:39:10] [跳过重复] 教师资源介绍及报价(1)(1).xlsx
+[03:39:10] [跳过重复] 机构推荐(1).xlsx
+[03:39:25] [跳过重复] John Locke v3-Finalized (1).docx
+[03:39:25] [跳过重复] Question 2(ver.4) - Final (1).docx
+[03:39:25] [跳过重复] Yuri 2nd Draft(1).docx
+[03:39:25] [跳过重复] Yuri - Draft 2 - Finalized (1).doc
+[03:39:44] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[03:39:44] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[03:39:44] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[03:39:44] [跳过重复] 2_2016 USABO Open Exam(1).pdf
+[03:39:44] [跳过重复] 2_2016 USABO Open Exam(2).pdf
+[03:39:44] [跳过重复] 2_2016 USABO Open Exam(3).pdf
+[03:41:31] 扫描完成：8 普通文件，82 OCR PDF，跳过规则 521 个，重复副本 218 个，图片 459 张
+[03:41:31] 现有 chunk 数：26642，新 chunk seq 从 26643 起
+[03:41:31] 现有 content md5：26642 个（跨运行去重）
+[03:41:31] 
+--- 批次 1：8 文件，17.5 MB ---
+[03:41:32]   ✗ AAPT_physicsbowl 讲义（密码：asdanphysics）.pdf: 
+[03:41:32]   ✗ 20200308沃邦讲座文字版.doc: ../途策 知识库/Training/03 Catalyst SOP/31 Yicen 讲座/20200308沃邦讲座文字版.doc is not a Word Document.
+
+[03:41:32]   ✗ 4.19yicen讲座文字版.doc: ../途策 知识库/Training/03 Catalyst SOP/31 Yicen 讲座/4.19yicen讲座文字版.doc is not a Word Document.
+
+[03:41:33]   ✗ 2021 Indiana University Bloomington Checklist.docx: Package not found at '../途策 知识库/Training/03 Catalyst SOP/34 申请季流程/343 Checklist/2021 申请季checklist/2021 Indiana University Bloomington Checklist.docx'
+[03:41:33]   ✗ 2021 Worcester Polytechnic Institute Checklist.docx: Package not found at '../途策 知识库/Training/03 Catalyst SOP/34 申请季流程/343 Checklist/2021 申请季checklist/2021 Worcester Polytechnic Institute Checklist.docx'
+[03:41:33]   ✗ 2021 Indiana University Bloomington Checklist.pdf: No /Root object! - Is this really a PDF?
+[03:43:20]   批次完成：2 成功，6 失败，47 新 chunk，109s，内存 0.0 GB
+[03:43:20] 
+--- 批次 2：82 文件，216.9 MB ---
+[04:22:35]   批次完成：82 成功，0 失败，815 新 chunk，2355s，内存 0.0 GB
+[04:22:35] 
+所有批次完成：新增 862 个 chunk
+[04:22:35] 执行全局去重…
+[04:22:36] 全局去重：移除 0 个，保留 27504 个
+[04:22:36] --no-ingest：跳过入库
+[04:22:36] 
+批次汇总：
+[04:22:36]     批次      文件    失败   chunk        耗时
+[04:22:36]      1       2     6      47     109s
+[04:22:36]      2      82     0     815    2355s
+[04:22:36] === 完成 2026-06-10 04:22:36 ===

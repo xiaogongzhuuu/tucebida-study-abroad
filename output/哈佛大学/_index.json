@@ -1,0 +1,25 @@
+{
+  "school": "哈佛大学",
+  "curriculum": "通用",
+  "folder_path": "03-院校库/美国-常青藤",
+  "processed_files": [
+    {
+      "file": "哈佛大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": []
+    },
+    {
+      "file": "哈佛大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": []
+    },
+    {
+      "file": "哈佛大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": []
+    }
+  ],
+  "reference_links": [],
+  "skipped_files": [],
+  "last_updated": "2026-06-08"
+}

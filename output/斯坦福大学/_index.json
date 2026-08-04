@@ -1,0 +1,45 @@
+{
+  "school": "斯坦福大学",
+  "curriculum": "通用",
+  "folder_path": "03-院校库/美国-顶尖大学",
+  "processed_files": [
+    {
+      "file": "斯坦福大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_斯坦福大学_0036",
+        "wiki_斯坦福大学_0037",
+        "wiki_斯坦福大学_0038",
+        "wiki_斯坦福大学_0039",
+        "wiki_斯坦福大学_0040",
+        "wiki_斯坦福大学_0041"
+      ]
+    },
+    {
+      "file": "斯坦福大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_斯坦福大学_0036",
+        "wiki_斯坦福大学_0037",
+        "wiki_斯坦福大学_0038",
+        "wiki_斯坦福大学_0039",
+        "wiki_斯坦福大学_0040",
+        "wiki_斯坦福大学_0041"
+      ]
+    },
+    {
+      "file": "斯坦福大学.md",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "wiki_斯坦福大学_0029",
+        "wiki_斯坦福大学_0030",
+        "wiki_斯坦福大学_0031",
+        "wiki_斯坦福大学_0032",
+        "wiki_斯坦福大学_0033"
+      ]
+    }
+  ],
+  "reference_links": [],
+  "skipped_files": [],
+  "last_updated": "2026-06-08"
+}

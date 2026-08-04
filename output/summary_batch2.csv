@@ -1,0 +1,62 @@
+﻿file_path,file_name,status,file_type,parse_method,chunk_count,avg_token_per_chunk,school_detected,year_detected,doc_type,has_ocr,char_count_raw,char_count_clean,needs_review,error_msg,processed_at
+11 GPA/AP IB Alevel三大课程对比3.pdf,AP IB Alevel三大课程对比3.pdf,ocr_fallback,.pdf,scanned_skip,0,0,通用,unknown,标化资料,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+11 GPA/AP IB Alevel三大课程对比2.pdf,AP IB Alevel三大课程对比2.pdf,ocr_fallback,.pdf,scanned_skip,0,0,通用,unknown,标化资料,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+11 GPA/AP IB Alevel三大课程对比.pdf,AP IB Alevel三大课程对比.pdf,ocr_fallback,.pdf,scanned_skip,0,0,通用,unknown,标化资料,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+11 GPA/11.3 IB/220404 浑朴毕业生学术分享会 IB TOK.pdf,220404 浑朴毕业生学术分享会 IB TOK.pdf,success,.pdf,pdfplumber,14,197,通用,2040,叙述文章,False,3062,2544,False,,2026-06-04
+11 GPA/11.3 IB/Math IA analyisis and approaches guide .pdf,Math IA analyisis and approaches guide .pdf,success,.pdf,pdfplumber,131,339,通用,unknown,标化资料,False,213962,219309,False,,2026-06-04
+11 GPA/11.3 IB/Math IA step 1.pdf,Math IA step 1.pdf,success,.pdf,pdfplumber,4,546,通用,unknown,标化资料,False,9960,10991,False,,2026-06-04
+11 GPA/11.3 IB/上海_上中国际 IB Program Selective Survey.pdf,上海_上中国际 IB Program Selective Survey.pdf,success,.pdf,pdfplumber,2,308,通用,unknown,school_profile,False,3077,2897,False,,2026-06-04
+11 GPA/11.1 AP/AP Student-Score-Distributions-2020.pdf,AP Student-Score-Distributions-2020.pdf,success,.pdf,pdfplumber,5,762,通用,2020,标化资料,False,7388,7814,False,,2026-06-04
+11 GPA/11.1 AP/AP 2021 Exam Dates - AP Central _ College Board.pdf,AP 2021 Exam Dates - AP Central _ College Board.pdf,success,.pdf,pdfplumber,9,209,通用,2021,标化资料,False,8742,7013,False,,2026-06-04
+11 GPA/11.2 A-Level/CIE-2021-timetable-zone-5.pdf,CIE-2021-timetable-zone-5.pdf,success,.pdf,pdfplumber,26,625,通用,2021,标化资料,False,45918,48288,False,,2026-06-04
+11 GPA/11.2 A-Level/深圳_深国交/家长版-深国交4年案例.pdf,家长版-深国交4年案例.pdf,success,.pdf,pdfplumber,5,587,深圳_深国交,unknown,叙述文章,False,4979,5102,False,,2026-06-04
+11 GPA/11.2 A-Level/深圳_深国交/The school profile – Shenzhen College of International Education.pdf,The school profile – Shenzhen College of International Education.pdf,success,.pdf,pdfplumber,1,135,深圳_深国交,unknown,school_profile,False,470,459,False,,2026-06-04
+11 GPA/11.2 A-Level/深圳_深国交/深国交2023美本录取发布.pdf,深国交2023美本录取发布.pdf,success,.pdf,pdfplumber,14,355,深圳_深国交,2023,叙述文章,False,6237,6115,False,,2026-06-04
+11 GPA/11.1 AP/广东_碧桂园/碧桂园 AP IB school profile 2019-2020.pdf,碧桂园 AP IB school profile 2019-2020.pdf,success,.pdf,pdfplumber,17,168,广东_碧桂园,2019,school_profile,False,8835,8147,False,,2026-06-04
+11 GPA/11.1 AP/广东_碧桂园/碧桂园 AP G1-G3选课说明.pdf,碧桂园 AP G1-G3选课说明.pdf,success,.pdf,pdfplumber,29,12,广东_碧桂园,unknown,课程介绍,False,2041,400,False,,2026-06-04
+11 GPA/11.1 AP/上海_星河湾/上海星河湾 AP school profile.pdf,上海星河湾 AP school profile.pdf,success,.pdf,pdfplumber,12,204,上海_星河湾,unknown,school_profile,False,11250,11214,False,,2026-06-04
+11 GPA/11.1 AP/广东_深圳中学/20220505家长会分享版（含2022录取结果）.pdf,20220505家长会分享版（含2022录取结果）.pdf,success,.pdf,pdfplumber,11,110,广东_深圳中学,2022,叙述文章,False,1835,1181,False,,2026-06-04
+11 GPA/11.1 AP/上海_平和 IEP/2022IEP升学信息.pdf,2022IEP升学信息.pdf,success,.pdf,pdfplumber,2,500,上海_平和 IEP,2022,叙述文章,False,966,851,False,,2026-06-04
+11 GPA/11.1 AP/上海_华二国际部/华东师大二附中2021届毕业生海外名校申请结果出炉！.pdf,华东师大二附中2021届毕业生海外名校申请结果出炉！.pdf,success,.pdf,pdfplumber,5,434,上海_华二国际部,2021,叙述文章,False,3295,2967,False,,2026-06-04
+11 GPA/11.1 AP/上海_华二国际部/【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？.pdf,【讲座精华】在一年只招40个学生的华二国际班读书，是一种什么样的体验？.pdf,ocr_fallback,.pdf,scanned_skip,0,0,上海_华二国际部,unknown,叙述文章,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+11 GPA/11.1 AP/上海_华二国际部/公办AP的佼佼者——华二国课班.pdf,公办AP的佼佼者——华二国课班.pdf,ocr_fallback,.pdf,scanned_skip,0,0,上海_华二国际部,unknown,叙述文章,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+11 GPA/11.1 AP/重庆_南开/斯坦福牛津Case.pdf,斯坦福牛津Case.pdf,ocr_fallback,.pdf,scanned_skip,0,0,重庆_南开,unknown,叙述文章,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+11 GPA/11.1 AP/重庆_南开/对话南开学子蔡向濛丨走进美国斯坦福大学的法宝：良师、良友、良机.pdf,对话南开学子蔡向濛丨走进美国斯坦福大学的法宝：良师、良友、良机.pdf,success,.pdf,pdfplumber,6,499,重庆_南开,unknown,叙述文章,False,3050,2855,False,,2026-06-04
+11 GPA/11.1 AP/重庆_南开/南开国际课程中心毕业生就读学校统计（2010-2019）.pdf,南开国际课程中心毕业生就读学校统计（2010-2019）.pdf,success,.pdf,pdfplumber,2,398,重庆_南开,2010,叙述文章,False,1408,996,False,,2026-06-04
+11 GPA/11.1 AP/广东_HFI/HFI AP Course Choices.pdf,HFI AP Course Choices.pdf,success,.pdf,pdfplumber,9,96,广东_HFI,unknown,课程介绍,False,4252,3559,False,,2026-06-04
+11 GPA/11.1 AP/广东_HFI/HFI School Profile 2021-202109.pdf,HFI School Profile 2021-202109.pdf,success,.pdf,pdfplumber,7,481,广东_HFI,2021,school_profile,False,12047,13134,False,,2026-06-04
+11 GPA/11.1 AP/广东_HFI/2021 St induction (AP11 & AP12).pdf,2021 St induction (AP11 & AP12).pdf,success,.pdf,pdfplumber,3,510,广东_HFI,2021,课程介绍,False,5332,5558,False,,2026-06-04
+11 GPA/11.1 AP/青岛_博格斯/21.03.06线上家长会--crystal.pdf,21.03.06线上家长会--crystal.pdf,success,.pdf,pdfplumber,43,83,青岛_博格斯,unknown,叙述文章,False,7213,5659,False,,2026-06-04
+11 GPA/11.1 AP/广东_实验中学国际部/2021 高一选课说明_Final_6.18.pdf,2021 高一选课说明_Final_6.18.pdf,success,.pdf,pdfplumber,28,159,广东_实验中学国际部,2021,课程介绍,False,20373,19287,False,,2026-06-04
+11 GPA/11.1 AP/合肥一中美高部/school profile-Class 2022.pdf,school profile-Class 2022.pdf,success,.pdf,pdfplumber,9,105,合肥一中美高部,2022,school_profile,False,4799,4459,False,,2026-06-04
+11 GPA/11.1 AP/美国_Gunn/CCOSchoolProfile.pdf,CCOSchoolProfile.pdf,success,.pdf,pdfplumber,12,179,美国_Gunn,unknown,school_profile,False,9634,9938,False,,2026-06-04
+11 GPA/11.1 AP/广东_HFI/HFI2022申请季结果复盘暨浑朴家长沟通分享会_20220601/22.06.01 线上分享会(对外).pdf,22.06.01 线上分享会(对外).pdf,success,.pdf,pdfplumber,14,32,广东_HFI,unknown,叙述文章,False,2486,531,False,,2026-06-04
+11 GPA/11.1 AP/广东_HFI/HFI 课程与评分/G11_AP HG_Assessment.pdf,G11_AP HG_Assessment.pdf,success,.pdf,pdfplumber,1,744,广东_HFI,unknown,课程介绍,False,2359,2353,False,,2026-06-04
+11 GPA/11.1 AP/广东_HFI/HFI 课程与评分/G11_AP ES_Assessment.pdf,G11_AP ES_Assessment.pdf,success,.pdf,pdfplumber,3,581,广东_HFI,unknown,课程介绍,False,8036,8400,False,,2026-06-04
+11 GPA/11.1 AP/广东_HFI/HFI 课程与评分/G11_AP Calculus BC Syllabus 2021-2022.pdf,G11_AP Calculus BC Syllabus 2021-2022.pdf,success,.pdf,pdfplumber,3,116,广东_HFI,2021,课程介绍,False,1646,1350,False,,2026-06-04
+11 GPA/11.3 IB/广东_碧桂园/CommonApp账号与Cialfo的关联.pdf,CommonApp账号与Cialfo的关联.pdf,success,.pdf,pdfplumber,8,76,广东_碧桂园,unknown,叙述文章,False,1301,759,False,,2026-06-04
+11 GPA/11.3 IB/UWC 常熟/UWC 常熟学校册子.pdf,UWC 常熟学校册子.pdf,ocr_fallback,.pdf,scanned_skip,0,0,UWC 常熟,unknown,叙述文章,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+11 GPA/11.3 IB/上海_包玉刚实验学校/YKPao School Profile.pdf,YKPao School Profile.pdf,success,.pdf,pdfplumber,3,528,上海_包玉刚实验学校,unknown,school_profile,False,6353,6578,False,,2026-06-04
+11 GPA/11.3 IB/上海_七宝德怀特/IB_DP_Course_Prerequisites_Class_2021.pdf,IB_DP_Course_Prerequisites_Class_2021.pdf,success,.pdf,pdfplumber,23,208,上海_七宝德怀特,2021,课程介绍,False,12960,12380,False,,2026-06-04
+11 GPA/11.3 IB/上海_上中国际/School Profile.pdf,School Profile.pdf,ocr_fallback,.pdf,scanned_skip,0,0,上海_上中国际,unknown,school_profile,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/G1 英文A 语言与文学.pdf,G1 英文A 语言与文学.pdf,success,.pdf,pdfplumber,8,38,上海_平和 IB,unknown,课程介绍,False,1221,547,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/G3 经济.pdf,G3 经济.pdf,success,.pdf,pdfplumber,12,76,上海_平和 IB,unknown,课程介绍,False,1547,1177,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/G1 中文A.pdf,G1 中文A.pdf,success,.pdf,pdfplumber,11,233,上海_平和 IB,unknown,课程介绍,False,2874,2442,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/EE&TOK.pdf,EE&TOK.pdf,success,.pdf,pdfplumber,4,15,上海_平和 IB,unknown,叙述文章,False,407,78,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/G4 物理.pdf,G4 物理.pdf,success,.pdf,pdfplumber,2,214,上海_平和 IB,unknown,课程介绍,False,621,543,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/G1 英文A 文学.pdf,G1 英文A 文学.pdf,success,.pdf,pdfplumber,9,52,上海_平和 IB,unknown,课程介绍,False,1130,649,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/G2 英文B.pdf,G2 英文B.pdf,success,.pdf,pdfplumber,9,71,上海_平和 IB,unknown,课程介绍,False,1908,1113,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/G4 化学 生物 环境.pdf,G4 化学 生物 环境.pdf,success,.pdf,pdfplumber,24,69,上海_平和 IB,unknown,课程介绍,False,3568,1782,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/G6 视觉艺术 音乐.pdf,G6 视觉艺术 音乐.pdf,success,.pdf,pdfplumber,9,212,上海_平和 IB,unknown,课程介绍,False,3337,2662,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/G5 数学.pdf,G5 数学.pdf,success,.pdf,pdfplumber,3,421,上海_平和 IB,unknown,课程介绍,False,2042,1559,False,,2026-06-04
+11 GPA/11.3 IB/上海_平和 IB/课程介绍/G3 商务 地理 哲学 历史 心理.pdf,G3 商务 地理 哲学 历史 心理.pdf,success,.pdf,pdfplumber,45,136,上海_平和 IB,unknown,课程介绍,False,8710,6481,False,,2026-06-04
+12 标化考试/12.2 SAT&ACT/SAT ACT分数转换.pdf,SAT ACT分数转换.pdf,ocr_fallback,.pdf,scanned_skip,0,0,通用,unknown,标化资料,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+12 标化考试/12.2 SAT&ACT/How Do You Calculate SAT Score_ Raw and Scaled.pdf,How Do You Calculate SAT Score_ Raw and Scaled.pdf,success,.pdf,pdfplumber,4,498,通用,unknown,标化资料,False,6737,7093,False,,2026-06-04
+12 标化考试/12.2 SAT&ACT/ACT VS SAT 异同分析.pdf,ACT VS SAT 异同分析.pdf,ocr_fallback,.pdf,scanned_skip,0,0,通用,unknown,标化资料,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+12 标化考试/12.2 SAT&ACT/New SAT&ACT/SAT-ACT 小说文学素养强化教程FV1.1.pdf,SAT-ACT 小说文学素养强化教程FV1.1.pdf,success,.pdf,pdfplumber,168,836,通用,unknown,标化资料,False,452967,497563,False,,2026-06-04
+12 标化考试/12.2 SAT&ACT/SAT 真题/21年5月北美 SAT 真题.pdf,21年5月北美 SAT 真题.pdf,success,.pdf,pdfplumber,137,173,通用,unknown,标化资料,False,94189,91019,False,,2026-06-04
+12 标化考试/12.2 SAT&ACT/SAT 真题/2020亚太真题SAT.pdf,2020亚太真题SAT.pdf,success,.pdf,pdfplumber,46,314,通用,2020,标化资料,False,58501,61435,False,,2026-06-04
+12 标化考试/12.2 SAT&ACT/SAT 真题/SAT语法知识点.pdf,SAT语法知识点.pdf,ocr_fallback,.pdf,scanned_skip,0,0,通用,unknown,标化资料,False,0,0,True,扫描版PDF，待OCR,2026-06-04
+12 标化考试/12.1 TOEFL&IELTS/TOEFL 写作/TOEFL_16篇独立范文-词组学习.pdf,TOEFL_16篇独立范文-词组学习.pdf,success,.pdf,pdfplumber,42,732,通用,unknown,标化资料,False,94885,107308,False,,2026-06-04
+12 标化考试/12.1 TOEFL&IELTS/IELTS 写作/IELTS 高分写作模板.pdf,IELTS 高分写作模板.pdf,success,.pdf,pdfplumber,22,819,通用,unknown,标化资料,False,76130,86261,False,,2026-06-04
+12 标化考试/12.1 TOEFL&IELTS/IELTS 写作/Simon考官9分大作文范文合集.pdf,Simon考官9分大作文范文合集.pdf,success,.pdf,pdfplumber,13,730,通用,unknown,标化资料,False,44267,49036,False,,2026-06-04

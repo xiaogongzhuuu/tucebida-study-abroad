@@ -1,0 +1,35 @@
+{
+  "school": "合肥一中美高部",
+  "curriculum": "AP",
+  "folder_path": "11 GPA/11.1 AP/合肥一中美高部",
+  "processed_files": [
+    {
+      "file": "合肥一中国际部Notes - 2022 Updates.docx",
+      "doc_type": "顾问笔记",
+      "chunk_ids": [
+        "合肥一中美高部_0104",
+        "合肥一中美高部_0105",
+        "合肥一中美高部_0106",
+        "合肥一中美高部_0107"
+      ]
+    },
+    {
+      "file": "school profile-Class 2022.pdf",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "合肥一中美高部_0611",
+        "合肥一中美高部_0612",
+        "合肥一中美高部_0613",
+        "合肥一中美高部_0614",
+        "合肥一中美高部_0615",
+        "合肥一中美高部_0616",
+        "合肥一中美高部_0617",
+        "合肥一中美高部_0618",
+        "合肥一中美高部_0619"
+      ]
+    }
+  ],
+  "reference_links": [],
+  "skipped_files": [],
+  "last_updated": "2026-06-04"
+}

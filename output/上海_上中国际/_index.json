@@ -1,0 +1,50 @@
+{
+  "school": "上海_上中国际",
+  "curriculum": "IB",
+  "folder_path": "11 GPA/11.3 IB/上海_上中国际",
+  "processed_files": [
+    {
+      "file": "上中（IB）- Notes 2022.docx",
+      "doc_type": "顾问笔记",
+      "chunk_ids": [
+        "上海_上中国际_0140",
+        "上海_上中国际_0141",
+        "上海_上中国际_0142",
+        "上海_上中国际_0143"
+      ]
+    },
+    {
+      "file": "School Profile.pdf",
+      "doc_type": "school_profile",
+      "chunk_ids": []
+    },
+    {
+      "file": "School Profile.pdf",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "上海_上中国际_2805"
+      ]
+    },
+    {
+      "file": "School Profile.pdf",
+      "doc_type": "school_profile",
+      "chunk_ids": [
+        "上海_上中国际_3152",
+        "上海_上中国际_3153",
+        "上海_上中国际_3154",
+        "上海_上中国际_3155",
+        "上海_上中国际_3156",
+        "上海_上中国际_3157",
+        "上海_上中国际_3158",
+        "上海_上中国际_3159",
+        "上海_上中国际_3160",
+        "上海_上中国际_3161",
+        "上海_上中国际_3162",
+        "上海_上中国际_3163"
+      ]
+    }
+  ],
+  "reference_links": [],
+  "skipped_files": [],
+  "last_updated": "2026-06-04"
+}

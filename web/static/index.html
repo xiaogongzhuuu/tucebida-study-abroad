@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>途策必达留学 — 智能选校</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>途策必达留学</h1>
+      <p class="subtitle">智能选校 Agent — 输入学生信息，获取个性化选校推荐</p>
+    </header>
+
+    <main>
+      <section class="card">
+        <h2>学生信息</h2>
+        <div class="tab-bar">
+          <button class="tab active" data-tab="free">自然语言描述</button>
+          <button class="tab" data-tab="fields">分字段填写</button>
+        </div>
+
+        <!-- 自然语言输入 -->
+        <div class="tab-panel active" id="tab-free">
+          <textarea id="free-input" rows="5" placeholder="例如：深国交 IB 课程，预估 42 分，TOEFL 108，SAT 1520，想申请美国计算机科学方向，参加过多项数学竞赛..."></textarea>
+        </div>
+
+        <!-- 分字段输入 -->
+        <div class="tab-panel" id="tab-fields" style="display:none">
+          <div class="form-grid">
+            <label>课程体系 <input id="f-curriculum" placeholder="IB/AP/A-Level/普高"></label>
+            <label>GPA / 预估分 <input id="f-gpa" placeholder="3.9 / 42"></label>
+            <label>TOEFL <input id="f-toefl" placeholder="108"></label>
+            <label>IELTS <input id="f-ielts" placeholder="7.5"></label>
+            <label>SAT <input id="f-sat" placeholder="1520"></label>
+            <label>ACT <input id="f-act" placeholder="34"></label>
+            <label>AP 成绩 <input id="f-ap" placeholder="5门5分"></label>
+            <label>专业意向 <input id="f-major" placeholder="计算机科学, 数学"></label>
+            <label>意向国家 <input id="f-country" placeholder="美国, 英国"></label>
+            <label>预算 <input id="f-budget" placeholder="60万/年以内"></label>
+            <label>当前年级 <input id="f-grade" placeholder="高二 / 11年级"></label>
+            <label>活动/竞赛 <textarea id="f-activities" rows="2" placeholder="数竞省一等奖, 学生会主席..."></textarea></label>
+            <label>补充信息 <textarea id="f-notes" rows="2" placeholder="其他想补充的..."></textarea></label>
+          </div>
+        </div>
+
+        <button id="submit-btn" class="btn-primary">提取画像</button>
+        <span id="loading" class="loading" style="display:none">解析中...</span>
+      </section>
+
+      <section id="result-section" class="card" style="display:none">
+        <h2>学生画像</h2>
+        <div id="profile-result"></div>
+        <div style="display:flex;align-items:center;gap:8px;margin-top:1rem;flex-wrap:wrap">
+          <button id="match-btn" class="btn-primary" style="margin-top:0">开始选校匹配</button>
+          <button id="match-btn-stream" class="btn-outline" style="margin-top:0">流式生成</button>
+          <span id="match-loading" class="loading" style="display:none">AI 正在分析案例并生成选校报告...</span>
+        </div>
+      </section>
+
+      <section id="report-section" class="card" style="display:none">
+        <h2>选校推荐报告</h2>
+        <div id="search-summary" class="search-summary"></div>
+        <div id="classify-summary" class="classify-summary" style="display:none"></div>
+        <div id="classify-table" style="display:none"></div>
+        <div id="report-content" class="report-content"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
