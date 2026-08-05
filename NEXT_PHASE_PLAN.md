@@ -27,7 +27,7 @@
 +------+------+---------------------------------------------------------------------------+
 | 阶段 | 天数 | 内容                                                                      |
 +------+------+---------------------------------------------------------------------------+
-| P1   | D1   | 研究生数据结构化 — 统一Schema + 数据清洗 + 打标 (国家/学校/专业方向)      |
+| D1 | 研究生数据结构化 — 统一Schema + 数据清洗 + 打标 (国家/学校/专业方向)      | ✅ |
 | P1   | D2   | 研究生数据入库 — ChromaDB新collection + embedding + 元数据索引             |
 | P1   | D3   | 研究生检索模块 — GradProgramRetriever + /api/grad/search + 筛选API         |
 | P1   | D4   | 研究生报告生成 — GradReporter (申请要求/截止日期/费用/课程 四维分析)       |
@@ -70,17 +70,17 @@
 | Deferral Admission Policy | 延期入学政策 |
 | Conditional Admission Policy | 条件录取政策 |
 
-### D1 — 研究生数据结构化
-- [ ] 统一 Schema 定义 (`agent/grad_schema.py`)
+### D1 — 研究生数据结构化 ✅
+- [x] 统一 Schema 定义 (`agent/grad_schema.py`)
   - 国家: 从文件名/URL 自动提取 + 人工校验
   - 学校: Imperial, LSE, Warwick, Edinburgh, Manchester, HKU, NUS, SMU ...
   - 专业方向: Analytics, Finance, Accounting, Management, CS, Law, Economics ...
   - 学位类型: MSc, MA, MSA, MBA, MBAI, LLM, JD, MiM ...
-- [ ] 数据清洗
+- [x] 数据清洗
   - 去重检查 (同名项目合并)
   - 缺失字段标注 (SMU 部分项目的 Multiple Applications / Deferral 字段为 "Not Mentioned")
   - URL 有效性校验
-- [ ] SMU.xlsx 解析并转换为统一 JSON Schema
+- [x] SMU.xlsx 解析并转换为统一 JSON Schema
 
 ### D2 — 研究生数据入库
 - [ ] 为每个项目的每个字段生成独立 chunk
