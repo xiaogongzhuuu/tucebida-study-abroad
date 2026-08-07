@@ -14,6 +14,7 @@ from agent.profile import ProfileExtractor
 from agent.retriever import Retriever
 from agent.reporter import ReportGenerator
 from agent.matcher import Matcher
+from agent.grad_retriever import GradProgramRetriever
 
 app = FastAPI(title="途策必达留学 — 智能选校 Agent")
 
@@ -21,6 +22,7 @@ profile_extractor = ProfileExtractor()
 retriever = Retriever()
 report_generator = ReportGenerator()
 matcher = Matcher()
+grad_retriever = GradProgramRetriever()
 
 
 class ProfileRequest(BaseModel):
@@ -158,6 +160,69 @@ async def match_schools_stream(req: MatchRequest):
             "X-Accel-Buffering": "no",
         },
     )
+
+
+# ── 研究生项目 API ──────────────────────────────────────────
+
+
+class GradSearchRequest(BaseModel):
+    query: str
+    top_k: int = 15
+    country: Optional[str] = None
+    school: Optional[str] = None
+    degree: Optional[str] = None
+    major_direction: Optional[str] = None
+    field: Optional[str] = None
+
+
+class GradCompareRequest(BaseModel):
+    programs: list[dict]
+
+
+@app.post("/api/grad/search")
+async def grad_search(req: GradSearchRequest):
+    result = grad_retriever.search_programs(
+        query=req.query,
+        top_k=req.top_k,
+        country=req.country,
+        school=req.school,
+        degree=req.degree,
+        major_direction=req.major_direction,
+        field=req.field,
+    )
+    return result
+
+
+@app.get("/api/grad/schools")
+async def grad_schools():
+    return grad_retriever.list_schools()
+
+
+@app.get("/api/grad/filters")
+async def grad_filters():
+    return grad_retriever.list_filter_options()
+
+
+@app.get("/api/grad/programs/{school}")
+async def grad_programs_by_school(school: str):
+    result = grad_retriever.search_by_school(school)
+    return result
+
+
+@app.get("/api/grad/program")
+async def grad_program_detail(
+    school: str = Query(...),
+    program: str = Query(..., description="program_name"),
+):
+    detail = grad_retriever.get_program_detail(school, program)
+    if detail is None:
+        return {"error": "program not found", "school": school, "program_name": program}
+    return detail
+
+
+@app.post("/api/grad/compare")
+async def grad_compare(req: GradCompareRequest):
+    return grad_retriever.compare_programs(req.programs)
 
 
 app.mount("/static", StaticFiles(directory=Path(__file__).parent / "static"), name="static")

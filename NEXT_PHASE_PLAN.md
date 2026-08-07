@@ -28,8 +28,8 @@
 | 阶段 | 天数 | 内容                                                                      |
 +------+------+---------------------------------------------------------------------------+
 | D1 | 研究生数据结构化 — 统一Schema + 数据清洗 + 打标 (国家/学校/专业方向)      | ✅ |
-| P1   | D2   | 研究生数据入库 — ChromaDB新collection + embedding + 元数据索引             |
-| P1   | D3   | 研究生检索模块 — GradProgramRetriever + /api/grad/search + 筛选API         |
+| P1   | D2   | 研究生数据入库 — ChromaDB新collection + embedding + 元数据索引             | ✅ |
+| P1   | D3   | 研究生检索模块 — GradProgramRetriever + /api/grad/search + 筛选API         | ✅ |
 | P1   | D4   | 研究生报告生成 — GradReporter (申请要求/截止日期/费用/课程 四维分析)       |
 | P1   | D5   | 前端研究生模块 — 专业搜索页 + 详情卡片 (申请材料/语言/标化/费用/奖学金)    |
 | P2   | D6   | 飞书开放接口对接 — tenant_access_token + 文档创建/写入API                  |
